@@ -1,0 +1,501 @@
+,Unnamed: 0,CAND_ID,CAND_NAME,CAND_OFFICE,CAND_ICI,STATE_FULL,PARTY_FULL,CAND_FIRST,CAND_LAST,SEARCH_QUERY,SEARCH_QUERY_W_STATE,SEARCH_URLS
+7000,7000,S2MD00560,"BERMAN, JOHN",Senate,Challenger,Maryland,Republican Party,John,Berman,John_Berman,John_Berman_(Maryland),https://ballotpedia.org/John_Berman
+7001,7001,S2MD00578,"HAWKINS, REBA",Senate,Challenger,Maryland,Republican Party,Reba,Hawkins,Reba_Hawkins,Reba_Hawkins_(Maryland),https://ballotpedia.org/Reba_Hawkins
+7002,7002,S2MD00586,"THORMANN, JOHN H. IV",Senate,Challenger,Maryland,Republican Party,John,Thormann,John_Thormann,John_Thormann_(Maryland),https://ballotpedia.org/John_Thormann
+7003,7003,S2MD00594,"PEREZ, JOSEPH MR.",Senate,Challenger,Maryland,Republican Party,Joseph,Perez,Joseph_Perez,Joseph_Perez_(Maryland),https://ballotpedia.org/Joseph_Perez
+7004,7004,S2MD00602,"FRIEND, LORIE R",Senate,,Maryland,Republican Party,Lorie,Friend,Lorie_Friend,Lorie_Friend_(Maryland),https://ballotpedia.org/Lorie_Friend
+7005,7005,S2ME00109,"KING, ANGUS S. JR.",Senate,Incumbent,Maine,Independent,Angus,King,Angus_King,Angus_King_(Maine),https://ballotpedia.org/Angus_King
+7006,7006,S2MI00268,"BRAGGS, MARNISHA BRECHE",Senate,Challenger,Michigan,Democratic Party,Marnisha,Braggs,Marnisha_Braggs,Marnisha_Braggs_(Michigan),https://ballotpedia.org/Marnisha_Braggs
+7007,7007,S2MN00316,"WHITCIMB, PATRICK",Senate,Challenger,Minnesota,Write-In,Patrick,Whitcimb,Patrick_Whitcimb,Patrick_Whitcimb_(Minnesota),https://ballotpedia.org/Patrick_Whitcimb
+7008,7008,S2MN00324,"O'NEILL, JACK COLONEL",Senate,Challenger,Minnesota,Libertarian Party,Jack,O'neill,Jack_O'neill,Jack_O'neill_(Minnesota),https://ballotpedia.org/Jack_O'neill
+7009,7009,S2MN00332,"NAVITSKY, KEN",Senate,,Minnesota,Republican Party,Ken,Navitsky,Ken_Navitsky,Ken_Navitsky_(Minnesota),https://ballotpedia.org/Ken_Navitsky
+7010,7010,S2MO00403,"STEELMAN, SARAH H",Senate,Challenger,Missouri,Republican Party,Sarah,Steelman,Sarah_Steelman,Sarah_Steelman_(Missouri),https://ballotpedia.org/Sarah_Steelman
+7011,7011,S2MO00460,"SHEPARD, TIMOTHY JACOB",Senate,Open seat,Missouri,Democratic Party,Timothy,Shepard,Timothy_Shepard,Timothy_Shepard_(Missouri),https://ballotpedia.org/Timothy_Shepard
+7012,7012,S2MO00478,"SIFTON, SCOTT MR.",Senate,Open seat,Missouri,Democratic Party,Scott,Sifton,Scott_Sifton,Scott_Sifton_(Missouri),https://ballotpedia.org/Scott_Sifton
+7013,7013,S2MO00486,"STRAUSS, NICHOLAS CRANE",Senate,Open seat,Missouri,Unknown,Nicholas,Strauss,Nicholas_Strauss,Nicholas_Strauss_(Missouri),https://ballotpedia.org/Nicholas_Strauss
+7014,7014,S2MO00494,"KELLY, JEWEL WILLIAM JR",Senate,Open seat,Missouri,Democratic Party,Jewel,Kelly,Jewel_Kelly,Jewel_Kelly_(Missouri),https://ballotpedia.org/Jewel_Kelly
+7015,7015,S2MO00502,"NICHOLAS CRANE, STRAUSS",Senate,Open seat,Missouri,New Alliance,Strauss,Nicholas crane,Strauss_Nicholas crane,Strauss_Nicholas crane_(Missouri),https://ballotpedia.org/Strauss_Nicholas crane
+7016,7016,S2MO00510,"BRINKMANN, JOHN MICHAEL",Senate,Open seat,Missouri,Republican Party,John,Brinkmann,John_Brinkmann,John_Brinkmann_(Missouri),https://ballotpedia.org/John_Brinkmann
+7017,7017,S2MO00528,"KUNCE, LUCAS",Senate,Open seat,Missouri,Democratic Party,Lucas,Kunce,Lucas_Kunce,Lucas_Kunce_(Missouri),https://ballotpedia.org/Lucas_Kunce
+7018,7018,S2MO00536,"GREITENS, ERIC",Senate,Open seat,Missouri,Republican Party,Eric,Greitens,Eric_Greitens,Eric_Greitens_(Missouri),https://ballotpedia.org/Eric_Greitens
+7019,7019,S2MO00544,"SCHMITT, ERIC",Senate,Open seat,Missouri,Republican Party,Eric,Schmitt,Eric_Schmitt,Eric_Schmitt_(Missouri),https://ballotpedia.org/Eric_Schmitt
+7020,7020,S2MO00551,"TODER, SPENCER ROSS",Senate,Open seat,Missouri,Democratic Party,Spencer,Toder,Spencer_Toder,Spencer_Toder_(Missouri),https://ballotpedia.org/Spencer_Toder
+7021,7021,S2MO00569,"PORTER, DESHON",Senate,Open seat,Missouri,Republican Party,Deshon,Porter,Deshon_Porter,Deshon_Porter_(Missouri),https://ballotpedia.org/Deshon_Porter
+7022,7022,S2MO00577,"MCQUEEN, ELDON DAN",Senate,Open seat,Missouri,Republican Party,Eldon,Mcqueen,Eldon_Mcqueen,Eldon_Mcqueen_(Missouri),https://ballotpedia.org/Eldon_Mcqueen
+7023,7023,S2MO00585,"MCCLOSKEY, MARK T",Senate,Open seat,Missouri,Republican Party,Mark,Mccloskey,Mark_Mccloskey,Mark_Mccloskey_(Missouri),https://ballotpedia.org/Mark_Mccloskey
+7024,7024,S2MO00593,"HARTZLER, VICKY J",Senate,Open seat,Missouri,Republican Party,Vicky,Hartzler,Vicky_Hartzler,Vicky_Hartzler_(Missouri),https://ballotpedia.org/Vicky_Hartzler
+7025,7025,S2MO00601,"PRICE, STEVEN CRAIG",Senate,Open seat,Missouri,Independent,Steven,Price,Steven_Price,Steven_Price_(Missouri),https://ballotpedia.org/Steven_Price
+7026,7026,S2MO00627,"SIMS, DAVID E. MR.",Senate,Open seat,Missouri,Republican Party,David,Sims,David_Sims,David_Sims_(Missouri),https://ballotpedia.org/David_Sims
+7027,7027,S2MO00635,"ALAM, MD RABBI DR",Senate,Open seat,Missouri,Democratic Party,Md,Alam,Md_Alam,Md_Alam_(Missouri),https://ballotpedia.org/Md_Alam
+7028,7028,S2MO00643,"SCHATZ, DAVE",Senate,Open seat,Missouri,Republican Party,Dave,Schatz,Dave_Schatz,Dave_Schatz_(Missouri),https://ballotpedia.org/Dave_Schatz
+7029,7029,S2MO00650,"ROSS, GENA DR.",Senate,Open seat,Missouri,Democratic Party,Gena,Ross,Gena_Ross,Gena_Ross_(Missouri),https://ballotpedia.org/Gena_Ross
+7030,7030,S2MO00668,"TUNNELL, LEONARD",Senate,Open seat,Missouri,Republican Party,Leonard,Tunnell,Leonard_Tunnell,Leonard_Tunnell_(Missouri),https://ballotpedia.org/Leonard_Tunnell
+7031,7031,S2MO00676,"HURLA, ANDREW",Senate,Open seat,Missouri,Democratic Party,Andrew,Hurla,Andrew_Hurla,Andrew_Hurla_(Missouri),https://ballotpedia.org/Andrew_Hurla
+7032,7032,S2MO00684,"ROLEN, LEWIS WARREN MR.",Senate,Open seat,Missouri,Democratic Party,Lewis,Rolen,Lewis_Rolen,Lewis_Rolen_(Missouri),https://ballotpedia.org/Lewis_Rolen
+7033,7033,S2MO00692,"BUSCH VALENTINE, TRUDY",Senate,Open seat,Missouri,Democratic Party,Trudy,Busch valentine,Trudy_Busch valentine,Trudy_Busch valentine_(Missouri),https://ballotpedia.org/Trudy_Busch valentine
+7034,7034,S2MO00700,"JOINER, RICKY",Senate,,Missouri,Republican Party,Ricky,Joiner,Ricky_Joiner,Ricky_Joiner_(Missouri),https://ballotpedia.org/Ricky_Joiner
+7035,7035,S2MT00096,"DAINES, STEVE",Senate,Incumbent,Montana,Republican Party,Steve,Daines,Steve_Daines,Steve_Daines_(Montana),https://ballotpedia.org/Steve_Daines
+7036,7036,S2NC00273,"BRIAN, LEE ANDREA MS",Senate,Open seat,North Carolina,Republican Party,Lee,Brian,Lee_Brian,Lee_Brian_(North Carolina),https://ballotpedia.org/Lee_Brian
+7037,7037,S2NC00281,"RORIE, WINTER MS",Senate,Challenger,North Carolina,Democratic Party,Winter,Rorie,Winter_Rorie,Winter_Rorie_(North Carolina),https://ballotpedia.org/Winter_Rorie
+7038,7038,S2NC00299,"BOYETTE, HAYDEN ZEL MR NONE",Senate,Open seat,North Carolina,Independent,Hayden,Boyette,Hayden_Boyette,Hayden_Boyette_(North Carolina),https://ballotpedia.org/Hayden_Boyette
+7039,7039,S2NC00307,"WALKER, BRADLEY MARK",Senate,Open seat,North Carolina,Republican Party,Bradley,Walker,Bradley_Walker,Bradley_Walker_(North Carolina),https://ballotpedia.org/Bradley_Walker
+7040,7040,S2NC00331,"DAVENPORT, KEITH",Senate,Open seat,North Carolina,Democratic Party,Keith,Davenport,Keith_Davenport,Keith_Davenport_(North Carolina),https://ballotpedia.org/Keith_Davenport
+7041,7041,S2NC00349,"BORGHESE, RENE",Senate,Open seat,North Carolina,Republican Party,Rene,Borghese,Rene_Borghese,Rene_Borghese_(North Carolina),https://ballotpedia.org/Rene_Borghese
+7042,7042,S2NC00356,"JACKSON, JEFF",Senate,Open seat,North Carolina,Democratic Party,Jeff,Jackson,Jeff_Jackson,Jeff_Jackson_(North Carolina),https://ballotpedia.org/Jeff_Jackson
+7043,7043,S2NC00364,"ELLERBY, CARLTON",Senate,Open seat,North Carolina,Republican Party,Carlton,Ellerby,Carlton_Ellerby,Carlton_Ellerby_(North Carolina),https://ballotpedia.org/Carlton_Ellerby
+7044,7044,S2NC00372,"EDWARDS, AVA MARIE",Senate,Open seat,North Carolina,Democratic Party,Ava,Edwards,Ava_Edwards,Ava_Edwards_(North Carolina),https://ballotpedia.org/Ava_Edwards
+7045,7045,S2NC00380,"GAGHAN, JAMES M",Senate,Open seat,North Carolina,Republican Party,James,Gaghan,James_Gaghan,James_Gaghan_(North Carolina),https://ballotpedia.org/James_Gaghan
+7046,7046,S2NC00398,"LAGRONE, TOBIAS EVERETT DR.",Senate,Open seat,North Carolina,Democratic Party,Tobias,Lagrone,Tobias_Lagrone,Tobias_Lagrone_(North Carolina),https://ballotpedia.org/Tobias_Lagrone
+7047,7047,S2NC00406,"WATKINS, RICHARD LEE DR.",Senate,Open seat,North Carolina,Democratic Party,Richard,Watkins,Richard_Watkins,Richard_Watkins_(North Carolina),https://ballotpedia.org/Richard_Watkins
+7048,7048,S2NC00414,"RHOADS, CHRISTINA",Senate,Challenger,North Carolina,Republican Party,Christina,Rhoads,Christina_Rhoads,Christina_Rhoads_(North Carolina),https://ballotpedia.org/Christina_Rhoads
+7049,7049,S2NC00422,"RHINEHARDT, KIMREY WOODARD MRS.",Senate,Open seat,North Carolina,Unaffiliated,Kimrey,Rhinehardt,Kimrey_Rhinehardt,Kimrey_Rhinehardt_(North Carolina),https://ballotpedia.org/Kimrey_Rhinehardt
+7050,7050,S2NC00430,"HAMRICK, JENNA",Senate,Open seat,North Carolina,Democratic Party,Jenna,Hamrick,Jenna_Hamrick,Jenna_Hamrick_(North Carolina),https://ballotpedia.org/Jenna_Hamrick
+7051,7051,S2NC00448,"GRIFFITHS, BENJAMIN",Senate,Open seat,North Carolina,Republican Party,Benjamin,Griffiths,Benjamin_Griffiths,Benjamin_Griffiths_(North Carolina),https://ballotpedia.org/Benjamin_Griffiths
+7052,7052,S2NC00455,"RODRIGUEZ, BRENDA LANEY",Senate,Open seat,North Carolina,Independent,Brenda,Rodriguez,Brenda_Rodriguez,Brenda_Rodriguez_(North Carolina),https://ballotpedia.org/Brenda_Rodriguez
+7053,7053,S2NC00463,"LANEY RODRIGUEZ, BRENDA",Senate,Open seat,North Carolina,Independent,Brenda,Laney rodriguez,Brenda_Laney rodriguez,Brenda_Laney rodriguez_(North Carolina),https://ballotpedia.org/Brenda_Laney rodriguez
+7054,7054,S2NC00471,"NEWTON, EVERETTE (RETT) S.",Senate,Open seat,North Carolina,Democratic Party,Everette,Newton,Everette_Newton,Everette_Newton_(North Carolina),https://ballotpedia.org/Everette_Newton
+7055,7055,S2NC00489,"MCCRORY, PATRICK LLOYD",Senate,Open seat,North Carolina,Republican Party,Patrick,Mccrory,Patrick_Mccrory,Patrick_Mccrory_(North Carolina),https://ballotpedia.org/Patrick_Mccrory
+7056,7056,S2NC00497,"BEASLEY, CHERI",Senate,Open seat,North Carolina,Democratic Party,Cheri,Beasley,Cheri_Beasley,Cheri_Beasley_(North Carolina),https://ballotpedia.org/Cheri_Beasley
+7057,7057,S2NC00505,"BUDD, THEODORE P",Senate,Open seat,North Carolina,Republican Party,Theodore,Budd,Theodore_Budd,Theodore_Budd_(North Carolina),https://ballotpedia.org/Theodore_Budd
+7058,7058,S2NC00513,"BANWART, JENNIFER ALEXIS",Senate,Open seat,North Carolina,Republican Party,Jennifer,Banwart,Jennifer_Banwart,Jennifer_Banwart_(North Carolina),https://ballotpedia.org/Jennifer_Banwart
+7059,7059,S2NC00521,"HARPER JR., KENNETH JABARI",Senate,Open seat,North Carolina,Republican Party,Kenneth,Harper jr.,Kenneth_Harper jr.,Kenneth_Harper jr._(North Carolina),https://ballotpedia.org/Kenneth_Harper jr.
+7060,7060,S2NC00539,"COOKE, JOHN MARTIN MR. JR.",Senate,Open seat,North Carolina,Republican Party,John,Cooke,John_Cooke,John_Cooke_(North Carolina),https://ballotpedia.org/John_Cooke
+7061,7061,S2NC00547,"SIBHATU, LICHIA WOLDEGABREAL",Senate,Open seat,North Carolina,Republican Party,Lichia,Sibhatu,Lichia_Sibhatu,Lichia_Sibhatu_(North Carolina),https://ballotpedia.org/Lichia_Sibhatu
+7062,7062,S2NC00554,"BOOKER, PATRICE CHRELLE",Senate,Open seat,North Carolina,Democratic Party,Patrice,Booker,Patrice_Booker,Patrice_Booker_(North Carolina),https://ballotpedia.org/Patrice_Booker
+7063,7063,S2NC00562,"HOH, MATTHEW PATRICK MR",Senate,Open seat,North Carolina,Green Party,Matthew,Hoh,Matthew_Hoh,Matthew_Hoh_(North Carolina),https://ballotpedia.org/Matthew_Hoh
+7064,7064,S2NC00570,"CARR, JAMES LESTER MR. JR.",Senate,Open seat,North Carolina,Democratic Party,James,Carr,James_Carr,James_Carr_(North Carolina),https://ballotpedia.org/James_Carr
+7065,7065,S2NC00588,"EASTMAN, MAJORIE K",Senate,Open seat,North Carolina,Republican Party,Majorie,Eastman,Majorie_Eastman,Majorie_Eastman_(North Carolina),https://ballotpedia.org/Majorie_Eastman
+7066,7066,S2NC00596,"BRYANT, LEONARD L",Senate,Open seat,North Carolina,Republican Party,Leonard,Bryant,Leonard_Bryant,Leonard_Bryant_(North Carolina),https://ballotpedia.org/Leonard_Bryant
+7067,7067,S2NC00604,"BULECZA, ANDREW JOHN MR. 3RD",Senate,Open seat,North Carolina,Republican Party,Andrew,Bulecza,Andrew_Bulecza,Andrew_Bulecza_(North Carolina),https://ballotpedia.org/Andrew_Bulecza
+7068,7068,S2NC00612,"MOSS, CHARLES KENNETH",Senate,Open seat,North Carolina,Republican Party,Charles,Moss,Charles_Moss,Charles_Moss_(North Carolina),https://ballotpedia.org/Charles_Moss
+7069,7069,S2NC00620,"JOHNSON, CONSTANCE LOV",Senate,Open seat,North Carolina,Democratic Party,Constance,Johnson,Constance_Johnson,Constance_Johnson_(North Carolina),https://ballotpedia.org/Constance_Johnson
+7070,7070,S2NC00638,"SHARMA, SIDDHANTH",Senate,Open seat,North Carolina,Republican Party,Siddhanth,Sharma,Siddhanth_Sharma,Siddhanth_Sharma_(North Carolina),https://ballotpedia.org/Siddhanth_Sharma
+7071,7071,S2NC00646,"SHARMA, SIDDHANTH",Senate,Open seat,North Carolina,Republican Party,Siddhanth,Sharma,Siddhanth_Sharma,Siddhanth_Sharma_(North Carolina),https://ballotpedia.org/Siddhanth_Sharma
+7072,7072,S2NC00653,"WARREN, JONATHAN II",Senate,Open seat,North Carolina,Republican Party,Jonathan,Warren,Jonathan_Warren,Jonathan_Warren_(North Carolina),https://ballotpedia.org/Jonathan_Warren
+7073,7073,S2NC00661,"WHITE, MARC MICHAEL",Senate,Open seat,North Carolina,Unaffiliated,Marc,White,Marc_White,Marc_White_(North Carolina),https://ballotpedia.org/Marc_White
+7074,7074,S2NC00679,"LEWIS, MICHELLE ESTELLE",Senate,Open seat,North Carolina,Unaffiliated,Michelle,Lewis,Michelle_Lewis,Michelle_Lewis_(North Carolina),https://ballotpedia.org/Michelle_Lewis
+7075,7075,S2NC00687,"MCBRIDE, LEN MCBRIDE",Senate,Open seat,North Carolina,Republican Party,Len,Mcbride,Len_Mcbride,Len_Mcbride_(North Carolina),https://ballotpedia.org/Len_Mcbride
+7076,7076,S2NC00695,"MCBRIDE, LEN MCBRIDE",Senate,Open seat,North Carolina,Republican Party,Len,Mcbride,Len_Mcbride,Len_Mcbride_(North Carolina),https://ballotpedia.org/Len_Mcbride
+7077,7077,S2NC00703,"MCBRIDE, LEN MCBRIDE",Senate,Open seat,North Carolina,Republican Party,Len,Mcbride,Len_Mcbride,Len_Mcbride_(North Carolina),https://ballotpedia.org/Len_Mcbride
+7078,7078,S2NC00711,"ANTOINE, GREGORY DR.",Senate,Open seat,North Carolina,Democratic Party,Gregory,Antoine,Gregory_Antoine,Gregory_Antoine_(North Carolina),https://ballotpedia.org/Gregory_Antoine
+7079,7079,S2NC00729,"MAGINNIS, BRENDAN",Senate,Open seat,North Carolina,Democratic Party,Brendan,Maginnis,Brendan_Maginnis,Brendan_Maginnis_(North Carolina),https://ballotpedia.org/Brendan_Maginnis
+7080,7080,S2NC00737,"HAMMOND, ALYSSIA ROSE-KATHERINE",Senate,Open seat,North Carolina,Democratic Party,Alyssia,Hammond,Alyssia_Hammond,Alyssia_Hammond_(North Carolina),https://ballotpedia.org/Alyssia_Hammond
+7081,7081,S2NC00745,"COLON, ROBERT",Senate,,North Carolina,Democratic Party,Robert,Colon,Robert_Colon,Robert_Colon_(North Carolina),https://ballotpedia.org/Robert_Colon
+7082,7082,S2ND00040,"DORGAN, BYRON L",Senate,Challenger,North Dakota,Democratic Party,Byron,Dorgan,Byron_Dorgan,Byron_Dorgan_(North Dakota),https://ballotpedia.org/Byron_Dorgan
+7083,7083,S2ND00099,"HEITKAMP, HEIDI",Senate,Incumbent,North Dakota,Democratic Party,Heidi,Heitkamp,Heidi_Heitkamp,Heidi_Heitkamp_(North Dakota),https://ballotpedia.org/Heidi_Heitkamp
+7084,7084,S2ND00107,"STEELE, MICHAEL REVEREND",Senate,Challenger,North Dakota,Democratic Party,Michael,Steele,Michael_Steele,Michael_Steele_(North Dakota),https://ballotpedia.org/Michael_Steele
+7085,7085,S2ND00115,"BECKER, RICK CLARK",Senate,Challenger,North Dakota,Republican Party,Rick,Becker,Rick_Becker,Rick_Becker_(North Dakota),https://ballotpedia.org/Rick_Becker
+7086,7086,S2ND00123,"CHRISTIANSEN, KATRINA",Senate,Challenger,North Dakota,Democratic Party,Katrina,Christiansen,Katrina_Christiansen,Katrina_Christiansen_(North Dakota),https://ballotpedia.org/Katrina_Christiansen
+7087,7087,S2NE00094,"FISCHER, DEBRA S.",Senate,Incumbent,Nebraska,Republican Party,Debra,Fischer,Debra_Fischer,Debra_Fischer_(Nebraska),https://ballotpedia.org/Debra_Fischer
+7088,7088,S2NH00207,"SIVALINGAM, TEJASINHA",Senate,Challenger,New Hampshire,Republican Party,Tejasinha,Sivalingam,Tejasinha_Sivalingam,Tejasinha_Sivalingam_(New Hampshire),https://ballotpedia.org/Tejasinha_Sivalingam
+7089,7089,S2NH00215,"LAMARE, DENNIS R",Senate,Challenger,New Hampshire,Republican Party,Dennis,Lamare,Dennis_Lamare,Dennis_Lamare_(New Hampshire),https://ballotpedia.org/Dennis_Lamare
+7090,7090,S2NH00223,"LAPLANTE, EDMOND JOSEPH JR",Senate,Challenger,New Hampshire,,Edmond,Laplante,Edmond_Laplante,Edmond_Laplante_(New Hampshire),https://ballotpedia.org/Edmond_Laplante
+7091,7091,S2NH00231,"SMITH, KEVIN H.",Senate,Challenger,New Hampshire,Republican Party,Kevin,Smith,Kevin_Smith,Kevin_Smith_(New Hampshire),https://ballotpedia.org/Kevin_Smith
+7092,7092,S2NH00249,"MORSE, CHUCK",Senate,Challenger,New Hampshire,Republican Party,Chuck,Morse,Chuck_Morse,Chuck_Morse_(New Hampshire),https://ballotpedia.org/Chuck_Morse
+7093,7093,S2NH00256,"KAUFFMAN, JEREMY",Senate,Challenger,New Hampshire,Libertarian Party,Jeremy,Kauffman,Jeremy_Kauffman,Jeremy_Kauffman_(New Hampshire),https://ballotpedia.org/Jeremy_Kauffman
+7094,7094,S2NH00264,"SHARPE, THOMAS V",Senate,Challenger,New Hampshire,Other,Thomas,Sharpe,Thomas_Sharpe,Thomas_Sharpe_(New Hampshire),https://ballotpedia.org/Thomas_Sharpe
+7095,7095,S2NH00272,"MANSHARAMANI, VIKRAM",Senate,,New Hampshire,Republican Party,Vikram,Mansharamani,Vikram_Mansharamani,Vikram_Mansharamani_(New Hampshire),https://ballotpedia.org/Vikram_Mansharamani
+7096,7096,S2NJ00080,"LAUTENBERG, FRANK R",Senate,Challenger,New Jersey,Democratic Party,Frank,Lautenberg,Frank_Lautenberg,Frank_Lautenberg_(New Jersey),https://ballotpedia.org/Frank_Lautenberg
+7097,7097,S2NJ00494,"SELBY, QUADIR",Senate,Challenger,New Jersey,Democratic Party,Quadir,Selby,Quadir_Selby,Quadir_Selby_(New Jersey),https://ballotpedia.org/Quadir_Selby
+7098,7098,S2NJ00502,"SOPRANO, TONY MR",Senate,Challenger,New Jersey,Peace And Freedom,Tony,Soprano,Tony_Soprano,Tony_Soprano_(New Jersey),https://ballotpedia.org/Tony_Soprano
+7099,7099,S2NJ00510,"MCDONALD, REECE WRIGHT- MASTER MASTER",Senate,Challenger,New Jersey,Freedom Labor Party,Reece,Mcdonald,Reece_Mcdonald,Reece_Mcdonald_(New Jersey),https://ballotpedia.org/Reece_Mcdonald
+7100,7100,S2NJ00528,"PRUDENCIANO, JAMES",Senate,Challenger,New Jersey,Republican Party,James,Prudenciano,James_Prudenciano,James_Prudenciano_(New Jersey),https://ballotpedia.org/James_Prudenciano
+7101,7101,S2NM00070,"SOWARDS, GREG",Senate,Open seat,New Mexico,Republican Party,Greg,Sowards,Greg_Sowards,Greg_Sowards_(New Mexico),https://ballotpedia.org/Greg_Sowards
+7102,7102,S2NM00088,"HEINRICH, MARTIN",Senate,Incumbent,New Mexico,Democratic Party,Martin,Heinrich,Martin_Heinrich,Martin_Heinrich_(New Mexico),https://ballotpedia.org/Martin_Heinrich
+7103,7103,S2NM00138,"JENNINGS, EMANUAL",Senate,Challenger,New Mexico,American People's Freedom Party,Emanual,Jennings,Emanual_Jennings,Emanual_Jennings_(New Mexico),https://ballotpedia.org/Emanual_Jennings
+7104,7104,S2NV00183,"HELLER, DEAN",Senate,Incumbent,Nevada,Republican Party,Dean,Heller,Dean_Heller,Dean_Heller_(Nevada),https://ballotpedia.org/Dean_Heller
+7105,7105,S2NV00282,"GRIFFIN, PETER JOHN",Senate,Challenger,Nevada,Communist Party,Peter,Griffin,Peter_Griffin,Peter_Griffin_(Nevada),https://ballotpedia.org/Peter_Griffin
+7106,7106,S2NV00290,"MENDENHALL, SHARELLE",Senate,Challenger,Nevada,Republican Party,Sharelle,Mendenhall,Sharelle_Mendenhall,Sharelle_Mendenhall_(Nevada),https://ballotpedia.org/Sharelle_Mendenhall
+7107,7107,S2NV00308,"BROWN, SAM",Senate,Challenger,Nevada,Republican Party,Sam,Brown,Sam_Brown,Sam_Brown_(Nevada),https://ballotpedia.org/Sam_Brown
+7108,7108,S2NV00316,"LOWE, GRETCHEN RAE",Senate,Challenger,Nevada,No Party Affiliation,Gretchen,Lowe,Gretchen_Lowe,Gretchen_Lowe_(Nevada),https://ballotpedia.org/Gretchen_Lowe
+7109,7109,S2NV00324,"LAXALT, ADAM",Senate,Challenger,Nevada,Republican Party,Adam,Laxalt,Adam_Laxalt,Adam_Laxalt_(Nevada),https://ballotpedia.org/Adam_Laxalt
+7110,7110,S2NV00332,"HOCKSTEDLER, WILLIAM ERIC",Senate,Challenger,Nevada,Republican Party,William,Hockstedler,William_Hockstedler,William_Hockstedler_(Nevada),https://ballotpedia.org/William_Hockstedler
+7111,7111,S2NV00340,"DESTIN, JOSEPH J",Senate,Challenger,Nevada,No Party Affiliation,Joseph,Destin,Joseph_Destin,Joseph_Destin_(Nevada),https://ballotpedia.org/Joseph_Destin
+7112,7112,S2NV00357,"REID, COREY",Senate,,Nevada,Democratic Party,Corey,Reid,Corey_Reid,Corey_Reid_(Nevada),https://ballotpedia.org/Corey_Reid
+7113,7113,S2NY00259,"LONG, WENDY",Senate,Challenger,New York,Republican Party,Wendy,Long,Wendy_Long,Wendy_Long_(New York),https://ballotpedia.org/Wendy_Long
+7114,7114,S2NY00325,"SARE, DIANE WILSON MS",Senate,Challenger,New York,Independent,Diane,Sare,Diane_Sare,Diane_Sare_(New York),https://ballotpedia.org/Diane_Sare
+7115,7115,S2NY00333,"MANTANONA, NICHOLAS MR",Senate,Challenger,New York,Independent,Nicholas,Mantanona,Nicholas_Mantanona,Nicholas_Mantanona_(New York),https://ballotpedia.org/Nicholas_Mantanona
+7116,7116,S2NY00341,"ANABILAH-AZUMAH, JOEL MR",Senate,Challenger,New York,No Party Affiliation,Joel,Anabilah-azumah,Joel_Anabilah-azumah,Joel_Anabilah-azumah_(New York),https://ballotpedia.org/Joel_Anabilah-azumah
+7117,7117,S2NY00358,"YOUNG, ALEEM MR.",Senate,Challenger,New York,Democratic Party,Aleem,Young,Aleem_Young,Aleem_Young_(New York),https://ballotpedia.org/Aleem_Young
+7118,7118,S2NY00366,"MUGULUSI, MOSES R",Senate,Challenger,New York,Democratic Party,Moses,Mugulusi,Moses_Mugulusi,Moses_Mugulusi_(New York),https://ballotpedia.org/Moses_Mugulusi
+7119,7119,S2NY00374,"BEN-AVI, TYRRELL LEV",Senate,Challenger,New York,Republican Party,Tyrrell,Ben-avi,Tyrrell_Ben-avi,Tyrrell_Ben-avi_(New York),https://ballotpedia.org/Tyrrell_Ben-avi
+7120,7120,S2NY00382,"DRIGGERS, CALVIN JOB",Senate,Challenger,New York,Republican Party,Calvin,Driggers,Calvin_Driggers,Calvin_Driggers_(New York),https://ballotpedia.org/Calvin_Driggers
+7121,7121,S2NY00390,"HAHN, PATRICK JOHN",Senate,Challenger,New York,Republican Party,Patrick,Hahn,Patrick_Hahn,Patrick_Hahn_(New York),https://ballotpedia.org/Patrick_Hahn
+7122,7122,S2NY00408,"SAIDE, AHMAD DR",Senate,Challenger,New York,None,Ahmad,Saide,Ahmad_Saide,Ahmad_Saide_(New York),https://ballotpedia.org/Ahmad_Saide
+7123,7123,S2NY00416,"EISEN, JOSHUA DR",Senate,Challenger,New York,Republican Party,Joshua,Eisen,Joshua_Eisen,Joshua_Eisen_(New York),https://ballotpedia.org/Joshua_Eisen
+7124,7124,S2NY00424,"CUOMO, ANDREA J.",Senate,Challenger,New York,Communist Party,Andrea,Cuomo,Andrea_Cuomo,Andrea_Cuomo_(New York),https://ballotpedia.org/Andrea_Cuomo
+7125,7125,S2NY00432,"OCASIO-CORTEZ, ALEXANDRI?",Senate,Challenger,New York,Democratic Party,Alexandri?,Ocasio-cortez,Alexandri?_Ocasio-cortez,Alexandri?_Ocasio-cortez_(New York),https://ballotpedia.org/Alexandri?_Ocasio-cortez
+7126,7126,S2NY00440,"MICI, ALEKSANDER",Senate,Challenger,New York,Republican Party,Aleksander,Mici,Aleksander_Mici,Aleksander_Mici_(New York),https://ballotpedia.org/Aleksander_Mici
+7127,7127,S2NY00457,"BAKISH, ROBERT MARC MR",Senate,Challenger,New York,Republican Party,Robert,Bakish,Robert_Bakish,Robert_Bakish_(New York),https://ballotpedia.org/Robert_Bakish
+7128,7128,S2NY00465,"NASCIMBENE, LUCA",Senate,Challenger,New York,Write-In,Luca,Nascimbene,Luca_Nascimbene,Luca_Nascimbene_(New York),https://ballotpedia.org/Luca_Nascimbene
+7129,7129,S2NY00473,"SZUSZKIEWICZ, MARK",Senate,Challenger,New York,Republican Party,Mark,Szuszkiewicz,Mark_Szuszkiewicz,Mark_Szuszkiewicz_(New York),https://ballotpedia.org/Mark_Szuszkiewicz
+7130,7130,S2NY00481,"AHMED, MOHAMMAD MOKHTAR",Senate,Challenger,New York,Veterans Party,Mohammad,Ahmed,Mohammad_Ahmed,Mohammad_Ahmed_(New York),https://ballotpedia.org/Mohammad_Ahmed
+7131,7131,S2NY00499,"PINION, JOSEPH III",Senate,Challenger,New York,Republican Party,Joseph,Pinion,Joseph_Pinion,Joseph_Pinion_(New York),https://ballotpedia.org/Joseph_Pinion
+7132,7132,S2NY00507,"MASTERSON, WALTER JOSEPH",Senate,Challenger,New York,Other,Walter,Masterson,Walter_Masterson,Walter_Masterson_(New York),https://ballotpedia.org/Walter_Masterson
+7133,7133,S2NY00515,"ALEXANDER, VIVIKA",Senate,Challenger,New York,,Vivika,Alexander,Vivika_Alexander,Vivika_Alexander_(New York),https://ballotpedia.org/Vivika_Alexander
+7134,7134,S2OH00170,"MANDEL, JOSHUA A.",Senate,Open seat,Ohio,Republican Party,Joshua,Mandel,Joshua_Mandel,Joshua_Mandel_(Ohio),https://ballotpedia.org/Joshua_Mandel
+7135,7135,S2OH00279,"LACAVERA, DOMINIC JAMES JR.",Senate,Open seat,Ohio,Libertarian Party,Dominic,Lacavera,Dominic_Lacavera,Dominic_Lacavera_(Ohio),https://ballotpedia.org/Dominic_Lacavera
+7136,7136,S2OH00287,"PUKITA, MARK MR.",Senate,Open seat,Ohio,Republican Party,Mark,Pukita,Mark_Pukita,Mark_Pukita_(Ohio),https://ballotpedia.org/Mark_Pukita
+7137,7137,S2OH00295,"TAYLOR, SHANNON MARIE",Senate,Open seat,Ohio,Libertarian Party,Shannon,Taylor,Shannon_Taylor,Shannon_Taylor_(Ohio),https://ballotpedia.org/Shannon_Taylor
+7138,7138,S2OH00303,"MOUSOURAKIS, SHAWN",Senate,Open seat,Ohio,Veterans Party,Shawn,Mousourakis,Shawn_Mousourakis,Shawn_Mousourakis_(Ohio),https://ballotpedia.org/Shawn_Mousourakis
+7139,7139,S2OH00311,"MUSICK, ZACHARY THOMAS HOWARD",Senate,Open seat,Ohio,Republican Party,Zachary,Musick,Zachary_Musick,Zachary_Musick_(Ohio),https://ballotpedia.org/Zachary_Musick
+7140,7140,S2OH00329,"LEIPOLD, MICHAEL D MR. SR.",Senate,Open seat,Ohio,Republican Party,Michael,Leipold,Michael_Leipold,Michael_Leipold_(Ohio),https://ballotpedia.org/Michael_Leipold
+7141,7141,S2OH00337,"MEIRING, ERIC RICHARD REVEREND",Senate,Open seat,Ohio,Independent,Eric,Meiring,Eric_Meiring,Eric_Meiring_(Ohio),https://ballotpedia.org/Eric_Meiring
+7142,7142,S2OH00345,"PATEL, NIRANJAN NEIL",Senate,Open seat,Ohio,Republican Party,Niranjan,Patel,Niranjan_Patel,Niranjan_Patel_(Ohio),https://ballotpedia.org/Niranjan_Patel
+7143,7143,S2OH00352,"THOMPSON, MACKENZIE",Senate,Open seat,Ohio,Republican Party,Mackenzie,Thompson,Mackenzie_Thompson,Mackenzie_Thompson_(Ohio),https://ballotpedia.org/Mackenzie_Thompson
+7144,7144,S2OH00360,"TIMKEN, JANE",Senate,Open seat,Ohio,Republican Party,Jane,Timken,Jane_Timken,Jane_Timken_(Ohio),https://ballotpedia.org/Jane_Timken
+7145,7145,S2OH00378,"TAYLOR, RICHARD T",Senate,Open seat,Ohio,Democratic Party,Richard,Taylor,Richard_Taylor,Richard_Taylor_(Ohio),https://ballotpedia.org/Richard_Taylor
+7146,7146,S2OH00386,"MORENO, BERNIE",Senate,Open seat,Ohio,Republican Party,Bernie,Moreno,Bernie_Moreno,Bernie_Moreno_(Ohio),https://ballotpedia.org/Bernie_Moreno
+7147,7147,S2OH00394,"BERMAN, JOHN",Senate,Open seat,Ohio,Republican Party,John,Berman,John_Berman,John_Berman_(Ohio),https://ballotpedia.org/John_Berman
+7148,7148,S2OH00402,"RYAN, TIMOTHY",Senate,Open seat,Ohio,Democratic Party,Timothy,Ryan,Timothy_Ryan,Timothy_Ryan_(Ohio),https://ballotpedia.org/Timothy_Ryan
+7149,7149,S2OH00410,"RONAN, SAMUEL",Senate,Open seat,Ohio,Independent,Samuel,Ronan,Samuel_Ronan,Samuel_Ronan_(Ohio),https://ballotpedia.org/Samuel_Ronan
+7150,7150,S2OH00428,"SHEFFEY, DEMAR",Senate,Open seat,Ohio,Democratic Party,Demar,Sheffey,Demar_Sheffey,Demar_Sheffey_(Ohio),https://ballotpedia.org/Demar_Sheffey
+7151,7151,S2OH00436,"VANCE, J D",Senate,Open seat,Ohio,Republican Party,J,Vance,J_Vance,J_Vance_(Ohio),https://ballotpedia.org/J_Vance
+7152,7152,S2OH00444,"REED, JOHN ALLEN",Senate,Open seat,Ohio,Republican Party,John,Reed,John_Reed,John_Reed_(Ohio),https://ballotpedia.org/John_Reed
+7153,7153,S2OH00451,"HOLT, MIKE",Senate,Open seat,Ohio,Republican Party,Mike,Holt,Mike_Holt,Mike_Holt_(Ohio),https://ballotpedia.org/Mike_Holt
+7154,7154,S2OH00469,"HARPER, MORGAN",Senate,Open seat,Ohio,Democratic Party,Morgan,Harper,Morgan_Harper,Morgan_Harper_(Ohio),https://ballotpedia.org/Morgan_Harper
+7155,7155,S2OH00477,"DOLAN, MATT",Senate,Open seat,Ohio,Republican Party,Matt,Dolan,Matt_Dolan,Matt_Dolan_(Ohio),https://ballotpedia.org/Matt_Dolan
+7156,7156,S2OH00485,"GRAHAM, ROBERT WILLIAM MR.",Senate,Open seat,Ohio,Republican Party,Robert,Graham,Robert_Graham,Robert_Graham_(Ohio),https://ballotpedia.org/Robert_Graham
+7157,7157,S2OH00493,"TINSLEY, LASHONDRA",Senate,Open seat,Ohio,Democratic Party,Lashondra,Tinsley,Lashondra_Tinsley,Lashondra_Tinsley_(Ohio),https://ballotpedia.org/Lashondra_Tinsley
+7158,7158,S2OH00501,"TAYLOR, CHAD A",Senate,Open seat,Ohio,Unaffiliated,Chad,Taylor,Chad_Taylor,Chad_Taylor_(Ohio),https://ballotpedia.org/Chad_Taylor
+7159,7159,S2OH00519,"PRATHER, KELLI",Senate,Open seat,Ohio,Independent,Kelli,Prather,Kelli_Prather,Kelli_Prather_(Ohio),https://ballotpedia.org/Kelli_Prather
+7160,7160,S2OH00527,"GRAHAM, ROBERT WILLIAM",Senate,Open seat,Ohio,Write-In,Robert,Graham,Robert_Graham,Robert_Graham_(Ohio),https://ballotpedia.org/Robert_Graham
+7161,7161,S2OH00535,"TAYLOR, CHAD ALAN",Senate,Open seat,Ohio,Write-In,Chad,Taylor,Chad_Taylor,Chad_Taylor_(Ohio),https://ballotpedia.org/Chad_Taylor
+7162,7162,S2OH00543,"JOHNSON, TRACI TJ",Senate,,Ohio,Democratic Party,Traci,Johnson,Traci_Johnson,Traci_Johnson_(Ohio),https://ballotpedia.org/Traci_Johnson
+7163,7163,S2OK00111,"LAHMEYER, JACKSON RHODES",Senate,Challenger,Oklahoma,Republican Party,Jackson,Lahmeyer,Jackson_Lahmeyer,Jackson_Lahmeyer_(Oklahoma),https://ballotpedia.org/Jackson_Lahmeyer
+7164,7164,S2OK00129,"FARR, JOAN E. MS.",Senate,Challenger,Oklahoma,Republican Party,Joan,Farr,Joan_Farr,Joan_Farr_(Oklahoma),https://ballotpedia.org/Joan_Farr
+7165,7165,S2OK00137,"BOLLINGER, JASON",Senate,Challenger,Oklahoma,Democratic Party,Jason,Bollinger,Jason_Bollinger,Jason_Bollinger_(Oklahoma),https://ballotpedia.org/Jason_Bollinger
+7166,7166,S2OK00145,"DAHM, NATHAN",Senate,Challenger,Oklahoma,Republican Party,Nathan,Dahm,Nathan_Dahm,Nathan_Dahm_(Oklahoma),https://ballotpedia.org/Nathan_Dahm
+7167,7167,S2OK00152,"HORN, MADISON",Senate,Challenger,Oklahoma,Democratic Party,Madison,Horn,Madison_Horn,Madison_Horn_(Oklahoma),https://ballotpedia.org/Madison_Horn
+7168,7168,S2OK00160,"GARRISON, JESSICA JEAN",Senate,Challenger,Oklahoma,Republican Party,Jessica,Garrison,Jessica_Garrison,Jessica_Garrison_(Oklahoma),https://ballotpedia.org/Jessica_Garrison
+7169,7169,S2OK00178,"GLENN, JO STANLEY MS",Senate,Challenger,Oklahoma,Democratic Party,Jo,Glenn,Jo_Glenn,Jo_Glenn_(Oklahoma),https://ballotpedia.org/Jo_Glenn
+7170,7170,S2OK00186,"MULLIN, MARKWAYNE",Senate,Challenger,Oklahoma,Republican Party,Markwayne,Mullin,Markwayne_Mullin,Markwayne_Mullin_(Oklahoma),https://ballotpedia.org/Markwayne_Mullin
+7171,7171,S2OK00194,"HOLLAND, LUCAS",Senate,Challenger,Oklahoma,Republican Party,Lucas,Holland,Lucas_Holland,Lucas_Holland_(Oklahoma),https://ballotpedia.org/Lucas_Holland
+7172,7172,S2OK00202,"GRAY, ALEX",Senate,Challenger,Oklahoma,Republican Party,Alex,Gray,Alex_Gray,Alex_Gray_(Oklahoma),https://ballotpedia.org/Alex_Gray
+7173,7173,S2OK00210,"SHANNON, T.W.",Senate,Challenger,Oklahoma,Republican Party,T.w.,Shannon,T.w._Shannon,T.w._Shannon_(Oklahoma),https://ballotpedia.org/T.w._Shannon
+7174,7174,S2OK00228,"HORN, KENDRA",Senate,Challenger,Oklahoma,Democratic Party,Kendra,Horn,Kendra_Horn,Kendra_Horn_(Oklahoma),https://ballotpedia.org/Kendra_Horn
+7175,7175,S2OK00236,"BLEVINS, KENNETH",Senate,Challenger,Oklahoma,Libertarian Party,Kenneth,Blevins,Kenneth_Blevins,Kenneth_Blevins_(Oklahoma),https://ballotpedia.org/Kenneth_Blevins
+7176,7176,S2OK00244,"HOLLEY, ADAM",Senate,,Oklahoma,Republican Party,Adam,Holley,Adam_Holley,Adam_Holley_(Oklahoma),https://ballotpedia.org/Adam_Holley
+7177,7177,S2OK00251,"GRELLNER, RANDY J.",Senate,,Oklahoma,Republican Party,Randy,Grellner,Randy_Grellner,Randy_Grellner_(Oklahoma),https://ballotpedia.org/Randy_Grellner
+7178,7178,S2OK00269,"BAKER, DENNIS",Senate,,Oklahoma,Democratic Party,Dennis,Baker,Dennis_Baker,Dennis_Baker_(Oklahoma),https://ballotpedia.org/Dennis_Baker
+7179,7179,S2OK00277,"PRUITT, SCOTT",Senate,,Oklahoma,Republican Party,Scott,Pruitt,Scott_Pruitt,Scott_Pruitt_(Oklahoma),https://ballotpedia.org/Scott_Pruitt
+7180,7180,S2OK00285,"WADE, BRANDON KEITH",Senate,,Oklahoma,Democratic Party,Brandon,Wade,Brandon_Wade,Brandon_Wade_(Oklahoma),https://ballotpedia.org/Brandon_Wade
+7181,7181,S2OR00127,"BARLOW, WILLIAM EDWARD MR. III",Senate,Challenger,Oregon,Democratic Party,William,Barlow,William_Barlow,William_Barlow_(Oregon),https://ballotpedia.org/William_Barlow
+7182,7182,S2OR00135,"BEEBE, RODNEY JASON",Senate,Challenger,Oregon,Republican Party,Rodney,Beebe,Rodney_Beebe,Rodney_Beebe_(Oregon),https://ballotpedia.org/Rodney_Beebe
+7183,7183,S2OR00143,"VERDE, THOMAS X TXV",Senate,Challenger,Oregon,Unaffiliated,Thomas,Verde,Thomas_Verde,Thomas_Verde_(Oregon),https://ballotpedia.org/Thomas_Verde
+7184,7184,S2OR00150,"PALMER, SAMUEL",Senate,Challenger,Oregon,Republican Party,Samuel,Palmer,Samuel_Palmer,Samuel_Palmer_(Oregon),https://ballotpedia.org/Samuel_Palmer
+7185,7185,S2OR00168,"HARBICK, DARIN",Senate,Challenger,Oregon,Republican Party,Darin,Harbick,Darin_Harbick,Darin_Harbick_(Oregon),https://ballotpedia.org/Darin_Harbick
+7186,7186,S2OR00176,"PULJU, DAN",Senate,Challenger,Oregon,Green Party,Dan,Pulju,Dan_Pulju,Dan_Pulju_(Oregon),https://ballotpedia.org/Dan_Pulju
+7187,7187,S2OR00184,"CHRISTENSEN, CHRIS",Senate,Challenger,Oregon,Republican Party,Chris,Christensen,Chris_Christensen,Chris_Christensen_(Oregon),https://ballotpedia.org/Chris_Christensen
+7188,7188,S2OR00192,"STETTLER, MICHAEL KURT",Senate,,Oregon,Constitution Party,Michael,Stettler,Michael_Stettler,Michael_Stettler_(Oregon),https://ballotpedia.org/Michael_Stettler
+7189,7189,S2OR00200,"TAHER, IBRAHIM",Senate,,Oregon,Green Party,Ibrahim,Taher,Ibrahim_Taher,Ibrahim_Taher_(Oregon),https://ballotpedia.org/Ibrahim_Taher
+7190,7190,S2OR00218,"MURPHY, ROBERT MURPHY",Senate,,Oregon,Libertarian Party,Robert,Murphy,Robert_Murphy,Robert_Murphy_(Oregon),https://ballotpedia.org/Robert_Murphy
+7191,7191,S2PA00216,"CHRISTIAN, DAVID",Senate,Challenger,Pennsylvania,Republican Party,David,Christian,David_Christian,David_Christian_(Pennsylvania),https://ballotpedia.org/David_Christian
+7192,7192,S2PA00232,"WELCH, STEVEN D",Senate,Challenger,Pennsylvania,Republican Party,Steven,Welch,Steven_Welch,Steven_Welch_(Pennsylvania),https://ballotpedia.org/Steven_Welch
+7193,7193,S2PA00307,"MCGUIGAN, JOHN DAVID",Senate,Open seat,Pennsylvania,Democratic Party,John,Mcguigan,John_Mcguigan,John_Mcguigan_(Pennsylvania),https://ballotpedia.org/John_Mcguigan
+7194,7194,S2PA00315,"STERN, EVERETT",Senate,Open seat,Pennsylvania,Independent,Everett,Stern,Everett_Stern,Everett_Stern_(Pennsylvania),https://ballotpedia.org/Everett_Stern
+7195,7195,S2PA00323,"DEBELLIS, JOHN",Senate,Challenger,Pennsylvania,Republican Party,John,Debellis,John_Debellis,John_Debellis_(Pennsylvania),https://ballotpedia.org/John_Debellis
+7196,7196,S2PA00331,"ROSENFELD, MARTIN",Senate,Open seat,Pennsylvania,Republican Party,Martin,Rosenfeld,Martin_Rosenfeld,Martin_Rosenfeld_(Pennsylvania),https://ballotpedia.org/Martin_Rosenfeld
+7197,7197,S2PA00349,"NORTON, KYLE CHRISTOPHER",Senate,Open seat,Pennsylvania,Democratic Party,Kyle,Norton,Kyle_Norton,Kyle_Norton_(Pennsylvania),https://ballotpedia.org/Kyle_Norton
+7198,7198,S2PA00356,"MULHOLLAND, RICHARD",Senate,Open seat,Pennsylvania,Republican Party,Richard,Mulholland,Richard_Mulholland,Richard_Mulholland_(Pennsylvania),https://ballotpedia.org/Richard_Mulholland
+7199,7199,S2PA00364,"JOHNSON, LARRY E DR",Senate,Open seat,Pennsylvania,Democratic Party,Larry,Johnson,Larry_Johnson,Larry_Johnson_(Pennsylvania),https://ballotpedia.org/Larry_Johnson
+7200,7200,S2PA00372,"GALE, SEAN",Senate,Open seat,Pennsylvania,Republican Party,Sean,Gale,Sean_Gale,Sean_Gale_(Pennsylvania),https://ballotpedia.org/Sean_Gale
+7201,7201,S2PA00398,"KENYATTA, MALCOLM",Senate,Open seat,Pennsylvania,Democratic Party,Malcolm,Kenyatta,Malcolm_Kenyatta,Malcolm_Kenyatta_(Pennsylvania),https://ballotpedia.org/Malcolm_Kenyatta
+7202,7202,S2PA00406,"KHALIL, ALEXANDRIA GLORIA",Senate,Open seat,Pennsylvania,Democratic Party,Alexandria,Khalil,Alexandria_Khalil,Alexandria_Khalil_(Pennsylvania),https://ballotpedia.org/Alexandria_Khalil
+7203,7203,S2PA00414,"DUCH, WILLIAM RAYMOND",Senate,Open seat,Pennsylvania,Republican Party,William,Duch,William_Duch,William_Duch_(Pennsylvania),https://ballotpedia.org/William_Duch
+7204,7204,S2PA00422,"SHANK, ALAN MICHAEL",Senate,Open seat,Pennsylvania,Democratic Party,Alan,Shank,Alan_Shank,Alan_Shank_(Pennsylvania),https://ballotpedia.org/Alan_Shank
+7205,7205,S2PA00430,"GERHARDT, ERIK",Senate,Open seat,Pennsylvania,Libertarian Party,Erik,Gerhardt,Erik_Gerhardt,Erik_Gerhardt_(Pennsylvania),https://ballotpedia.org/Erik_Gerhardt
+7206,7206,S2PA00448,"STREET, SHARIF",Senate,Open seat,Pennsylvania,Democratic Party,Sharif,Street,Sharif_Street,Sharif_Street_(Pennsylvania),https://ballotpedia.org/Sharif_Street
+7207,7207,S2PA00455,"BAUMLIN, KEVIN DR.",Senate,Open seat,Pennsylvania,Democratic Party,Kevin,Baumlin,Kevin_Baumlin,Kevin_Baumlin_(Pennsylvania),https://ballotpedia.org/Kevin_Baumlin
+7208,7208,S2PA00463,"ARKOOSH, VALERIE",Senate,Open seat,Pennsylvania,Democratic Party,Valerie,Arkoosh,Valerie_Arkoosh,Valerie_Arkoosh_(Pennsylvania),https://ballotpedia.org/Valerie_Arkoosh
+7209,7209,S2PA00471,"JEFFRIES, ROBERT",Senate,Open seat,Pennsylvania,Republican Party,Robert,Jeffries,Robert_Jeffries,Robert_Jeffries_(Pennsylvania),https://ballotpedia.org/Robert_Jeffries
+7210,7210,S2PA00489,"BARNETTE, KATHY",Senate,Open seat,Pennsylvania,Republican Party,Kathy,Barnette,Kathy_Barnette,Kathy_Barnette_(Pennsylvania),https://ballotpedia.org/Kathy_Barnette
+7211,7211,S2PA00497,"HAYES, JAMES EDWARD",Senate,Open seat,Pennsylvania,Republican Party,James,Hayes,James_Hayes,James_Hayes_(Pennsylvania),https://ballotpedia.org/James_Hayes
+7212,7212,S2PA00505,"PARNELL, RICHARD SEAN",Senate,Open seat,Pennsylvania,Republican Party,Richard,Parnell,Richard_Parnell,Richard_Parnell_(Pennsylvania),https://ballotpedia.org/Richard_Parnell
+7213,7213,S2PA00513,"JOHNSON, RONALD EDWARD MR II",Senate,Open seat,Pennsylvania,Constitution Party,Ronald,Johnson,Ronald_Johnson,Ronald_Johnson_(Pennsylvania),https://ballotpedia.org/Ronald_Johnson
+7214,7214,S2PA00521,"TAPERA, LLEWELLYN MR.",Senate,Open seat,Pennsylvania,Democratic Party,Llewellyn,Tapera,Llewellyn_Tapera,Llewellyn_Tapera_(Pennsylvania),https://ballotpedia.org/Llewellyn_Tapera
+7215,7215,S2PA00539,"SNYDER, CRAIG",Senate,Open seat,Pennsylvania,Republican Party,Craig,Snyder,Craig_Snyder,Craig_Snyder_(Pennsylvania),https://ballotpedia.org/Craig_Snyder
+7216,7216,S2PA00547,"ORTS, ERIC",Senate,Open seat,Pennsylvania,Democratic Party,Eric,Orts,Eric_Orts,Eric_Orts_(Pennsylvania),https://ballotpedia.org/Eric_Orts
+7217,7217,S2PA00554,"SANDS, CARLA H",Senate,Open seat,Pennsylvania,Republican Party,Carla,Sands,Carla_Sands,Carla_Sands_(Pennsylvania),https://ballotpedia.org/Carla_Sands
+7218,7218,S2PA00562,"LAMB, CONOR",Senate,Open seat,Pennsylvania,Democratic Party,Conor,Lamb,Conor_Lamb,Conor_Lamb_(Pennsylvania),https://ballotpedia.org/Conor_Lamb
+7219,7219,S2PA00570,"XU, DAVID",Senate,Open seat,Pennsylvania,Republican Party,David,Xu,David_Xu,David_Xu_(Pennsylvania),https://ballotpedia.org/David_Xu
+7220,7220,S2PA00588,"DOUGHERTY, KAEL",Senate,Open seat,Pennsylvania,Democratic Party,Kael,Dougherty,Kael_Dougherty,Kael_Dougherty_(Pennsylvania),https://ballotpedia.org/Kael_Dougherty
+7221,7221,S2PA00596,"DOUGHERTY, KAEL",Senate,Open seat,Pennsylvania,Democratic Party,Kael,Dougherty,Kael_Dougherty,Kael_Dougherty_(Pennsylvania),https://ballotpedia.org/Kael_Dougherty
+7222,7222,S2PA00604,"CRUZ, ISRAEL",Senate,Open seat,Pennsylvania,Republican Party,Israel,Cruz,Israel_Cruz,Israel_Cruz_(Pennsylvania),https://ballotpedia.org/Israel_Cruz
+7223,7223,S2PA00612,"SLUZYNSKY, WALTER STEVE MR.",Senate,Open seat,Pennsylvania,Democratic Party,Walter,Sluzynsky,Walter_Sluzynsky,Walter_Sluzynsky_(Pennsylvania),https://ballotpedia.org/Walter_Sluzynsky
+7224,7224,S2PA00620,"RICHARDSON, MAX",Senate,Open seat,Pennsylvania,Republican Party,Max,Richardson,Max_Richardson,Max_Richardson_(Pennsylvania),https://ballotpedia.org/Max_Richardson
+7225,7225,S2PA00638,"OZ, MEHMET DR.",Senate,Open seat,Pennsylvania,Republican Party,Mehmet,Oz,Mehmet_Oz,Mehmet_Oz_(Pennsylvania),https://ballotpedia.org/Mehmet_Oz
+7226,7226,S2PA00646,"EICHENBERG, JOHN ROBERT MR.",Senate,Open seat,Pennsylvania,Republican Party,John,Eichenberg,John_Eichenberg,John_Eichenberg_(Pennsylvania),https://ballotpedia.org/John_Eichenberg
+7227,7227,S2PA00653,"FUSCA, VINCENT EMAUELE MR",Senate,Open seat,Pennsylvania,Republican Party,Vincent,Fusca,Vincent_Fusca,Vincent_Fusca_(Pennsylvania),https://ballotpedia.org/Vincent_Fusca
+7228,7228,S2PA00661,"MCCORMICK, DAVE",Senate,Open seat,Pennsylvania,Republican Party,Dave,Mccormick,Dave_Mccormick,Dave_Mccormick_(Pennsylvania),https://ballotpedia.org/Dave_Mccormick
+7229,7229,S2PA00679,"KARPACS, GEORGE MR.",Senate,Open seat,Pennsylvania,Republican Party,George,Karpacs,George_Karpacs,George_Karpacs_(Pennsylvania),https://ballotpedia.org/George_Karpacs
+7230,7230,S2PA00687,"WRIGHT-MCDONALD, REECE MASTER SIR",Senate,Open seat,Pennsylvania,Democratic Party,Reece,Wright-mcdonald,Reece_Wright-mcdonald,Reece_Wright-mcdonald_(Pennsylvania),https://ballotpedia.org/Reece_Wright-mcdonald
+7231,7231,S2PA00695,"MAGEE, QUINCY",Senate,Open seat,Pennsylvania,Write-In,Quincy,Magee,Quincy_Magee,Quincy_Magee_(Pennsylvania),https://ballotpedia.org/Quincy_Magee
+7232,7232,S2PA00703,"BOCHETTO, GEORGE",Senate,Open seat,Pennsylvania,Republican Party,George,Bochetto,George_Bochetto,George_Bochetto_(Pennsylvania),https://ballotpedia.org/George_Bochetto
+7233,7233,S2PA00711,"GERHARDT, ERIK",Senate,Open seat,Pennsylvania,Libertarian Party,Erik,Gerhardt,Erik_Gerhardt,Erik_Gerhardt_(Pennsylvania),https://ballotpedia.org/Erik_Gerhardt
+7234,7234,S2SC00095,"SWAIN, TIMOTHY",Senate,Challenger,South Carolina,Republican Party,Timothy,Swain,Timothy_Swain,Timothy_Swain_(South Carolina),https://ballotpedia.org/Timothy_Swain
+7235,7235,S2SC00103,"MATTHEWS, KRYSTLE",Senate,Challenger,South Carolina,Democratic Party,Krystle,Matthews,Krystle_Matthews,Krystle_Matthews_(South Carolina),https://ballotpedia.org/Krystle_Matthews
+7236,7236,S2SC00111,"GETER, ANGELA MS",Senate,Challenger,South Carolina,Democratic Party,Angela,Geter,Angela_Geter,Angela_Geter_(South Carolina),https://ballotpedia.org/Angela_Geter
+7237,7237,S2SC00129,"O'GRADY, CASEY SIMS",Senate,Challenger,South Carolina,Republican Party,Casey,O'grady,Casey_O'grady,Casey_O'grady_(South Carolina),https://ballotpedia.org/Casey_O'grady
+7238,7238,S2SC00137,"ADAMS, LARRY JR",Senate,Challenger,South Carolina,Independent,Larry,Adams,Larry_Adams,Larry_Adams_(South Carolina),https://ballotpedia.org/Larry_Adams
+7239,7239,S2SC00145,"BRUCE, CATHERINE FLEMING MS.",Senate,Challenger,South Carolina,Democratic Party,Catherine,Bruce,Catherine_Bruce,Catherine_Bruce_(South Carolina),https://ballotpedia.org/Catherine_Bruce
+7240,7240,S2SC00152,"POSTON, ERIC CHALMERS",Senate,Challenger,South Carolina,Republican Party,Eric,Poston,Eric_Poston,Eric_Poston_(South Carolina),https://ballotpedia.org/Eric_Poston
+7241,7241,S2SC00160,"WISE MURRAY IV, WILLIAM",Senate,,South Carolina,New Alliance,William,Wise murray iv,William_Wise murray iv,William_Wise murray iv_(South Carolina),https://ballotpedia.org/William_Wise murray iv
+7242,7242,S2SC00178,"FLOYD, AUSTIN B DR.",Senate,Challenger,South Carolina,Democratic Party,Austin,Floyd,Austin_Floyd,Austin_Floyd_(South Carolina),https://ballotpedia.org/Austin_Floyd
+7243,7243,S2SD00068,"THUNE, JOHN R.",Senate,Incumbent,South Dakota,Republican Party,John,Thune,John_Thune,John_Thune_(South Dakota),https://ballotpedia.org/John_Thune
+7244,7244,S2SD00092,"MOWRY, MARK S.",Senate,Challenger,South Dakota,Republican Party,Mark,Mowry,Mark_Mowry,Mark_Mowry_(South Dakota),https://ballotpedia.org/Mark_Mowry
+7245,7245,S2SD00118,"WHALEN, BRUCE SR.",Senate,Challenger,South Dakota,Republican Party,Bruce,Whalen,Bruce_Whalen,Bruce_Whalen_(South Dakota),https://ballotpedia.org/Bruce_Whalen
+7246,7246,S2SD00126,"BENGS, BRIAN L",Senate,Challenger,South Dakota,Democratic Party,Brian,Bengs,Brian_Bengs,Brian_Bengs_(South Dakota),https://ballotpedia.org/Brian_Bengs
+7247,7247,S2SD00134,"SCHUBERT, PATRICK WILLIAM MR. SR",Senate,Challenger,South Dakota,Republican Party,Patrick,Schubert,Patrick_Schubert,Patrick_Schubert_(South Dakota),https://ballotpedia.org/Patrick_Schubert
+7248,7248,S2TN00058,"ALEXANDER, LAMAR",Senate,Incumbent,Tennessee,Republican Party,Lamar,Alexander,Lamar_Alexander,Lamar_Alexander_(Tennessee),https://ballotpedia.org/Lamar_Alexander
+7249,7249,S2TN00223,"CRIM, LARRY R",Senate,Open seat,Tennessee,Republican Party,Larry,Crim,Larry_Crim,Larry_Crim_(Tennessee),https://ballotpedia.org/Larry_Crim
+7250,7250,S2TN00371,"SMITH, JASON J",Senate,,Tennessee,Independent,Jason,Smith,Jason_Smith,Jason_Smith_(Tennessee),https://ballotpedia.org/Jason_Smith
+7251,7251,S2TX00106,"CORNYN, JOHN SEN",Senate,Incumbent,Texas,Republican Party,John,Cornyn,John_Cornyn,John_Cornyn_(Texas),https://ballotpedia.org/John_Cornyn
+7252,7252,S2TX00312,"CRUZ, RAFAEL EDWARD  TED",Senate,Incumbent,Texas,Republican Party,Rafael,Cruz,Rafael_Cruz,Rafael_Cruz_(Texas),https://ballotpedia.org/Rafael_Cruz
+7253,7253,S2TX00551,"ROTHSCHILD, ELIZABETH SAMANTHA",Senate,Challenger,Texas,Republican Party,Elizabeth,Rothschild,Elizabeth_Rothschild,Elizabeth_Rothschild_(Texas),https://ballotpedia.org/Elizabeth_Rothschild
+7254,7254,S2TX00569,"TWEEDLE, STANLEY HAROLD MR",Senate,Challenger,Texas,Republican Party,Stanley,Tweedle,Stanley_Tweedle,Stanley_Tweedle_(Texas),https://ballotpedia.org/Stanley_Tweedle
+7255,7255,S2TX00577,"YOU, FUCK MR",Senate,Challenger,Texas,Republican Party,Fuck,You,Fuck_You,Fuck_You_(Texas),https://ballotpedia.org/Fuck_You
+7256,7256,S2TX00585,"FITZGERALD, RICHARD KALE MR. SR.",Senate,,Texas,Independent,Richard,Fitzgerald,Richard_Fitzgerald,Richard_Fitzgerald_(Texas),https://ballotpedia.org/Richard_Fitzgerald
+7257,7257,S2UT00286,"BARLOW, EVAN",Senate,Challenger,Utah,Republican Party,Evan,Barlow,Evan_Barlow,Evan_Barlow_(Utah),https://ballotpedia.org/Evan_Barlow
+7258,7258,S2UT00294,"SEARLE, AUSTIN",Senate,Challenger,Utah,Democratic Party,Austin,Searle,Austin_Searle,Austin_Searle_(Utah),https://ballotpedia.org/Austin_Searle
+7259,7259,S2UT00302,"GLINES, ALLEN BRENT",Senate,Challenger,Utah,Democratic Party,Allen,Glines,Allen_Glines,Allen_Glines_(Utah),https://ballotpedia.org/Allen_Glines
+7260,7260,S2UT00310,"MITCHELL, NICHOLAS",Senate,Challenger,Utah,Democratic Party,Nicholas,Mitchell,Nicholas_Mitchell,Nicholas_Mitchell_(Utah),https://ballotpedia.org/Nicholas_Mitchell
+7261,7261,S2UT00328,"DAVIS, BENJAMIN",Senate,Challenger,Utah,Republican Party,Benjamin,Davis,Benjamin_Davis,Benjamin_Davis_(Utah),https://ballotpedia.org/Benjamin_Davis
+7262,7262,S2UT00336,"EDWARDS, BECKY",Senate,Challenger,Utah,Republican Party,Becky,Edwards,Becky_Edwards,Becky_Edwards_(Utah),https://ballotpedia.org/Becky_Edwards
+7263,7263,S2UT00344,"ISOM, ALLY",Senate,Challenger,Utah,Republican Party,Ally,Isom,Ally_Isom,Ally_Isom_(Utah),https://ballotpedia.org/Ally_Isom
+7264,7264,S2UT00351,"JENSEN, RUSSELL TYRONE",Senate,Challenger,Utah,Republican Party,Russell,Jensen,Russell_Jensen,Russell_Jensen_(Utah),https://ballotpedia.org/Russell_Jensen
+7265,7265,S2UT00369,"MCMULLIN, DAVID EVAN",Senate,Challenger,Utah,Unaffiliated,David,Mcmullin,David_Mcmullin,David_Mcmullin_(Utah),https://ballotpedia.org/David_Mcmullin
+7266,7266,S2UT00377,"HAMBLIN, LAIRD",Senate,Challenger,Utah,Republican Party,Laird,Hamblin,Laird_Hamblin,Laird_Hamblin_(Utah),https://ballotpedia.org/Laird_Hamblin
+7267,7267,S2UT00385,"WESTON, JOHN",Senate,Challenger,Utah,Democratic Party,John,Weston,John_Weston,John_Weston_(Utah),https://ballotpedia.org/John_Weston
+7268,7268,S2UT00393,"ANDERSON, ALTON MR.",Senate,Challenger,Utah,Constitution Party,Alton,Anderson,Alton_Anderson,Alton_Anderson_(Utah),https://ballotpedia.org/Alton_Anderson
+7269,7269,S2UT00401,"ANDERSON, ALTON MR.",Senate,Challenger,Utah,Constitution Party,Alton,Anderson,Alton_Anderson,Alton_Anderson_(Utah),https://ballotpedia.org/Alton_Anderson
+7270,7270,S2UT00419,"WILLIAMS, TOMMY",Senate,Challenger,Utah,Other,Tommy,Williams,Tommy_Williams,Tommy_Williams_(Utah),https://ballotpedia.org/Tommy_Williams
+7271,7271,S2UT00427,"HANSEN, JAMES ARTHUR",Senate,,Utah,Libertarian Party,James,Hansen,James_Hansen,James_Hansen_(Utah),https://ballotpedia.org/James_Hansen
+7272,7272,S2UT00435,"BOVO, LUCKY",Senate,,Utah,Libertarian Party,Lucky,Bovo,Lucky_Bovo,Lucky_Bovo_(Utah),https://ballotpedia.org/Lucky_Bovo
+7273,7273,S2VA00142,"KAINE, TIMOTHY MICHAEL",Senate,Incumbent,Virginia,Democratic Party,Timothy,Kaine,Timothy_Kaine,Timothy_Kaine_(Virginia),https://ballotpedia.org/Timothy_Kaine
+7274,7274,S2VA00167,"JACKSON, EARL W SR",Senate,Challenger,Virginia,Republican Party,Earl,Jackson,Earl_Jackson,Earl_Jackson_(Virginia),https://ballotpedia.org/Earl_Jackson
+7275,7275,S2VA00217,"KING, ZOEY MARIA",Senate,Challenger,Virginia,Democratic Party,Zoey,King,Zoey_King,Zoey_King_(Virginia),https://ballotpedia.org/Zoey_King
+7276,7276,S2VT00136,"MACGOVERN, JOHN",Senate,Challenger,Vermont,Republican Party,John,Macgovern,John_Macgovern,John_Macgovern_(Vermont),https://ballotpedia.org/John_Macgovern
+7277,7277,S2VT00177,"THRAN, ALEXANDRA NICOLE",Senate,Open seat,Vermont,Democratic Party,Alexandra,Thran,Alexandra_Thran,Alexandra_Thran_(Vermont),https://ballotpedia.org/Alexandra_Thran
+7278,7278,S2VT00185,"COESTER, C. MARK MR",Senate,Open seat,Vermont,American Independent Party,C.,Coester,C._Coester,C._Coester_(Vermont),https://ballotpedia.org/C._Coester
+7279,7279,S2VT00227,"PIERCE, BROCK",Senate,Open seat,Vermont,Independent,Brock,Pierce,Brock_Pierce,Brock_Pierce_(Vermont),https://ballotpedia.org/Brock_Pierce
+7280,7280,S2VT00235,"WELCH, PETER",Senate,Open seat,Vermont,Democratic Party,Peter,Welch,Peter_Welch,Peter_Welch_(Vermont),https://ballotpedia.org/Peter_Welch
+7281,7281,S2VT00243,"RAHEB, KERRY",Senate,Open seat,Vermont,Independent,Kerry,Raheb,Kerry_Raheb,Kerry_Raheb_(Vermont),https://ballotpedia.org/Kerry_Raheb
+7282,7282,S2VT00250,"SULLIVAN, THOMAS",Senate,Open seat,Vermont,Republican Party,Thomas,Sullivan,Thomas_Sullivan,Thomas_Sullivan_(Vermont),https://ballotpedia.org/Thomas_Sullivan
+7283,7283,S2VT00268,"NOLAN, CHRISTINA",Senate,Open seat,Vermont,Republican Party,Christina,Nolan,Christina_Nolan,Christina_Nolan_(Vermont),https://ballotpedia.org/Christina_Nolan
+7284,7284,S2VT00276,"TUTHILL, JUSTIN",Senate,Open seat,Vermont,Republican Party,Justin,Tuthill,Justin_Tuthill,Justin_Tuthill_(Vermont),https://ballotpedia.org/Justin_Tuthill
+7285,7285,S2VT00284,"HELALI, CHRISTOPHER JOSEPH",Senate,Open seat,Vermont,Communist Party,Christopher,Helali,Christopher_Helali,Christopher_Helali_(Vermont),https://ballotpedia.org/Christopher_Helali
+7286,7286,S2VT00292,"MALLOY, GERALD",Senate,Open seat,Vermont,Republican Party,Gerald,Malloy,Gerald_Malloy,Gerald_Malloy_(Vermont),https://ballotpedia.org/Gerald_Malloy
+7287,7287,S2WA00189,"MURRAY, PATTY",Senate,Incumbent,Washington,Democratic Party,Patty,Murray,Patty_Murray,Patty_Murray_(Washington),https://ballotpedia.org/Patty_Murray
+7288,7288,S2WA00338,"SLEISTER, NICOLAUS",Senate,Challenger,Washington,Democratic Party,Nicolaus,Sleister,Nicolaus_Sleister,Nicolaus_Sleister_(Washington),https://ballotpedia.org/Nicolaus_Sleister
+7289,7289,S2WA00346,"KIRBY, ROBERT W",Senate,Challenger,Washington,Democratic Party,Robert,Kirby,Robert_Kirby,Robert_Kirby_(Washington),https://ballotpedia.org/Robert_Kirby
+7290,7290,S2WA00353,"HUSSEY, LARRY",Senate,Challenger,Washington,No Party Affiliation,Larry,Hussey,Larry_Hussey,Larry_Hussey_(Washington),https://ballotpedia.org/Larry_Hussey
+7291,7291,S2WA00361,"MPIANA, MFUMU METAMORPHOSIS REV",Senate,Challenger,Washington,Unaffiliated,Mfumu,Mpiana,Mfumu_Mpiana,Mfumu_Mpiana_(Washington),https://ballotpedia.org/Mfumu_Mpiana
+7292,7292,S2WA00379,"WERNER II, MICHAEL JOSEPH",Senate,Challenger,Washington,Republican Party,Michael,Werner ii,Michael_Werner ii,Michael_Werner ii_(Washington),https://ballotpedia.org/Michael_Werner ii
+7293,7293,S2WA00387,"SMILEY, TIFFANY",Senate,Challenger,Washington,Republican Party,Tiffany,Smiley,Tiffany_Smiley,Tiffany_Smiley_(Washington),https://ballotpedia.org/Tiffany_Smiley
+7294,7294,S2WA00395,"PIERRE, RAVIN R",Senate,Challenger,Washington,Democratic Party,Ravin,Pierre,Ravin_Pierre,Ravin_Pierre_(Washington),https://ballotpedia.org/Ravin_Pierre
+7295,7295,S2WA00403,"GREYWOLF, JUSTIN",Senate,Challenger,Washington,Independent,Justin,Greywolf,Justin_Greywolf,Justin_Greywolf_(Washington),https://ballotpedia.org/Justin_Greywolf
+7296,7296,S2WA00411,"ISHII, DAVID TADASHI",Senate,Challenger,Washington,Democratic Party,David,Ishii,David_Ishii,David_Ishii_(Washington),https://ballotpedia.org/David_Ishii
+7297,7297,S2WA00429,"HAGGLUND, BOB",Senate,Challenger,Washington,Republican Party,Bob,Hagglund,Bob_Hagglund,Bob_Hagglund_(Washington),https://ballotpedia.org/Bob_Hagglund
+7298,7298,S2WA00437,"PAUL, NAZ",Senate,Challenger,Washington,Independent,Naz,Paul,Naz_Paul,Naz_Paul_(Washington),https://ballotpedia.org/Naz_Paul
+7299,7299,S2WA00445,"SOLSTIN, BRYAN",Senate,Challenger,Washington,Democratic Party,Bryan,Solstin,Bryan_Solstin,Bryan_Solstin_(Washington),https://ballotpedia.org/Bryan_Solstin
+7300,7300,S2WA00452,"MCCUNE, DAVID E",Senate,,Washington,Independent,David,Mccune,David_Mccune,David_Mccune_(Washington),https://ballotpedia.org/David_Mccune
+7301,7301,S2WA00460,"HOLYK, ISAAC A",Senate,,Washington,Republican Party,Isaac,Holyk,Isaac_Holyk,Isaac_Holyk_(Washington),https://ballotpedia.org/Isaac_Holyk
+7302,7302,S2WA00478,"HUSSEY, LAWRENCE",Senate,,Washington,Independent,Lawrence,Hussey,Lawrence_Hussey,Lawrence_Hussey_(Washington),https://ballotpedia.org/Lawrence_Hussey
+7303,7303,S2WA00486,"LAWSON, LEON MR",Senate,,Washington,Republican Party,Leon,Lawson,Leon_Lawson,Leon_Lawson_(Washington),https://ballotpedia.org/Leon_Lawson
+7304,7304,S2WI00219,"BALDWIN, TAMMY",Senate,Incumbent,Wisconsin,Democratic Party,Tammy,Baldwin,Tammy_Baldwin,Tammy_Baldwin_(Wisconsin),https://ballotpedia.org/Tammy_Baldwin
+7305,7305,S2WI00227,"FITZGERALD, JEFF",Senate,Open seat,Wisconsin,Republican Party,Jeff,Fitzgerald,Jeff_Fitzgerald,Jeff_Fitzgerald_(Wisconsin),https://ballotpedia.org/Jeff_Fitzgerald
+7306,7306,S2WI00300,"D?AMICO, SAMUEL NICHOLAS MR",Senate,Open seat,Wisconsin,Democratic Party,Samuel,D?amico,Samuel_D?amico,Samuel_D?amico_(Wisconsin),https://ballotpedia.org/Samuel_D?amico
+7307,7307,S2WI00318,"FRANK, AARON",Senate,Open seat,Wisconsin,Independent,Aaron,Frank,Aaron_Frank,Aaron_Frank_(Wisconsin),https://ballotpedia.org/Aaron_Frank
+7308,7308,S2WI00326,"SPENCER, BRADFORD",Senate,Open seat,Wisconsin,Independent,Bradford,Spencer,Bradford_Spencer,Bradford_Spencer_(Wisconsin),https://ballotpedia.org/Bradford_Spencer
+7309,7309,S2WI00334,"BATTINO, GILLIAN M.D.",Senate,Open seat,Wisconsin,Democratic Party,Gillian,Battino,Gillian_Battino,Gillian_Battino_(Wisconsin),https://ballotpedia.org/Gillian_Battino
+7310,7310,S2WI00342,"LASRY, ALEX",Senate,Challenger,Wisconsin,Democratic Party,Alex,Lasry,Alex_Lasry,Alex_Lasry_(Wisconsin),https://ballotpedia.org/Alex_Lasry
+7311,7311,S2WI00359,"GODLEWSKI, SARAH",Senate,Challenger,Wisconsin,Democratic Party,Sarah,Godlewski,Sarah_Godlewski,Sarah_Godlewski_(Wisconsin),https://ballotpedia.org/Sarah_Godlewski
+7312,7312,S2WI00367,"NEUBERT, KEITH",Senate,Challenger,Wisconsin,Republican Party,Keith,Neubert,Keith_Neubert,Keith_Neubert_(Wisconsin),https://ballotpedia.org/Keith_Neubert
+7313,7313,S2WI00375,"AUBART, SCOTT ALAN MR",Senate,Challenger,Wisconsin,American Independent Party,Scott,Aubart,Scott_Aubart,Scott_Aubart_(Wisconsin),https://ballotpedia.org/Scott_Aubart
+7314,7314,S2WI00383,"OLIKARA, STEVEN",Senate,Challenger,Wisconsin,Democratic Party,Steven,Olikara,Steven_Olikara,Steven_Olikara_(Wisconsin),https://ballotpedia.org/Steven_Olikara
+7315,7315,S2WI00391,"LARSON, CHRISTOPHER",Senate,Challenger,Wisconsin,Democratic Party,Christopher,Larson,Christopher_Larson,Christopher_Larson_(Wisconsin),https://ballotpedia.org/Christopher_Larson
+7316,7316,S2WI00409,"MURPHY, ADAM CHRISTOPHER",Senate,Challenger,Wisconsin,Democratic Party,Adam,Murphy,Adam_Murphy,Adam_Murphy_(Wisconsin),https://ballotpedia.org/Adam_Murphy
+7317,7317,S2WI00417,"PECKARSKY, PETER",Senate,Challenger,Wisconsin,Democratic Party,Peter,Peckarsky,Peter_Peckarsky,Peter_Peckarsky_(Wisconsin),https://ballotpedia.org/Peter_Peckarsky
+7318,7318,S2WI00425,"BERMAN, JOHN",Senate,Challenger,Wisconsin,Republican Party,John,Berman,John_Berman,John_Berman_(Wisconsin),https://ballotpedia.org/John_Berman
+7319,7319,S2WI00433,"LEE, KOU C",Senate,Challenger,Wisconsin,Democratic Party,Kou,Lee,Kou_Lee,Kou_Lee_(Wisconsin),https://ballotpedia.org/Kou_Lee
+7320,7320,S2WI00441,"BARNES, MANDELA",Senate,Challenger,Wisconsin,Democratic Party,Mandela,Barnes,Mandela_Barnes,Mandela_Barnes_(Wisconsin),https://ballotpedia.org/Mandela_Barnes
+7321,7321,S2WI00458,"LEWIS, CHANTIA",Senate,Challenger,Wisconsin,Democratic Party,Chantia,Lewis,Chantia_Lewis,Chantia_Lewis_(Wisconsin),https://ballotpedia.org/Chantia_Lewis
+7322,7322,S2WI00466,"WILLIAMS, DARRELL L. DR.",Senate,Challenger,Wisconsin,Democratic Party,Darrell,Williams,Darrell_Williams,Darrell_Williams_(Wisconsin),https://ballotpedia.org/Darrell_Williams
+7323,7323,S2WI00474,"RUMBAUGH, JEFF MR",Senate,Challenger,Wisconsin,Democratic Party,Jeff,Rumbaugh,Jeff_Rumbaugh,Jeff_Rumbaugh_(Wisconsin),https://ballotpedia.org/Jeff_Rumbaugh
+7324,7324,S2WI00482,"BEYER, BRAD",Senate,Challenger,Wisconsin,Republican Party,Brad,Beyer,Brad_Beyer,Brad_Beyer_(Wisconsin),https://ballotpedia.org/Brad_Beyer
+7325,7325,S2WI00490,"DOTY, JUSTIN DANIEL",Senate,Challenger,Wisconsin,Republican Party,Justin,Doty,Justin_Doty,Justin_Doty_(Wisconsin),https://ballotpedia.org/Justin_Doty
+7326,7326,S2WI00508,"BENEDETTO, ADAM SIIK",Senate,Challenger,Wisconsin,Republican Party,Adam,Benedetto,Adam_Benedetto,Adam_Benedetto_(Wisconsin),https://ballotpedia.org/Adam_Benedetto
+7327,7327,S2WI00516,"LONG, NEAL",Senate,Challenger,Wisconsin,Libertarian Party,Neal,Long,Neal_Long,Neal_Long_(Wisconsin),https://ballotpedia.org/Neal_Long
+7328,7328,S4AK00099,"MURKOWSKI, LISA",Senate,Incumbent,Alaska,Republican Party,Lisa,Murkowski,Lisa_Murkowski,Lisa_Murkowski_(Alaska),https://ballotpedia.org/Lisa_Murkowski
+7329,7329,S4AK00214,"SULLIVAN, DAN",Senate,Incumbent,Alaska,Republican Party,Dan,Sullivan,Dan_Sullivan,Dan_Sullivan_(Alaska),https://ballotpedia.org/Dan_Sullivan
+7330,7330,S4AR00103,"COTTON, THOMAS",Senate,Incumbent,Arkansas,Republican Party,Thomas,Cotton,Thomas_Cotton,Thomas_Cotton_(Arkansas),https://ballotpedia.org/Thomas_Cotton
+7331,7331,S4CA00332,"GRUNDMANN, DON J.",Senate,Challenger,California,None,Don,Grundmann,Don_Grundmann,Don_Grundmann_(California),https://ballotpedia.org/Don_Grundmann
+7332,7332,S4CA00381,"RESENDEZ, JESSICA SERENE",Senate,,California,Democratic Party,Jessica,Resendez,Jessica_Resendez,Jessica_Resendez_(California),https://ballotpedia.org/Jessica_Resendez
+7333,7333,S4CA00407,"GARY-PANDOL, DENICE LYN MS.",Senate,,California,Republican Party,Denice,Gary-pandol,Denice_Gary-pandol,Denice_Gary-pandol_(California),https://ballotpedia.org/Denice_Gary-pandol
+7334,7334,S4CA00415,"ROEDERSHEIMER, KATIE O'NEAL",Senate,,California,Independent,Katie,Roedersheimer,Katie_Roedersheimer,Katie_Roedersheimer_(California),https://ballotpedia.org/Katie_Roedersheimer
+7335,7335,S4CA00423,"FRANKLIN, CARSON HENRY MR. JR",Senate,,California,Democratic Party,Carson,Franklin,Carson_Franklin,Carson_Franklin_(California),https://ballotpedia.org/Carson_Franklin
+7336,7336,S4CA00431,"INGRAM, DENARD",Senate,,California,Democratic Party,Denard,Ingram,Denard_Ingram,Denard_Ingram_(California),https://ballotpedia.org/Denard_Ingram
+7337,7337,S4CO00379,"TRUJILLO, FLOYD",Senate,Challenger,Colorado,Republican Party,Floyd,Trujillo,Floyd_Trujillo,Floyd_Trujillo_(Colorado),https://ballotpedia.org/Floyd_Trujillo
+7338,7338,S4CO00395,"GARDNER, CORY",Senate,Incumbent,Colorado,Republican Party,Cory,Gardner,Cory_Gardner,Cory_Gardner_(Colorado),https://ballotpedia.org/Cory_Gardner
+7339,7339,S4FL00439,"DAVIS, JAMES",Senate,,Florida,Write-In,James,Davis,James_Davis,James_Davis_(Florida),https://ballotpedia.org/James_Davis
+7340,7340,S4FL00447,"TOLER, RANDY MR.",Senate,,Florida,Green Party,Randy,Toler,Randy_Toler,Randy_Toler_(Florida),https://ballotpedia.org/Randy_Toler
+7341,7341,S4GA11038,"BARTELL, ELBERT (AL)",Senate,Challenger,Georgia,Republican Party,Elbert,Bartell,Elbert_Bartell,Elbert_Bartell_(Georgia),https://ballotpedia.org/Elbert_Bartell
+7342,7342,S4GA11103,"BUCKLEY, ALLEN",Senate,Challenger,Georgia,Independent,Allen,Buckley,Allen_Buckley,Allen_Buckley_(Georgia),https://ballotpedia.org/Allen_Buckley
+7343,7343,S4GA11194,"JAMISON, MATTHEW",Senate,,Georgia,Unknown,Matthew,Jamison,Matthew_Jamison,Matthew_Jamison_(Georgia),https://ballotpedia.org/Matthew_Jamison
+7344,7344,S4GA11210,"KINGSTON, JOHN H SR REP",Senate,Open seat,Georgia,Republican Party,John,Kingston,John_Kingston,John_Kingston_(Georgia),https://ballotpedia.org/John_Kingston
+7345,7345,S4GA11236,"GRAYSON, DERRICK EARL",Senate,Challenger,Georgia,Republican Party,Derrick,Grayson,Derrick_Grayson,Derrick_Grayson_(Georgia),https://ballotpedia.org/Derrick_Grayson
+7346,7346,S4GA11285,"PERDUE, DAVID",Senate,Challenger,Georgia,Republican Party,David,Perdue,David_Perdue,David_Perdue_(Georgia),https://ballotpedia.org/David_Perdue
+7347,7347,S4HI00136,"SCHATZ, BRIAN",Senate,Incumbent,Hawaii,Democratic Party,Brian,Schatz,Brian_Schatz,Brian_Schatz_(Hawaii),https://ballotpedia.org/Brian_Schatz
+7348,7348,S4IA00020,"HARKIN, THOMAS RICHARD",Senate,Challenger,Iowa,Democratic Party,Thomas,Harkin,Thomas_Harkin,Thomas_Harkin_(Iowa),https://ballotpedia.org/Thomas_Harkin
+7349,7349,S4IA00095,"WHITAKER, MATTHEW GEORGE ""MATT""",Senate,Open seat,Iowa,Republican Party,Matthew,Whitaker,Matthew_Whitaker,Matthew_Whitaker_(Iowa),https://ballotpedia.org/Matthew_Whitaker
+7350,7350,S4IA00103,"YOUNG, DAVID",House,Open seat,Iowa,Republican Party,David,Young,David_Young,David_Young_(Iowa),https://ballotpedia.org/David_Young
+7351,7351,S4IA00129,"ERNST, JONI K",Senate,Incumbent,Iowa,Republican Party,Joni,Ernst,Joni_Ernst,Joni_Ernst_(Iowa),https://ballotpedia.org/Joni_Ernst
+7352,7352,S4IA00194,"STEWART, RICK",Senate,Challenger,Iowa,Libertarian Party,Rick,Stewart,Rick_Stewart,Rick_Stewart_(Iowa),https://ballotpedia.org/Rick_Stewart
+7353,7353,S4IA00228,"SMITH, JOSHUA DANIEL",Senate,,Iowa,Libertarian Party,Joshua,Smith,Joshua_Smith,Joshua_Smith_(Iowa),https://ballotpedia.org/Joshua_Smith
+7354,7354,S4IL00438,"TRUAX, DOUGLAS LEE",Senate,Challenger,Illinois,Republican Party,Douglas,Truax,Douglas_Truax,Douglas_Truax_(Illinois),https://ballotpedia.org/Douglas_Truax
+7355,7355,S4IN00121,"YOUNG, ALEEM MR",Senate,,Indiana,Democratic Party,Aleem,Young,Aleem_Young,Aleem_Young_(Indiana),https://ballotpedia.org/Aleem_Young
+7356,7356,S4KY00067,"MARKSBERRY, WARREN EDWARD",Senate,Challenger,Kentucky,Democratic Party,Warren,Marksberry,Warren_Marksberry,Warren_Marksberry_(Kentucky),https://ballotpedia.org/Warren_Marksberry
+7357,7357,S4KY00216,"ADAMS, JOSHUA",Senate,,Kentucky,Republican Party,Joshua,Adams,Joshua_Adams,Joshua_Adams_(Kentucky),https://ballotpedia.org/Joshua_Adams
+7358,7358,S4LA00040,"JOHN, CHRIS",Senate,Challenger,Louisiana,Democratic Party,Chris,John,Chris_John,Chris_John_(Louisiana),https://ballotpedia.org/Chris_John
+7359,7359,S4LA00057,"VITTER, DAVID B",Senate,Incumbent,Louisiana,Republican Party,David,Vitter,David_Vitter,David_Vitter_(Louisiana),https://ballotpedia.org/David_Vitter
+7360,7360,S4LA00065,"KENNEDY, JOHN NEELY",Senate,Incumbent,Louisiana,Republican Party,John,Kennedy,John_Kennedy,John_Kennedy_(Louisiana),https://ballotpedia.org/John_Kennedy
+7361,7361,S4LA00107,"CASSIDY, WILLIAM M.",Senate,Incumbent,Louisiana,Republican Party,William,Cassidy,William_Cassidy,William_Cassidy_(Louisiana),https://ballotpedia.org/William_Cassidy
+7362,7362,S4MA00028,"MARKEY, EDWARD SEN.",Senate,Incumbent,Massachusetts,Democratic Party,Edward,Markey,Edward_Markey,Edward_Markey_(Massachusetts),https://ballotpedia.org/Edward_Markey
+7363,7363,S4MA00069,"KERRY, JOHN F",Senate,Challenger,Massachusetts,Democratic Party,John,Kerry,John_Kerry,John_Kerry_(Massachusetts),https://ballotpedia.org/John_Kerry
+7364,7364,S4MA00184,"GOMEZ, GABRIEL",Senate,Challenger,Massachusetts,Republican Party,Gabriel,Gomez,Gabriel_Gomez,Gabriel_Gomez_(Massachusetts),https://ballotpedia.org/Gabriel_Gomez
+7365,7365,S4MA00234,"HERR, BRIAN",Senate,Challenger,Massachusetts,Republican Party,Brian,Herr,Brian_Herr,Brian_Herr_(Massachusetts),https://ballotpedia.org/Brian_Herr
+7366,7366,S4MI00298,"CARR, BOB",Senate,Challenger,Michigan,Republican Party,Bob,Carr,Bob_Carr,Bob_Carr_(Michigan),https://ballotpedia.org/Bob_Carr
+7367,7367,S4MI00355,"PETERS, GARY",Senate,Incumbent,Michigan,Democratic Party,Gary,Peters,Gary_Peters,Gary_Peters_(Michigan),https://ballotpedia.org/Gary_Peters
+7368,7368,S4MN00361,"ORTMAN, JULIANNE",Senate,Challenger,Minnesota,Republican Party,Julianne,Ortman,Julianne_Ortman,Julianne_Ortman_(Minnesota),https://ballotpedia.org/Julianne_Ortman
+7369,7369,S4MN00437,"CARLSON, STEVE",Senate,Challenger,Minnesota,Democratic Party,Steve,Carlson,Steve_Carlson,Steve_Carlson_(Minnesota),https://ballotpedia.org/Steve_Carlson
+7370,7370,S4MO00219,"EXLEY, ZACK",Senate,,Missouri,No Party Affiliation,Zack,Exley,Zack_Exley,Zack_Exley_(Missouri),https://ballotpedia.org/Zack_Exley
+7371,7371,S4MS00120,"MCDANIEL, CHRISTOPHER BRIAN",Senate,Open seat,Mississippi,Republican Party,Christopher,Mcdaniel,Christopher_Mcdaniel,Christopher_Mcdaniel_(Mississippi),https://ballotpedia.org/Christopher_Mcdaniel
+7372,7372,S4MT00167,"MADIGAN, THOMAS JOHN MR.",Senate,,Montana,Republican Party,Thomas,Madigan,Thomas_Madigan,Thomas_Madigan_(Montana),https://ballotpedia.org/Thomas_Madigan
+7373,7373,S4NC00089,"BURR, RICHARD M",Senate,Incumbent,North Carolina,Republican Party,Richard,Burr,Richard_Burr,Richard_Burr_(North Carolina),https://ballotpedia.org/Richard_Burr
+7374,7374,S4NC00162,"TILLIS, THOM R. SEN.",Senate,Incumbent,North Carolina,Republican Party,Thom,Tillis,Thom_Tillis,Thom_Tillis_(North Carolina),https://ballotpedia.org/Thom_Tillis
+7375,7375,S4NC00212,"STEWART, WILLIAM C JR",Senate,Challenger,North Carolina,Democratic Party,William,Stewart,William_Stewart,William_Stewart_(North Carolina),https://ballotpedia.org/William_Stewart
+7376,7376,S4ND00061,"HEDGER, KRISTIN RUTH",Senate,,North Dakota,No Party Affiliation,Kristin,Hedger,Kristin_Hedger,Kristin_Hedger_(North Dakota),https://ballotpedia.org/Kristin_Hedger
+7377,7377,S4NE00090,"SASSE, BENJAMIN E.",Senate,Incumbent,Nebraska,Republican Party,Benjamin,Sasse,Benjamin_Sasse,Benjamin_Sasse_(Nebraska),https://ballotpedia.org/Benjamin_Sasse
+7378,7378,S4NE00157,"WATSON, TODD",Senate,Challenger,Nebraska,Republican Party,Todd,Watson,Todd_Watson,Todd_Watson_(Nebraska),https://ballotpedia.org/Todd_Watson
+7379,7379,S4NH00096,"MARTIN, ANDY",Senate,Challenger,New Hampshire,Republican Party,Andy,Martin,Andy_Martin,Andy_Martin_(New Hampshire),https://ballotpedia.org/Andy_Martin
+7380,7380,S4NH00120,"BROWN, SCOTT",Senate,Challenger,New Hampshire,Republican Party,Scott,Brown,Scott_Brown,Scott_Brown_(New Hampshire),https://ballotpedia.org/Scott_Brown
+7381,7381,S4NJ00185,"BOOKER, CORY A.",Senate,Incumbent,New Jersey,Democratic Party,Cory,Booker,Cory_Booker,Cory_Booker_(New Jersey),https://ballotpedia.org/Cory_Booker
+7382,7382,S4NJ00250,"MEISSNER, STUART",Senate,Challenger,New Jersey,Republican Party,Stuart,Meissner,Stuart_Meissner,Stuart_Meissner_(New Jersey),https://ballotpedia.org/Stuart_Meissner
+7383,7383,S4NJ00292,"GOLDBERG, BRIAN DAVID MR",Senate,Challenger,New Jersey,Republican Party,Brian,Goldberg,Brian_Goldberg,Brian_Goldberg_(New Jersey),https://ballotpedia.org/Brian_Goldberg
+7384,7384,S4NM00118,"ROSE, JERRY",Senate,,New Mexico,Unaffiliated,Jerry,Rose,Jerry_Rose,Jerry_Rose_(New Mexico),https://ballotpedia.org/Jerry_Rose
+7385,7385,S4NV00197,"POLIAK, CARLO",Senate,Challenger,Nevada,Republican Party,Carlo,Poliak,Carlo_Poliak,Carlo_Poliak_(Nevada),https://ballotpedia.org/Carlo_Poliak
+7386,7386,S4NV00239,"WING, BRADLEY SCOTT MR.",Senate,,Nevada,Independent,Bradley,Wing,Bradley_Wing,Bradley_Wing_(Nevada),https://ballotpedia.org/Bradley_Wing
+7387,7387,S4NY00214,"MCDONALD, REECE WRIGHT- 212 SIR",Senate,,New York,Democratic Party,Reece,Mcdonald,Reece_Mcdonald,Reece_Mcdonald_(New York),https://ballotpedia.org/Reece_Mcdonald
+7388,7388,S4NY00222,"TEMURI, PRINCE MUHAMMAD ALI HH",Senate,,New York,,Prince,Temuri,Prince_Temuri,Prince_Temuri_(New York),https://ballotpedia.org/Prince_Temuri
+7389,7389,S4NY00230,"TEMURI, PRINCE MUHAMMAD ALI HH",Senate,,New York,,Prince,Temuri,Prince_Temuri,Prince_Temuri_(New York),https://ballotpedia.org/Prince_Temuri
+7390,7390,S4NY00248,"TEMURI, PRINCE MUHAMMAD ALI HH",Senate,,New York,,Prince,Temuri,Prince_Temuri,Prince_Temuri_(New York),https://ballotpedia.org/Prince_Temuri
+7391,7391,S4OK00067,"MURPHY, ROBERT T",Senate,,Oklahoma,Libertarian Party,Robert,Murphy,Robert_Murphy,Robert_Murphy_(Oklahoma),https://ballotpedia.org/Robert_Murphy
+7392,7392,S4OK00083,"INHOFE, JAMES M. SEN.",Senate,Incumbent,Oklahoma,Republican Party,James,Inhofe,James_Inhofe,James_Inhofe_(Oklahoma),https://ballotpedia.org/James_Inhofe
+7393,7393,S4OK00208,"BILYEU, SHEILA",Senate,Challenger,Oklahoma,Democratic Party,Sheila,Bilyeu,Sheila_Bilyeu,Sheila_Bilyeu_(Oklahoma),https://ballotpedia.org/Sheila_Bilyeu
+7394,7394,S4OK00232,"LANKFORD, JAMES PAUL",Senate,Incumbent,Oklahoma,Republican Party,James,Lankford,James_Lankford,James_Lankford_(Oklahoma),https://ballotpedia.org/James_Lankford
+7395,7395,S4OR00156,"PERKINS, JO RAE",Senate,Challenger,Oregon,Republican Party,Jo,Perkins,Jo_Perkins,Jo_Perkins_(Oregon),https://ballotpedia.org/Jo_Perkins
+7396,7396,S4OR00271,"WESTWOOD, BRET",Senate,,Oregon,Independent,Bret,Westwood,Bret_Westwood,Bret_Westwood_(Oregon),https://ballotpedia.org/Bret_Westwood
+7397,7397,S4PA00121,"TOOMEY, PATRICK JOSEPH",Senate,Incumbent,Pennsylvania,Republican Party,Patrick,Toomey,Patrick_Toomey,Patrick_Toomey_(Pennsylvania),https://ballotpedia.org/Patrick_Toomey
+7398,7398,S4PA00196,"VODVARKA, JOSEPH JOHN",Senate,Open seat,Pennsylvania,Republican Party,Joseph,Vodvarka,Joseph_Vodvarka,Joseph_Vodvarka_(Pennsylvania),https://ballotpedia.org/Joseph_Vodvarka
+7399,7399,S4SC00240,"SCOTT, TIMOTHY E.",Senate,Incumbent,South Carolina,Republican Party,Timothy,Scott,Timothy_Scott,Timothy_Scott_(South Carolina),https://ballotpedia.org/Timothy_Scott
+7400,7400,S4SD00049,"ROUNDS, MIKE",Senate,Incumbent,South Dakota,Republican Party,Mike,Rounds,Mike_Rounds,Mike_Rounds_(South Dakota),https://ballotpedia.org/Mike_Rounds
+7401,7401,S4SD00064,"BOSWORTH, ANNETTE DR",Senate,Open seat,South Dakota,Republican Party,Annette,Bosworth,Annette_Bosworth,Annette_Bosworth_(South Dakota),https://ballotpedia.org/Annette_Bosworth
+7402,7402,S4SD00114,"WALKER, CLAYTON G",Senate,Challenger,South Dakota,Independent,Clayton,Walker,Clayton_Walker,Clayton_Walker_(South Dakota),https://ballotpedia.org/Clayton_Walker
+7403,7403,S4TN00500,"FAIN, DYLAN LEE MR. N/A",Senate,,Tennessee,Democratic Party,Dylan,Fain,Dylan_Fain,Dylan_Fain_(Tennessee),https://ballotpedia.org/Dylan_Fain
+7404,7404,S4TX00508,"MAPP, CHRISTOPHER KEVIN",Senate,Challenger,Texas,Republican Party,Christopher,Mapp,Christopher_Mapp,Christopher_Mapp_(Texas),https://ballotpedia.org/Christopher_Mapp
+7405,7405,S4TX00524,"STOCKMAN, STEVE",Senate,Challenger,Texas,Republican Party,Steve,Stockman,Steve_Stockman,Steve_Stockman_(Texas),https://ballotpedia.org/Steve_Stockman
+7406,7406,S4TX00599,"ARGUIJO, AARON",Senate,,Texas,Democratic Party,Aaron,Arguijo,Aaron_Arguijo,Aaron_Arguijo_(Texas),https://ballotpedia.org/Aaron_Arguijo
+7407,7407,S4VA00148,"HILL, SHAK",Senate,Challenger,Virginia,Republican Party,Shak,Hill,Shak_Hill,Shak_Hill_(Virginia),https://ballotpedia.org/Shak_Hill
+7408,7408,S4VA00155,"GILLESPIE, EDWARD W",Senate,Challenger,Virginia,Republican Party,Edward,Gillespie,Edward_Gillespie,Edward_Gillespie_(Virginia),https://ballotpedia.org/Edward_Gillespie
+7409,7409,S4VA00197,"SMITH, C.L. CHUCK JR",Senate,,Virginia,Republican Party,C.l.,Smith,C.l._Smith,C.l._Smith_(Virginia),https://ballotpedia.org/C.l._Smith
+7410,7410,S4VT00017,"LEAHY, PATRICK J",Senate,Incumbent,Vermont,Democratic Party,Patrick,Leahy,Patrick_Leahy,Patrick_Leahy_(Vermont),https://ballotpedia.org/Patrick_Leahy
+7411,7411,S4VT00033,"SANDERS, BERNARD",Senate,Incumbent,Vermont,Independent,Bernard,Sanders,Bernard_Sanders,Bernard_Sanders_(Vermont),https://ballotpedia.org/Bernard_Sanders
+7412,7412,S4WA00532,"PETERSON, JOHN",Senate,,Washington,Democratic Party,John,Peterson,John_Peterson,John_Peterson_(Washington),https://ballotpedia.org/John_Peterson
+7413,7413,S4WA00540,"EINSTEIN, MANDINGO EARTH",Senate,,Washington,Democratic Party,Mandingo,Einstein,Mandingo_Einstein,Mandingo_Einstein_(Washington),https://ballotpedia.org/Mandingo_Einstein
+7414,7414,S4WV00084,"RAESE, JOHN REEVES",Senate,Challenger,West Virginia,Republican Party,John,Raese,John_Raese,John_Raese_(West Virginia),https://ballotpedia.org/John_Raese
+7415,7415,S4WV00159,"CAPITO, SHELLEY MOORE",Senate,Incumbent,West Virginia,Republican Party,Shelley,Capito,Shelley_Capito,Shelley_Capito_(West Virginia),https://ballotpedia.org/Shelley_Capito
+7416,7416,S4WY00147,"MILLER, BRYAN",Senate,Open seat,Wyoming,Republican Party,Bryan,Miller,Bryan_Miller,Bryan_Miller_(Wyoming),https://ballotpedia.org/Bryan_Miller
+7417,7417,S6AL00013,"SHELBY, RICHARD C",Senate,Incumbent,Alabama,Republican Party,Richard,Shelby,Richard_Shelby,Richard_Shelby_(Alabama),https://ballotpedia.org/Richard_Shelby
+7418,7418,S6AL00195,"SESSIONS, JEFFERSON B",Senate,Challenger,Alabama,Republican Party,Jefferson,Sessions,Jefferson_Sessions,Jefferson_Sessions_(Alabama),https://ballotpedia.org/Jefferson_Sessions
+7419,7419,S6AL00302,"CRUMPTON, RONALD (RON) STEVEN",Senate,Challenger,Alabama,Democratic Party,Ronald,Crumpton,Ronald_Crumpton,Ronald_Crumpton_(Alabama),https://ballotpedia.org/Ronald_Crumpton
+7420,7420,S6AL00369,"NANA, CHARLES",Senate,Challenger,Alabama,Democratic Party,Charles,Nana,Charles_Nana,Charles_Nana_(Alabama),https://ballotpedia.org/Charles_Nana
+7421,7421,S6AZ00019,"MCCAIN, JOHN S",Senate,Incumbent,Arizona,Republican Party,John,Mccain,John_Mccain,John_Mccain_(Arizona),https://ballotpedia.org/John_Mccain
+7422,7422,S6AZ00217,"MELUSKEY, ALEXANDER",Senate,Challenger,Arizona,Republican Party,Alexander,Meluskey,Alexander_Meluskey,Alexander_Meluskey_(Arizona),https://ballotpedia.org/Alexander_Meluskey
+7423,7423,S6AZ00282,"MAUL, LESTER ""SKIP"" RALPH",Senate,Challenger,Arizona,Independent,Lester,Maul,Lester_Maul,Lester_Maul_(Arizona),https://ballotpedia.org/Lester_Maul
+7424,7424,S6CA00584,"HARRIS, KAMALA D",Senate,Incumbent,California,Democratic Party,Kamala,Harris,Kamala_Harris,Kamala_Harris_(California),https://ballotpedia.org/Kamala_Harris
+7425,7425,S6CA00634,"AGBEDE, AKINYEMI",Senate,Challenger,California,Democratic Party,Akinyemi,Agbede,Akinyemi_Agbede,Akinyemi_Agbede_(California),https://ballotpedia.org/Akinyemi_Agbede
+7426,7426,S6CA00691,"SANCHEZ, LORETTA",Senate,Open seat,California,Democratic Party,Loretta,Sanchez,Loretta_Sanchez,Loretta_Sanchez_(California),https://ballotpedia.org/Loretta_Sanchez
+7427,7427,S6CA00790,"PIERCE, DOUGLAS HOWARD",Senate,Challenger,California,Democratic Party,Douglas,Pierce,Douglas_Pierce,Douglas_Pierce_(California),https://ballotpedia.org/Douglas_Pierce
+7428,7428,S6CA00949,"PARKER, JOHN",Senate,Challenger,California,Peace And Freedom,John,Parker,John_Parker,John_Parker_(California),https://ballotpedia.org/John_Parker
+7429,7429,S6CA00956,"ELIZONDO, PAMELA",Senate,Challenger,California,Green Party,Pamela,Elizondo,Pamela_Elizondo,Pamela_Elizondo_(California),https://ballotpedia.org/Pamela_Elizondo
+7430,7430,S6CA00980,"GARCIA, ELEANOR",Senate,Challenger,California,None,Eleanor,Garcia,Eleanor_Garcia,Eleanor_Garcia_(California),https://ballotpedia.org/Eleanor_Garcia
+7431,7431,S6CA01038,"GREEN, STEVEN LEWIS MR.",Senate,,California,Democratic Party,Steven,Green,Steven_Green,Steven_Green_(California),https://ballotpedia.org/Steven_Green
+7432,7432,S6CO00333,"UNDERWOOD, ERIK M.",Senate,Challenger,Colorado,Democratic Party,Erik,Underwood,Erik_Underwood,Erik_Underwood_(Colorado),https://ballotpedia.org/Erik_Underwood
+7433,7433,S6CT05090,"WOLF, AUGUST L",Senate,Challenger,Connecticut,Republican Party,August,Wolf,August_Wolf,August_Wolf_(Connecticut),https://ballotpedia.org/August_Wolf
+7434,7434,S6DE00131,"O'DONNELL, CHRISTINE",Senate,Open seat,Delaware,Republican Party,Christine,O'donnell,Christine_O'donnell,Christine_O'donnell_(Delaware),https://ballotpedia.org/Christine_O'donnell
+7435,7435,S6FL00236,"MCBRIDE, WILLIAM",Senate,Challenger,Florida,Republican Party,William,Mcbride,William_Mcbride,William_Mcbride_(Florida),https://ballotpedia.org/William_Mcbride
+7436,7436,S6FL00277,"JONES, LATERESA ANN",Senate,Challenger,Florida,Republican Party,Lateresa,Jones,Lateresa_Jones,Lateresa_Jones_(Florida),https://ballotpedia.org/Lateresa_Jones
+7437,7437,S6FL00319,"MURPHY, PATRICK E",Senate,Challenger,Florida,Democratic Party,Patrick,Murphy,Patrick_Murphy,Patrick_Murphy_(Florida),https://ballotpedia.org/Patrick_Murphy
+7438,7438,S6FL00376,"GRAYSON, ALAN MARK",Senate,Challenger,Florida,Democratic Party,Alan,Grayson,Alan_Grayson,Alan_Grayson_(Florida),https://ballotpedia.org/Alan_Grayson
+7439,7439,S6FL00418,"RIVERA, ERNESTO J",Senate,Challenger,Florida,Republican Party,Ernesto,Rivera,Ernesto_Rivera,Ernesto_Rivera_(Florida),https://ballotpedia.org/Ernesto_Rivera
+7440,7440,S6FL00442,"WALLS-WINDHAUSER, ANGELA MARIE",Senate,Challenger,Florida,Republican Party,Angela,Walls-windhauser,Angela_Walls-windhauser,Angela_Walls-windhauser_(Florida),https://ballotpedia.org/Angela_Walls-windhauser
+7441,7441,S6FL00475,"BURKE, ROBERT INGRAM",Senate,Challenger,Florida,,Robert,Burke,Robert_Burke,Robert_Burke_(Florida),https://ballotpedia.org/Robert_Burke
+7442,7442,S6GA00119,"ISAKSON, JOHN HARDY",Senate,Incumbent,Georgia,Republican Party,John,Isakson,John_Isakson,John_Isakson_(Georgia),https://ballotpedia.org/John_Isakson
+7443,7443,S6ID00013,"EVANS, JOHN VICTOR",Senate,Challenger,Idaho,Democratic Party,John,Evans,John_Evans,John_Evans_(Idaho),https://ballotpedia.org/John_Evans
+7444,7444,S6ID00104,"WRITZ, RAYMOND J",Senate,Challenger,Idaho,Constitution Party,Raymond,Writz,Raymond_Writz,Raymond_Writz_(Idaho),https://ballotpedia.org/Raymond_Writz
+7445,7445,S6IL00151,"DURBIN, RICHARD J.",Senate,Incumbent,Illinois,Democratic Party,Richard,Durbin,Richard_Durbin,Richard_Durbin_(Illinois),https://ballotpedia.org/Richard_Durbin
+7446,7446,S6IL00185,"MARSHALL, ROBERT",Senate,Challenger,Illinois,Republican Party,Robert,Marshall,Robert_Marshall,Robert_Marshall_(Illinois),https://ballotpedia.org/Robert_Marshall
+7447,7447,S6IL00292,"DUCKWORTH, L. TAMMY",Senate,Incumbent,Illinois,Democratic Party,L.,Duckworth,L._Duckworth,L._Duckworth_(Illinois),https://ballotpedia.org/L._Duckworth
+7448,7448,S6IN00175,"HOLCOMB, ERIC JOSEPH",Senate,Open seat,Indiana,Republican Party,Eric,Holcomb,Eric_Holcomb,Eric_Holcomb_(Indiana),https://ballotpedia.org/Eric_Holcomb
+7449,7449,S6IN00191,"YOUNG, TODD CHRISTOPHER",Senate,Incumbent,Indiana,Republican Party,Todd,Young,Todd_Young,Todd_Young_(Indiana),https://ballotpedia.org/Todd_Young
+7450,7450,S6IN00209,"DICKERSON, JOHN MARTIN",Senate,Open seat,Indiana,Democratic Party,John,Dickerson,John_Dickerson,John_Dickerson_(Indiana),https://ballotpedia.org/John_Dickerson
+7451,7451,S6KS00080,"ROBERTS, PAT",Senate,Incumbent,Kansas,Republican Party,Pat,Roberts,Pat_Roberts,Pat_Roberts_(Kansas),https://ballotpedia.org/Pat_Roberts
+7452,7452,S6KY00195,"DUNCAN, SCOTT MICHEAL",Senate,,Kentucky,Independent,Scott,Duncan,Scott_Duncan,Scott_Duncan_(Kentucky),https://ballotpedia.org/Scott_Duncan
+7453,7453,S6LA00318,"FLEMING, JOHN C JR",Senate,Open seat,Louisiana,Republican Party,John,Fleming,John_Fleming,John_Fleming_(Louisiana),https://ballotpedia.org/John_Fleming
+7454,7454,S6LA00342,"EDWARDS, DERRICK",Senate,Challenger,Louisiana,Democratic Party,Derrick,Edwards,Derrick_Edwards,Derrick_Edwards_(Louisiana),https://ballotpedia.org/Derrick_Edwards
+7455,7455,S6LA00441,"BILLIOT, BERYL MR",Senate,Challenger,Louisiana,No Party Preference,Beryl,Billiot,Beryl_Billiot,Beryl_Billiot_(Louisiana),https://ballotpedia.org/Beryl_Billiot
+7456,7456,S6MD03177,"CARDIN, BENJAMIN L",Senate,Incumbent,Maryland,Democratic Party,Benjamin,Cardin,Benjamin_Cardin,Benjamin_Cardin_(Maryland),https://ballotpedia.org/Benjamin_Cardin
+7457,7457,S6MD03441,"VAN HOLLEN, CHRIS",Senate,Incumbent,Maryland,Democratic Party,Chris,Van hollen,Chris_Van hollen,Chris_Van hollen_(Maryland),https://ballotpedia.org/Chris_Van hollen
+7458,7458,S6ME00159,"COLLINS, SUSAN M.",Senate,Incumbent,Maine,Republican Party,Susan,Collins,Susan_Collins,Susan_Collins_(Maine),https://ballotpedia.org/Susan_Collins
+7459,7459,S6MN00267,"KLOBUCHAR, AMY",Senate,Incumbent,Minnesota,Democratic-Farmer-Labor,Amy,Klobuchar,Amy_Klobuchar,Amy_Klobuchar_(Minnesota),https://ballotpedia.org/Amy_Klobuchar
+7460,7460,S6MO00289,"BOND, CHRISTOPHER S",Senate,Challenger,Missouri,Republican Party,Christopher,Bond,Christopher_Bond,Christopher_Bond_(Missouri),https://ballotpedia.org/Christopher_Bond
+7461,7461,S6MO00305,"MCCASKILL, CLAIRE",Senate,Incumbent,Missouri,Democratic Party,Claire,Mccaskill,Claire_Mccaskill,Claire_Mccaskill_(Missouri),https://ballotpedia.org/Claire_Mccaskill
+7462,7462,S6MT00097,"REHBERG, DENNIS RAY",Senate,Challenger,Montana,Republican Party,Dennis,Rehberg,Dennis_Rehberg,Dennis_Rehberg_(Montana),https://ballotpedia.org/Dennis_Rehberg
+7463,7463,S6MT00162,"TESTER, R. JON",Senate,Incumbent,Montana,Democratic Party,R.,Tester,R._Tester,R._Tester_(Montana),https://ballotpedia.org/R._Tester
+7464,7464,S6NC00324,"ABRAMS, MARCIA KAREN DR PHD",Senate,Open seat,North Carolina,Republican Party,Marcia,Abrams,Marcia_Abrams,Marcia_Abrams_(North Carolina),https://ballotpedia.org/Marcia_Abrams
+7465,7465,S6NC00332,"DONG, YUHONG",Senate,,North Carolina,Other,Yuhong,Dong,Yuhong_Dong,Yuhong_Dong_(North Carolina),https://ballotpedia.org/Yuhong_Dong
+7466,7466,S6NE00095,"NELSON, E BENJAMIN",Senate,Open seat,Nebraska,Democratic Party,E,Nelson,E_Nelson,E_Nelson_(Nebraska),https://ballotpedia.org/E_Nelson
+7467,7467,S6NE00137,"DUNN, EDWARD MR.",Senate,,Nebraska,Republican Party,Edward,Dunn,Edward_Dunn,Edward_Dunn_(Nebraska),https://ballotpedia.org/Edward_Dunn
+7468,7468,S6NH00091,"HASSAN, MARGARET WOOD",Senate,Incumbent,New Hampshire,Democratic Party,Margaret,Hassan,Margaret_Hassan,Margaret_Hassan_(New Hampshire),https://ballotpedia.org/Margaret_Hassan
+7469,7469,S6NJ00131,"ZIMMER, DICK",Senate,Challenger,New Jersey,Republican Party,Dick,Zimmer,Dick_Zimmer,Dick_Zimmer_(New Jersey),https://ballotpedia.org/Dick_Zimmer
+7470,7470,S6NJ00271,"KEAN, THOMAS H JR",Senate,Challenger,New Jersey,Republican Party,Thomas,Kean,Thomas_Kean,Thomas_Kean_(New Jersey),https://ballotpedia.org/Thomas_Kean
+7471,7471,S6NJ00289,"MENENDEZ, ROBERT",Senate,Incumbent,New Jersey,Democratic Party,Robert,Menendez,Robert_Menendez,Robert_Menendez_(New Jersey),https://ballotpedia.org/Robert_Menendez
+7472,7472,S6NV00028,"REID, HARRY",Senate,Incumbent,Nevada,Democratic Party,Harry,Reid,Harry_Reid,Harry_Reid_(Nevada),https://ballotpedia.org/Harry_Reid
+7473,7473,S6NV00200,"CORTEZ MASTO, CATHERINE",Senate,Incumbent,Nevada,Democratic Party,Catherine,Cortez masto,Catherine_Cortez masto,Catherine_Cortez masto_(Nevada),https://ballotpedia.org/Catherine_Cortez masto
+7474,7474,S6NV00234,"MAHENDRA, SUJEET BOBBY NARENDRA",Senate,Challenger,Nevada,Democratic Party,Sujeet,Mahendra,Sujeet_Mahendra,Sujeet_Mahendra_(Nevada),https://ballotpedia.org/Sujeet_Mahendra
+7475,7475,S6NV00275,"HECK, THOMAS",Senate,Challenger,Nevada,Republican Party,Thomas,Heck,Thomas_Heck,Thomas_Heck_(Nevada),https://ballotpedia.org/Thomas_Heck
+7476,7476,S6NY00243,"SPENCER, JOHN D",Senate,Challenger,New York,Republican Party,John,Spencer,John_Spencer,John_Spencer_(New York),https://ballotpedia.org/John_Spencer
+7477,7477,S6NY00250,"PIRRO, JEANINE F",Senate,Challenger,New York,Republican Party,Jeanine,Pirro,Jeanine_Pirro,Jeanine_Pirro_(New York),https://ballotpedia.org/Jeanine_Pirro
+7478,7478,S6NY00383,"SPOTORNO, FRANK",Senate,Challenger,New York,Republican Party,Frank,Spotorno,Frank_Spotorno,Frank_Spotorno_(New York),https://ballotpedia.org/Frank_Spotorno
+7479,7479,S6NY00409,"JONES, RAFAEL ARDEN SR",Senate,Challenger,New York,Republican Party,Rafael,Jones,Rafael_Jones,Rafael_Jones_(New York),https://ballotpedia.org/Rafael_Jones
+7480,7480,S6OH00155,"HACKETT, PAUL III",Senate,Challenger,Ohio,Democratic Party,Paul,Hackett,Paul_Hackett,Paul_Hackett_(Ohio),https://ballotpedia.org/Paul_Hackett
+7481,7481,S6OH00163,"BROWN, SHERROD",Senate,Incumbent,Ohio,Democratic Party,Sherrod,Brown,Sherrod_Brown,Sherrod_Brown_(Ohio),https://ballotpedia.org/Sherrod_Brown
+7482,7482,S6OK04098,"MURPHY, ROBERT T",Senate,,Oklahoma,Libertarian Party,Robert,Murphy,Robert_Murphy,Robert_Murphy_(Oklahoma),https://ballotpedia.org/Robert_Murphy
+7483,7483,S6OK04148,"SWEARENGIN, TAMMY",Senate,,Oklahoma,Republican Party,Tammy,Swearengin,Tammy_Swearengin,Tammy_Swearengin_(Oklahoma),https://ballotpedia.org/Tammy_Swearengin
+7484,7484,S6OR00110,"WYDEN, RONALD LEE",Senate,Incumbent,Oregon,Democratic Party,Ronald,Wyden,Ronald_Wyden,Ronald_Wyden_(Oregon),https://ballotpedia.org/Ronald_Wyden
+7485,7485,S6PA00217,"CASEY, ROBERT P. JR.",Senate,Incumbent,Pennsylvania,Democratic Party,Robert,Casey,Robert_Casey,Robert_Casey_(Pennsylvania),https://ballotpedia.org/Robert_Casey
+7486,7486,S6PA00258,"PAWLOWSKI, ED",Senate,Challenger,Pennsylvania,Democratic Party,Ed,Pawlowski,Ed_Pawlowski,Ed_Pawlowski_(Pennsylvania),https://ballotpedia.org/Ed_Pawlowski
+7487,7487,S6PA00266,"MCGINTY, KATHLEEN ALANA",Senate,Challenger,Pennsylvania,Democratic Party,Kathleen,Mcginty,Kathleen_Mcginty,Kathleen_Mcginty_(Pennsylvania),https://ballotpedia.org/Kathleen_Mcginty
+7488,7488,S6PA00274,"FETTERMAN, JOHN KARL",Senate,Open seat,Pennsylvania,Democratic Party,John,Fetterman,John_Fetterman,John_Fetterman_(Pennsylvania),https://ballotpedia.org/John_Fetterman
+7489,7489,S6RI00163,"REED, JOHN F.",Senate,Incumbent,Rhode Island,Democratic Party,John,Reed,John_Reed,John_Reed_(Rhode Island),https://ballotpedia.org/John_Reed
+7490,7490,S6RI00221,"WHITEHOUSE, SHELDON",Senate,Incumbent,Rhode Island,Democratic Party,Sheldon,Whitehouse,Sheldon_Whitehouse,Sheldon_Whitehouse_(Rhode Island),https://ballotpedia.org/Sheldon_Whitehouse
+7491,7491,S6SC04155,"BLEDSOE, WILLIAM DAVID DVM",Senate,Challenger,South Carolina,Constitution Party,William,Bledsoe,William_Bledsoe,William_Bledsoe_(South Carolina),https://ballotpedia.org/William_Bledsoe
+7492,7492,S6SD00051,"JOHNSON, TIM",Senate,Challenger,South Dakota,Democratic Party,Tim,Johnson,Tim_Johnson,Tim_Johnson_(South Dakota),https://ballotpedia.org/Tim_Johnson
+7493,7493,S6SD01109,"BEAUFORD, WILLIAM TREMEYNE MR III",Senate,,South Dakota,Republican Party,William,Beauford,William_Beauford,William_Beauford_(South Dakota),https://ballotpedia.org/William_Beauford
+7494,7494,S6TN00216,"CORKER, ROBERT P JR",Senate,Incumbent,Tennessee,Republican Party,Robert,Corker,Robert_Corker,Robert_Corker_(Tennessee),https://ballotpedia.org/Robert_Corker
+7495,7495,S6TX00206,"HUNTER, DARREL REECE",Senate,Challenger,Texas,Democratic Party,Darrel,Hunter,Darrel_Hunter,Darrel_Hunter_(Texas),https://ballotpedia.org/Darrel_Hunter
+7496,7496,S6VA00093,"WARNER, MARK ROBERT",Senate,Incumbent,Virginia,Democratic Party,Mark,Warner,Mark_Warner,Mark_Warner_(Virginia),https://ballotpedia.org/Mark_Warner
+7497,7497,S6WA00438,"CHURCHILL, PANO",Senate,Challenger,Washington,Other,Pano,Churchill,Pano_Churchill,Pano_Churchill_(Washington),https://ballotpedia.org/Pano_Churchill
+7498,7498,S6WY00068,"BARRASSO, JOHN A",Senate,Incumbent,Wyoming,Republican Party,John,Barrasso,John_Barrasso,John_Barrasso_(Wyoming),https://ballotpedia.org/John_Barrasso
+7499,7499,S6WY00126,"ENZI, MICHAEL B",Senate,Incumbent,Wyoming,Republican Party,Michael,Enzi,Michael_Enzi,Michael_Enzi_(Wyoming),https://ballotpedia.org/Michael_Enzi

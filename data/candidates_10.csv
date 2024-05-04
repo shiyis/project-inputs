@@ -1,0 +1,501 @@
+,Unnamed: 0,CAND_ID,CAND_NAME,CAND_OFFICE,CAND_ICI,STATE_FULL,PARTY_FULL,CAND_FIRST,CAND_LAST,SEARCH_QUERY,SEARCH_QUERY_W_STATE,SEARCH_URLS
+5000,5000,H8NC02086,"SEARCY, SAM",House,Open seat,North Carolina,Democratic Party,Sam,Searcy,Sam_Searcy,Sam_Searcy_(North Carolina),https://ballotpedia.org/Sam_Searcy
+5001,5001,H8NC02110,"COLEMAN, LINDA",House,Challenger,North Carolina,Democratic Party,Linda,Coleman,Linda_Coleman,Linda_Coleman_(North Carolina),https://ballotpedia.org/Linda_Coleman
+5002,5002,H8NC02136,"MATEMU, JAPHETH",House,Open seat,North Carolina,Libertarian Party,Japheth,Matemu,Japheth_Matemu,Japheth_Matemu_(North Carolina),https://ballotpedia.org/Japheth_Matemu
+5003,5003,H8NC05055,"MARSHALL, JENNIFER",House,Challenger,North Carolina,Democratic Party,Jennifer,Marshall,Jennifer_Marshall,Jennifer_Marshall_(North Carolina),https://ballotpedia.org/Jennifer_Marshall
+5004,5004,H8NC06079,"WATTS, RYAN",House,Challenger,North Carolina,Democratic Party,Ryan,Watts,Ryan_Watts,Ryan_Watts_(North Carolina),https://ballotpedia.org/Ryan_Watts
+5005,5005,H8NC07093,"ACKER, BRANDON W.",House,Challenger,North Carolina,Democratic Party,Brandon,Acker,Brandon_Acker,Brandon_Acker_(North Carolina),https://ballotpedia.org/Brandon_Acker
+5006,5006,H8NC07127,"PARKER, GRAYSON",House,Challenger,North Carolina,Democratic Party,Grayson,Parker,Grayson_Parker,Grayson_Parker_(North Carolina),https://ballotpedia.org/Grayson_Parker
+5007,5007,H8NC08091,"HUFFMAN, JEFFREY SCOTT",House,Challenger,North Carolina,Democratic Party,Jeffrey,Huffman,Jeffrey_Huffman,Jeffrey_Huffman_(North Carolina),https://ballotpedia.org/Jeffrey_Huffman
+5008,5008,H8NC08109,"HUFFMAN, SCOTT",House,Open seat,North Carolina,Democratic Party,Scott,Huffman,Scott_Huffman,Scott_Huffman_(North Carolina),https://ballotpedia.org/Scott_Huffman
+5009,5009,H8NC09123,"MCCREADY, DANIEL",House,Challenger,North Carolina,Democratic Party,Daniel,Mccready,Daniel_Mccready,Daniel_Mccready_(North Carolina),https://ballotpedia.org/Daniel_Mccready
+5010,5010,H8NC09156,"SCOTT, JEFF",House,Open seat,North Carolina,Libertarian Party,Jeff,Scott,Jeff_Scott,Jeff_Scott_(North Carolina),https://ballotpedia.org/Jeff_Scott
+5011,5011,H8NC10097,"BROWN, DAVID WILSON",House,Challenger,North Carolina,Democratic Party,David,Brown,David_Brown,David_Brown_(North Carolina),https://ballotpedia.org/David_Brown
+5012,5012,H8NC13067,"MANNING, KATHY",House,Incumbent,North Carolina,Democratic Party,Kathy,Manning,Kathy_Manning,Kathy_Manning_(North Carolina),https://ballotpedia.org/Kathy_Manning
+5013,5013,H8ND00096,"ARMSTRONG, KELLY",House,Incumbent,North Dakota,Republican Party,Kelly,Armstrong,Kelly_Armstrong,Kelly_Armstrong_(North Dakota),https://ballotpedia.org/Kelly_Armstrong
+5014,5014,H8ND00104,"CAMPBELL, TOM",House,Open seat,North Dakota,Republican Party,Tom,Campbell,Tom_Campbell,Tom_Campbell_(North Dakota),https://ballotpedia.org/Tom_Campbell
+5015,5015,H8ND00120,"ABENTROTH, TIFFANY",House,Open seat,North Dakota,Republican Party,Tiffany,Abentroth,Tiffany_Abentroth,Tiffany_Abentroth_(North Dakota),https://ballotpedia.org/Tiffany_Abentroth
+5016,5016,H8NE02220,"EASTMAN, KARA",House,Challenger,Nebraska,Democratic Party,Kara,Eastman,Kara_Eastman,Kara_Eastman_(Nebraska),https://ballotpedia.org/Kara_Eastman
+5017,5017,H8NE03103,"BOLINGER, LARRY LEE SCOTT",House,Challenger,Nebraska,Republican Party,Larry,Bolinger,Larry_Bolinger,Larry_Bolinger_(Nebraska),https://ballotpedia.org/Larry_Bolinger
+5018,5018,H8NE03129,"KOWALSKI, ARRON",House,Challenger,Nebraska,Republican Party,Arron,Kowalski,Arron_Kowalski,Arron_Kowalski_(Nebraska),https://ballotpedia.org/Arron_Kowalski
+5019,5019,H8NH01178,"SOLDATI, LINCOLN T.",House,Open seat,New Hampshire,Democratic Party,Lincoln,Soldati,Lincoln_Soldati,Lincoln_Soldati_(New Hampshire),https://ballotpedia.org/Lincoln_Soldati
+5020,5020,H8NH01186,"SULLIVAN, MAURA CORBY",House,Open seat,New Hampshire,Democratic Party,Maura,Sullivan,Maura_Sullivan,Maura_Sullivan_(New Hampshire),https://ballotpedia.org/Maura_Sullivan
+5021,5021,H8NH01210,"PAPPAS, CHRIS",House,Incumbent,New Hampshire,Democratic Party,Chris,Pappas,Chris_Pappas,Chris_Pappas_(New Hampshire),https://ballotpedia.org/Chris_Pappas
+5022,5022,H8NH01228,"MACKENZIE, MARK S",House,Open seat,New Hampshire,Democratic Party,Mark,Mackenzie,Mark_Mackenzie,Mark_Mackenzie_(New Hampshire),https://ballotpedia.org/Mark_Mackenzie
+5023,5023,H8NH01293,"CARDINAL, PAUL",House,Open seat,New Hampshire,Democratic Party,Paul,Cardinal,Paul_Cardinal,Paul_Cardinal_(New Hampshire),https://ballotpedia.org/Paul_Cardinal
+5024,5024,H8NH02192,"HORN, JENNIFER",House,Open seat,New Hampshire,Republican Party,Jennifer,Horn,Jennifer_Horn,Jennifer_Horn_(New Hampshire),https://ballotpedia.org/Jennifer_Horn
+5025,5025,H8NH02242,"ODONNELL, JUSTIN",House,Challenger,New Hampshire,Libertarian Party,Justin,Odonnell,Justin_Odonnell,Justin_Odonnell_(New Hampshire),https://ballotpedia.org/Justin_Odonnell
+5026,5026,H8NH02275,"NEGRON, STEVE",House,Challenger,New Hampshire,Republican Party,Steve,Negron,Steve_Negron,Steve_Negron_(New Hampshire),https://ballotpedia.org/Steve_Negron
+5027,5027,H8NJ01226,"KABIR, MOHAMMAD SHAHJAHAN",House,Challenger,New Jersey,Democratic Party,Mohammad,Kabir,Mohammad_Kabir,Mohammad_Kabir_(New Jersey),https://ballotpedia.org/Mohammad_Kabir
+5028,5028,H8NJ02141,"YOUNGBLOOD, TANZIE",House,Open seat,New Jersey,Democratic Party,Tanzie,Youngblood,Tanzie_Youngblood,Tanzie_Youngblood_(New Jersey),https://ballotpedia.org/Tanzie_Youngblood
+5029,5029,H8NJ02166,"VAN DREW, JEFF MR",House,Incumbent,New Jersey,Republican Party,Jeff,Van drew,Jeff_Van drew,Jeff_Van drew_(New Jersey),https://ballotpedia.org/Jeff_Van drew
+5030,5030,H8NJ02182,"FITZHERBERT, BRIAN",House,Challenger,New Jersey,Republican Party,Brian,Fitzherbert,Brian_Fitzherbert,Brian_Fitzherbert_(New Jersey),https://ballotpedia.org/Brian_Fitzherbert
+5031,5031,H8NJ02216,"SINGH, HIRSH",House,Open seat,New Jersey,Republican Party,Hirsh,Singh,Hirsh_Singh,Hirsh_Singh_(New Jersey),https://ballotpedia.org/Hirsh_Singh
+5032,5032,H8NJ02257,"KLEINMAN, NATHAN I",House,Open seat,New Jersey,Democratic Party,Nathan,Kleinman,Nathan_Kleinman,Nathan_Kleinman_(New Jersey),https://ballotpedia.org/Nathan_Kleinman
+5033,5033,H8NJ03073,"PALLONE, FRANK JR",House,Incumbent,New Jersey,Democratic Party,Frank,Pallone,Frank_Pallone,Frank_Pallone_(New Jersey),https://ballotpedia.org/Frank_Pallone
+5034,5034,H8NJ03206,"KIM, ANDY",House,Incumbent,New Jersey,Democratic Party,Andy,Kim,Andy_Kim,Andy_Kim_(New Jersey),https://ballotpedia.org/Andy_Kim
+5035,5035,H8NJ04014,"SMITH, CHRISTOPHER H",House,Incumbent,New Jersey,Republican Party,Christopher,Smith,Christopher_Smith,Christopher_Smith_(New Jersey),https://ballotpedia.org/Christopher_Smith
+5036,5036,H8NJ05110,"LONEGAN, STEVEN",House,Challenger,New Jersey,Republican Party,Steven,Lonegan,Steven_Lonegan,Steven_Lonegan_(New Jersey),https://ballotpedia.org/Steven_Lonegan
+5037,5037,H8NJ05128,"SARNOSKI, JASON",House,Challenger,New Jersey,Republican Party,Jason,Sarnoski,Jason_Sarnoski,Jason_Sarnoski_(New Jersey),https://ballotpedia.org/Jason_Sarnoski
+5038,5038,H8NJ05136,"MCCANN, JOHN JOSEPH MR. JR.",House,Challenger,New Jersey,Republican Party,John,Mccann,John_Mccann,John_Mccann_(New Jersey),https://ballotpedia.org/John_Mccann
+5039,5039,H8NJ07132,"HSING, MICHAEL PAUL",House,Open seat,New Jersey,Independent,Michael,Hsing,Michael_Hsing,Michael_Hsing_(New Jersey),https://ballotpedia.org/Michael_Hsing
+5040,5040,H8NJ07181,"SALMON, SCOTT",House,Challenger,New Jersey,Democratic Party,Scott,Salmon,Scott_Salmon,Scott_Salmon_(New Jersey),https://ballotpedia.org/Scott_Salmon
+5041,5041,H8NJ07215,"JOIS, GOUTAM UMESH MR.",House,Challenger,New Jersey,Democratic Party,Goutam,Jois,Goutam_Jois,Goutam_Jois_(New Jersey),https://ballotpedia.org/Goutam_Jois
+5042,5042,H8NJ07223,"MALINOWSKI, TOM",House,Incumbent,New Jersey,Democratic Party,Tom,Malinowski,Tom_Malinowski,Tom_Malinowski_(New Jersey),https://ballotpedia.org/Tom_Malinowski
+5043,5043,H8NJ07231,"PRINGLE, DAVID",House,Challenger,New Jersey,Democratic Party,David,Pringle,David_Pringle,David_Pringle_(New Jersey),https://ballotpedia.org/David_Pringle
+5044,5044,H8NJ07249,"BARSOOM, RAAFAT",House,Challenger,New Jersey,Republican Party,Raafat,Barsoom,Raafat_Barsoom,Raafat_Barsoom_(New Jersey),https://ballotpedia.org/Raafat_Barsoom
+5045,5045,H8NJ08098,"MAHMOUD, MAHMOUD",House,Challenger,New Jersey,Other,Mahmoud,Mahmoud,Mahmoud_Mahmoud,Mahmoud_Mahmoud_(New Jersey),https://ballotpedia.org/Mahmoud_Mahmoud
+5046,5046,H8NJ09088,"LONEGAN, STEVEN",House,Open seat,New Jersey,Republican Party,Steven,Lonegan,Steven_Lonegan,Steven_Lonegan_(New Jersey),https://ballotpedia.org/Steven_Lonegan
+5047,5047,H8NJ09120,"HENRY, WILLIAM OSCAR",House,Challenger,New Jersey,Democratic Party,William,Henry,William_Henry,William_Henry_(New Jersey),https://ballotpedia.org/William_Henry
+5048,5048,H8NJ11142,"SHERRILL, MIKIE",House,Incumbent,New Jersey,Democratic Party,Mikie,Sherrill,Mikie_Sherrill,Mikie_Sherrill_(New Jersey),https://ballotpedia.org/Mikie_Sherrill
+5049,5049,H8NJ11167,"BARTLETT, JOHN",House,Open seat,New Jersey,Democratic Party,John,Bartlett,John_Bartlett,John_Bartlett_(New Jersey),https://ballotpedia.org/John_Bartlett
+5050,5050,H8NJ11183,"WASHBURNE, MARK",House,Challenger,New Jersey,Democratic Party,Mark,Washburne,Mark_Washburne,Mark_Washburne_(New Jersey),https://ballotpedia.org/Mark_Washburne
+5051,5051,H8NJ11217,"WEBBER, JAY",House,Open seat,New Jersey,Republican Party,Jay,Webber,Jay_Webber,Jay_Webber_(New Jersey),https://ballotpedia.org/Jay_Webber
+5052,5052,H8NJ11241,"DE NEUFVILLE, PETER",House,Open seat,New Jersey,Republican Party,Peter,De neufville,Peter_De neufville,Peter_De neufville_(New Jersey),https://ballotpedia.org/Peter_De neufville
+5053,5053,H8NM01224,"HEINRICH, MARTIN",House,Challenger,New Mexico,Democratic Party,Martin,Heinrich,Martin_Heinrich,Martin_Heinrich_(New Mexico),https://ballotpedia.org/Martin_Heinrich
+5054,5054,H8NM01299,"PIDCOCK, ROBERT L",House,Open seat,New Mexico,Democratic Party,Robert,Pidcock,Robert_Pidcock,Robert_Pidcock_(New Mexico),https://ballotpedia.org/Robert_Pidcock
+5055,5055,H8NM01323,"SEDILLO LOPEZ, ANTOINETTE",House,Challenger,New Mexico,Democratic Party,Antoinette,Sedillo lopez,Antoinette_Sedillo lopez,Antoinette_Sedillo lopez_(New Mexico),https://ballotpedia.org/Antoinette_Sedillo lopez
+5056,5056,H8NM01331,"HAALAND, DEBRA",House,Incumbent,New Mexico,Democratic Party,Debra,Haaland,Debra_Haaland,Debra_Haaland_(New Mexico),https://ballotpedia.org/Debra_Haaland
+5057,5057,H8NM01406,"DAVIS, PATRICK",House,Open seat,New Mexico,Democratic Party,Patrick,Davis,Patrick_Davis,Patrick_Davis_(New Mexico),https://ballotpedia.org/Patrick_Davis
+5058,5058,H8NM01430,"MOYA, PAUL",House,Open seat,New Mexico,Democratic Party,Paul,Moya,Paul_Moya,Paul_Moya_(New Mexico),https://ballotpedia.org/Paul_Moya
+5059,5059,H8NM02156,"HERRELL, STELLA YVETTE",House,Incumbent,New Mexico,Republican Party,Stella,Herrell,Stella_Herrell,Stella_Herrell_(New Mexico),https://ballotpedia.org/Stella_Herrell
+5060,5060,H8NM02248,"TORRES SMALL, XOCHITL",House,Incumbent,New Mexico,Democratic Party,Xochitl,Torres small,Xochitl_Torres small,Xochitl_Torres small_(New Mexico),https://ballotpedia.org/Xochitl_Torres small
+5061,5061,H8NM03014,"SALAZAR, CECILIA M",House,,New Mexico,Republican Party,Cecilia,Salazar,Cecilia_Salazar,Cecilia_Salazar_(New Mexico),https://ballotpedia.org/Cecilia_Salazar
+5062,5062,H8NM03196,"LUJAN, BEN R MR.",House,Incumbent,New Mexico,Democratic Party,Ben,Lujan,Ben_Lujan,Ben_Lujan_(New Mexico),https://ballotpedia.org/Ben_Lujan
+5063,5063,H8NV02095,"KOBLE, CLINT MATTHEW MR.",House,Challenger,Nevada,Democratic Party,Clint,Koble,Clint_Koble,Clint_Koble_(Nevada),https://ballotpedia.org/Clint_Koble
+5064,5064,H8NV02129,"HURLEY, JESSE DOUGLAS",House,Challenger,Nevada,Republican Party,Jesse,Hurley,Jesse_Hurley,Jesse_Hurley_(Nevada),https://ballotpedia.org/Jesse_Hurley
+5065,5065,H8NV02137,"BECK, JOEL",House,Challenger,Nevada,Republican Party,Joel,Beck,Joel_Beck,Joel_Beck_(Nevada),https://ballotpedia.org/Joel_Beck
+5066,5066,H8NV03036,"TITUS, DINA",House,Incumbent,Nevada,Democratic Party,Dina,Titus,Dina_Titus,Dina_Titus_(Nevada),https://ballotpedia.org/Dina_Titus
+5067,5067,H8NV03101,"HART, RICHARD CRAIG",House,Challenger,Nevada,Democratic Party,Richard,Hart,Richard_Hart,Richard_Hart_(Nevada),https://ballotpedia.org/Richard_Hart
+5068,5068,H8NV04018,"VILELA, AMY",House,Open seat,Nevada,Democratic Party,Amy,Vilela,Amy_Vilela,Amy_Vilela_(Nevada),https://ballotpedia.org/Amy_Vilela
+5069,5069,H8NV04059,"HARDY, CRESENT",House,Challenger,Nevada,Republican Party,Cresent,Hardy,Cresent_Hardy,Cresent_Hardy_(Nevada),https://ballotpedia.org/Cresent_Hardy
+5070,5070,H8NV04117,"STEPHENS, ALLISON A",House,Open seat,Nevada,Democratic Party,Allison,Stephens,Allison_Stephens,Allison_Stephens_(Nevada),https://ballotpedia.org/Allison_Stephens
+5071,5071,H8NY01148,"ZELDIN, LEE MICHAEL",House,Incumbent,New York,Republican Party,Lee,Zeldin,Lee_Zeldin,Lee_Zeldin_(New York),https://ballotpedia.org/Lee_Zeldin
+5072,5072,H8NY01155,"GERSHON, PERRY",House,Challenger,New York,Democratic Party,Perry,Gershon,Perry_Gershon,Perry_Gershon_(New York),https://ballotpedia.org/Perry_Gershon
+5073,5073,H8NY02070,"GOMES, TIM",House,Challenger,New York,Democratic Party,Tim,Gomes,Tim_Gomes,Tim_Gomes_(New York),https://ballotpedia.org/Tim_Gomes
+5074,5074,H8NY02088,"SAX, MIKE",House,Open seat,New York,Democratic Party,Mike,Sax,Mike_Sax,Mike_Sax_(New York),https://ballotpedia.org/Mike_Sax
+5075,5075,H8NY03177,"SAUBERMAN, JOSHUA A",House,Challenger,New York,Independent,Joshua,Sauberman,Joshua_Sauberman,Joshua_Sauberman_(New York),https://ballotpedia.org/Joshua_Sauberman
+5076,5076,H8NY04050,"MAHER, PATRICIA M",House,Challenger,New York,Democratic Party,Patricia,Maher,Patricia_Maher,Patricia_Maher_(New York),https://ballotpedia.org/Patricia_Maher
+5077,5077,H8NY05123,"CHOUDHURY, MIZANUR",House,Challenger,New York,Democratic Party,Mizanur,Choudhury,Mizanur_Choudhury,Mizanur_Choudhury_(New York),https://ballotpedia.org/Mizanur_Choudhury
+5078,5078,H8NY06048,"MEEKS, GREGORY W.",House,Incumbent,New York,Democratic Party,Gregory,Meeks,Gregory_Meeks,Gregory_Meeks_(New York),https://ballotpedia.org/Gregory_Meeks
+5079,5079,H8NY08093,"WHITE, JESSICA L.",House,Challenger,New York,Reform Party,Jessica,White,Jessica_White,Jessica_White_(New York),https://ballotpedia.org/Jessica_White
+5080,5080,H8NY09158,"BUNKEDDEKO, ADEM",House,Challenger,New York,Democratic Party,Adem,Bunkeddeko,Adem_Bunkeddeko,Adem_Bunkeddeko_(New York),https://ballotpedia.org/Adem_Bunkeddeko
+5081,5081,H8NY09174,"GAYOT, LUTCHI",House,Challenger,New York,Democratic Party,Lutchi,Gayot,Lutchi_Gayot,Lutchi_Gayot_(New York),https://ballotpedia.org/Lutchi_Gayot
+5082,5082,H8NY10081,"LYNCH, HOLLY",House,Challenger,New York,Democratic Party,Holly,Lynch,Holly_Lynch,Holly_Lynch_(New York),https://ballotpedia.org/Holly_Lynch
+5083,5083,H8NY11063,"MELSON, BOYD",House,Challenger,New York,Democratic Party,Boyd,Melson,Boyd_Melson,Boyd_Melson_(New York),https://ballotpedia.org/Boyd_Melson
+5084,5084,H8NY11097,"DECILLIS, ALFRED MICHAEL",House,Challenger,New York,Democratic Party,Alfred,Decillis,Alfred_Decillis,Alfred_Decillis_(New York),https://ballotpedia.org/Alfred_Decillis
+5085,5085,H8NY11113,"ROSE, MAX",House,Incumbent,New York,Democratic Party,Max,Rose,Max_Rose,Max_Rose_(New York),https://ballotpedia.org/Max_Rose
+5086,5086,H8NY11139,"MOHAN, RADHAKRISHNA",House,Challenger,New York,Democratic Party,Radhakrishna,Mohan,Radhakrishna_Mohan,Radhakrishna_Mohan_(New York),https://ballotpedia.org/Radhakrishna_Mohan
+5087,5087,H8NY12129,"PATEL, SURAJ",House,Challenger,New York,Democratic Party,Suraj,Patel,Suraj_Patel,Suraj_Patel_(New York),https://ballotpedia.org/Suraj_Patel
+5088,5088,H8NY15114,"MCMANUS, PATRICK",House,Challenger,New York,Other,Patrick,Mcmanus,Patrick_Mcmanus,Patrick_Mcmanus_(New York),https://ballotpedia.org/Patrick_Mcmanus
+5089,5089,H8NY15148,"OCASIO-CORTEZ, ALEXANDRIA",House,Incumbent,New York,Democratic Party,Alexandria,Ocasio-cortez,Alexandria_Ocasio-cortez,Alexandria_Ocasio-cortez_(New York),https://ballotpedia.org/Alexandria_Ocasio-cortez
+5090,5090,H8NY18266,"BUCHANAN, JARRED ROBERT MR.",House,Challenger,New York,Republican Party,Jarred,Buchanan,Jarred_Buchanan,Jarred_Buchanan_(New York),https://ballotpedia.org/Jarred_Buchanan
+5091,5091,H8NY19058,"ENGEL, ELIOT L.",House,Incumbent,New York,Democratic Party,Eliot,Engel,Eliot_Engel,Eliot_Engel_(New York),https://ballotpedia.org/Eliot_Engel
+5092,5092,H8NY19181,"DELGADO, ANTONIO",House,Incumbent,New York,Democratic Party,Antonio,Delgado,Antonio_Delgado,Antonio_Delgado_(New York),https://ballotpedia.org/Antonio_Delgado
+5093,5093,H8NY20056,"LOWEY, NITA M",House,Incumbent,New York,Democratic Party,Nita,Lowey,Nita_Lowey,Nita_Lowey_(New York),https://ballotpedia.org/Nita_Lowey
+5094,5094,H8NY20080,"FEINER, PAUL J",House,Challenger,New York,Democratic Party,Paul,Feiner,Paul_Feiner,Paul_Feiner_(New York),https://ballotpedia.org/Paul_Feiner
+5095,5095,H8NY21203,"TONKO, PAUL DAVID",House,Incumbent,New York,Democratic Party,Paul,Tonko,Paul_Tonko,Paul_Tonko_(New York),https://ballotpedia.org/Paul_Tonko
+5096,5096,H8NY21245,"COBB, TEDRA",House,Challenger,New York,Democratic Party,Tedra,Cobb,Tedra_Cobb,Tedra_Cobb_(New York),https://ballotpedia.org/Tedra_Cobb
+5097,5097,H8NY22045,"SWEENEY, JOHN E.",House,Challenger,New York,Republican Party,John,Sweeney,John_Sweeney,John_Sweeney_(New York),https://ballotpedia.org/John_Sweeney
+5098,5098,H8NY22151,"BRINDISI, ANTHONY",House,Challenger,New York,Democratic Party,Anthony,Brindisi,Anthony_Brindisi,Anthony_Brindisi_(New York),https://ballotpedia.org/Anthony_Brindisi
+5099,5099,H8NY22177,"RILEY, JOSH",House,Challenger,New York,Democratic Party,Josh,Riley,Josh_Riley,Josh_Riley_(New York),https://ballotpedia.org/Josh_Riley
+5100,5100,H8NY23134,"SUNDQUIST, EDWARD A.",House,Challenger,New York,Democratic Party,Edward,Sundquist,Edward_Sundquist,Edward_Sundquist_(New York),https://ballotpedia.org/Edward_Sundquist
+5101,5101,H8NY23175,"DELLA PIA, MAX HAROLD",House,Challenger,New York,Democratic Party,Max,Della pia,Max_Della pia,Max_Della pia_(New York),https://ballotpedia.org/Max_Della pia
+5102,5102,H8NY23183,"MITRANO, TRACY",House,Challenger,New York,Democratic Party,Tracy,Mitrano,Tracy_Mitrano,Tracy_Mitrano_(New York),https://ballotpedia.org/Tracy_Mitrano
+5103,5103,H8NY24090,"BALTER, DANA",House,Challenger,New York,Democratic Party,Dana,Balter,Dana_Balter,Dana_Balter_(New York),https://ballotpedia.org/Dana_Balter
+5104,5104,H8NY25105,"MORELLE, JOSEPH D",House,Incumbent,New York,Democratic Party,Joseph,Morelle,Joseph_Morelle,Joseph_Morelle_(New York),https://ballotpedia.org/Joseph_Morelle
+5105,5105,H8NY25113,"WILT, ROBIN",House,Challenger,New York,Democratic Party,Robin,Wilt,Robin_Wilt,Robin_Wilt_(New York),https://ballotpedia.org/Robin_Wilt
+5106,5106,H8NY25139,"MCFADDEN, ADAM",House,Open seat,New York,Democratic Party,Adam,Mcfadden,Adam_Mcfadden,Adam_Mcfadden_(New York),https://ballotpedia.org/Adam_Mcfadden
+5107,5107,H8NY27176,"MCMURRAY, NATHAN",House,Challenger,New York,Democratic Party,Nathan,Mcmurray,Nathan_Mcmurray,Nathan_Mcmurray_(New York),https://ballotpedia.org/Nathan_Mcmurray
+5108,5108,H8OH01043,"CHABOT, STEVE",House,Incumbent,Ohio,Republican Party,Steve,Chabot,Steve_Chabot,Steve_Chabot_(Ohio),https://ballotpedia.org/Steve_Chabot
+5109,5109,H8OH01118,"PUREVAL, AFTAB",House,Challenger,Ohio,Democratic Party,Aftab,Pureval,Aftab_Pureval,Aftab_Pureval_(Ohio),https://ballotpedia.org/Aftab_Pureval
+5110,5110,H8OH02058,"HEIMLICH, PHILIP M MR.",House,Challenger,Ohio,Republican Party,Philip,Heimlich,Philip_Heimlich,Philip_Heimlich_(Ohio),https://ballotpedia.org/Philip_Heimlich
+5111,5111,H8OH02108,"MYERS, STEVE",House,Challenger,Ohio,Independent,Steve,Myers,Steve_Myers,Steve_Myers_(Ohio),https://ballotpedia.org/Steve_Myers
+5112,5112,H8OH03098,"ESRATI, DAVID",House,Challenger,Ohio,Democratic Party,David,Esrati,David_Esrati,David_Esrati_(Ohio),https://ballotpedia.org/David_Esrati
+5113,5113,H8OH05036,"LATTA, ROBERT EDWARD",House,Incumbent,Ohio,Republican Party,Robert,Latta,Robert_Latta,Robert_Latta_(Ohio),https://ballotpedia.org/Robert_Latta
+5114,5114,H8OH06133,"ROBERTS, SHAWNA",House,Challenger,Ohio,Democratic Party,Shawna,Roberts,Shawna_Roberts,Shawna_Roberts_(Ohio),https://ballotpedia.org/Shawna_Roberts
+5115,5115,H8OH07065,"AUSTRIA, STEVE C",House,Challenger,Ohio,Republican Party,Steve,Austria,Steve_Austria,Steve_Austria_(Ohio),https://ballotpedia.org/Steve_Austria
+5116,5116,H8OH07099,"NEUHARDT, SHAREN SWARTZ",House,Challenger,Ohio,Democratic Party,Sharen,Neuhardt,Sharen_Neuhardt,Sharen_Neuhardt_(Ohio),https://ballotpedia.org/Sharen_Neuhardt
+5117,5117,H8OH08097,"ENOCH, VANESSA",House,Challenger,Ohio,Democratic Party,Vanessa,Enoch,Vanessa_Enoch,Vanessa_Enoch_(Ohio),https://ballotpedia.org/Vanessa_Enoch
+5118,5118,H8OH11141,"FUDGE, MARCIA L.",House,Incumbent,Ohio,Democratic Party,Marcia,Fudge,Marcia_Fudge,Marcia_Fudge_(Ohio),https://ballotpedia.org/Marcia_Fudge
+5119,5119,H8OH11166,"POWELL, ISAAC",House,Open seat,Ohio,Democratic Party,Isaac,Powell,Isaac_Powell,Isaac_Powell_(Ohio),https://ballotpedia.org/Isaac_Powell
+5120,5120,H8OH11281,"BELL, JAMES",House,Open seat,Ohio,Democratic Party,James,Bell,James_Bell,James_Bell_(Ohio),https://ballotpedia.org/James_Bell
+5121,5121,H8OH11323,"ROSS, FELICIA WASHINGTON",House,Open seat,Ohio,Republican Party,Felicia,Ross,Felicia_Ross,Felicia_Ross_(Ohio),https://ballotpedia.org/Felicia_Ross
+5122,5122,H8OH12164,"SCOTT, ZACH",House,Challenger,Ohio,Democratic Party,Zach,Scott,Zach_Scott,Zach_Scott_(Ohio),https://ballotpedia.org/Zach_Scott
+5123,5123,H8OH12180,"BALDERSON, WILLIAM TROY",House,Incumbent,Ohio,Republican Party,William,Balderson,William_Balderson,William_Balderson_(Ohio),https://ballotpedia.org/William_Balderson
+5124,5124,H8OH12297,"O'CONNOR, DANIEL",House,Challenger,Ohio,Democratic Party,Daniel,O'connor,Daniel_O'connor,Daniel_O'connor_(Ohio),https://ballotpedia.org/Daniel_O'connor
+5125,5125,H8OH13147,"DEPIZZO, CHRIS",House,Challenger,Ohio,Republican Party,Chris,Depizzo,Chris_Depizzo,Chris_Depizzo_(Ohio),https://ballotpedia.org/Chris_Depizzo
+5126,5126,H8OH13154,"LYRAS, LOUIS GEORGE",House,Challenger,Ohio,Democratic Party,Louis,Lyras,Louis_Lyras,Louis_Lyras_(Ohio),https://ballotpedia.org/Louis_Lyras
+5127,5127,H8OH15076,"STIVERS, STEVE MR.",House,Incumbent,Ohio,Republican Party,Steve,Stivers,Steve_Stivers,Steve_Stivers_(Ohio),https://ballotpedia.org/Steve_Stivers
+5128,5128,H8OH15159,"JARVIS, ROB",House,Challenger,Ohio,Democratic Party,Rob,Jarvis,Rob_Jarvis,Rob_Jarvis_(Ohio),https://ballotpedia.org/Rob_Jarvis
+5129,5129,H8OH16066,"SCHURING, KIRK",House,Open seat,Ohio,Republican Party,Kirk,Schuring,Kirk_Schuring,Kirk_Schuring_(Ohio),https://ballotpedia.org/Kirk_Schuring
+5130,5130,H8OH16090,"GODFREY, AARON PAUL",House,Open seat,Ohio,Democratic Party,Aaron,Godfrey,Aaron_Godfrey,Aaron_Godfrey_(Ohio),https://ballotpedia.org/Aaron_Godfrey
+5131,5131,H8OH16108,"HAGAN, CHRISTINA",House,Challenger,Ohio,Republican Party,Christina,Hagan,Christina_Hagan,Christina_Hagan_(Ohio),https://ballotpedia.org/Christina_Hagan
+5132,5132,H8OH16124,"GONZALEZ, ANTHONY E",House,Incumbent,Ohio,Republican Party,Anthony,Gonzalez,Anthony_Gonzalez,Anthony_Gonzalez_(Ohio),https://ballotpedia.org/Anthony_Gonzalez
+5133,5133,H8OH18088,"DAILEY, FRED LEE",House,Challenger,Ohio,Republican Party,Fred,Dailey,Fred_Dailey,Fred_Dailey_(Ohio),https://ballotpedia.org/Fred_Dailey
+5134,5134,H8OK01157,"HERN, KEVIN",House,Incumbent,Oklahoma,Republican Party,Kevin,Hern,Kevin_Hern,Kevin_Hern_(Oklahoma),https://ballotpedia.org/Kevin_Hern
+5135,5135,H8OK02197,"CASTALDO, RICHARD MICHAEL",House,Challenger,Oklahoma,Libertarian Party,Richard,Castaldo,Richard_Castaldo,Richard_Castaldo_(Oklahoma),https://ballotpedia.org/Richard_Castaldo
+5136,5136,H8OK04094,"BRANNON, MARY",House,Challenger,Oklahoma,Democratic Party,Mary,Brannon,Mary_Brannon,Mary_Brannon_(Oklahoma),https://ballotpedia.org/Mary_Brannon
+5137,5137,H8OK05109,"HORN, KENDRA",House,Incumbent,Oklahoma,Democratic Party,Kendra,Horn,Kendra_Horn,Kendra_Horn_(Oklahoma),https://ballotpedia.org/Kendra_Horn
+5138,5138,H8OK05158,"BRITT, ELYSABETH GREGORY",House,Challenger,Oklahoma,Democratic Party,Elysabeth,Britt,Elysabeth_Britt,Elysabeth_Britt_(Oklahoma),https://ballotpedia.org/Elysabeth_Britt
+5139,5139,H8OR01221,"GRIFFITH, GEORGE",House,Challenger,Oregon,Republican Party,George,Griffith,George_Griffith,George_Griffith_(Oregon),https://ballotpedia.org/George_Griffith
+5140,5140,H8OR02161,"MCLEOD-SKINNER, JAMIE",House,Challenger,Oregon,Democratic Party,Jamie,Mcleod-skinner,Jamie_Mcleod-skinner,Jamie_Mcleod-skinner_(Oregon),https://ballotpedia.org/Jamie_Mcleod-skinner
+5141,5141,H8OR02195,"BYRNE, MICHAEL",House,Challenger,Oregon,Democratic Party,Michael,Byrne,Michael_Byrne,Michael_Byrne_(Oregon),https://ballotpedia.org/Michael_Byrne
+5142,5142,H8OR03094,"KOLLER, MARC W",House,Challenger,Oregon,Independent,Marc,Koller,Marc_Koller,Marc_Koller_(Oregon),https://ballotpedia.org/Marc_Koller
+5143,5143,H8OR03102,"HARRISON, THOMAS",House,Challenger,Oregon,Republican Party,Thomas,Harrison,Thomas_Harrison,Thomas_Harrison_(Oregon),https://ballotpedia.org/Thomas_Harrison
+5144,5144,H8OR04159,"ARCANGEL, DANIEL R",House,Challenger,Oregon,Democratic Party,Daniel,Arcangel,Daniel_Arcangel,Daniel_Arcangel_(Oregon),https://ballotpedia.org/Daniel_Arcangel
+5145,5145,H8OR05107,"SCHRADER, KURT",House,Incumbent,Oregon,Democratic Party,Kurt,Schrader,Kurt_Schrader,Kurt_Schrader_(Oregon),https://ballotpedia.org/Kurt_Schrader
+5146,5146,H8OR05198,"CALLAHAN, MARK ALLEN",House,Challenger,Oregon,Republican Party,Mark,Callahan,Mark_Callahan,Mark_Callahan_(Oregon),https://ballotpedia.org/Mark_Callahan
+5147,5147,H8PA01245,"LAWRENCE, MICHELE",House,Open seat,Pennsylvania,Democratic Party,Michele,Lawrence,Michele_Lawrence,Michele_Lawrence_(Pennsylvania),https://ballotpedia.org/Michele_Lawrence
+5148,5148,H8PA02102,"GREEN, BILL",House,Challenger,Pennsylvania,Democratic Party,Bill,Green,Bill_Green,Bill_Green_(Pennsylvania),https://ballotpedia.org/Bill_Green
+5149,5149,H8PA02110,"TORRES, DAVID",House,Challenger,Pennsylvania,Republican Party,David,Torres,David_Torres,David_Torres_(Pennsylvania),https://ballotpedia.org/David_Torres
+5150,5150,H8PA04108,"CORBIN-JOHNSON, SHAVONNIA",House,Challenger,Pennsylvania,Democratic Party,Shavonnia,Corbin-johnson,Shavonnia_Corbin-johnson,Shavonnia_Corbin-johnson_(Pennsylvania),https://ballotpedia.org/Shavonnia_Corbin-johnson
+5151,5151,H8PA04116,"DEAN, MADELEINE",House,Incumbent,Pennsylvania,Democratic Party,Madeleine,Dean,Madeleine_Dean,Madeleine_Dean_(Pennsylvania),https://ballotpedia.org/Madeleine_Dean
+5152,5152,H8PA05071,"THOMPSON, GLENN MR.",House,Incumbent,Pennsylvania,Republican Party,Glenn,Thompson,Glenn_Thompson,Glenn_Thompson_(Pennsylvania),https://ballotpedia.org/Glenn_Thompson
+5153,5153,H8PA05204,"FRIEDENBERG, MARC",House,Open seat,Pennsylvania,Democratic Party,Marc,Friedenberg,Marc_Friedenberg,Marc_Friedenberg_(Pennsylvania),https://ballotpedia.org/Marc_Friedenberg
+5154,5154,H8PA05246,"WERTIME, DAVID",House,Challenger,Pennsylvania,Democratic Party,David,Wertime,David_Wertime,David_Wertime_(Pennsylvania),https://ballotpedia.org/David_Wertime
+5155,5155,H8PA06087,"HOULAHAN, CHRISSY",House,Incumbent,Pennsylvania,Democratic Party,Chrissy,Houlahan,Chrissy_Houlahan,Chrissy_Houlahan_(Pennsylvania),https://ballotpedia.org/Chrissy_Houlahan
+5156,5156,H8PA07135,"BILLIE, JOSEPH MICHAEL",House,Challenger,Pennsylvania,Republican Party,Joseph,Billie,Joseph_Billie,Joseph_Billie_(Pennsylvania),https://ballotpedia.org/Joseph_Billie
+5157,5157,H8PA07200,"SCANLON, MARY GAY",House,Incumbent,Pennsylvania,Democratic Party,Mary,Scanlon,Mary_Scanlon,Mary_Scanlon_(Pennsylvania),https://ballotpedia.org/Mary_Scanlon
+5158,5158,H8PA09081,"QUICK, LAURA",House,Challenger,Pennsylvania,Democratic Party,Laura,Quick,Laura_Quick,Laura_Quick_(Pennsylvania),https://ballotpedia.org/Laura_Quick
+5159,5159,H8PA10147,"MEUSER, DANIEL",House,Incumbent,Pennsylvania,Republican Party,Daniel,Meuser,Daniel_Meuser,Daniel_Meuser_(Pennsylvania),https://ballotpedia.org/Daniel_Meuser
+5160,5160,H8PA10170,"HERSCHEL, JUDITH L",House,Challenger,Pennsylvania,Democratic Party,Judith,Herschel,Judith_Herschel,Judith_Herschel_(Pennsylvania),https://ballotpedia.org/Judith_Herschel
+5161,5161,H8PA10204,"FEIGL-DING, ERIC",House,Challenger,Pennsylvania,Democratic Party,Eric,Feigl-ding,Eric_Feigl-ding,Eric_Feigl-ding_(Pennsylvania),https://ballotpedia.org/Eric_Feigl-ding
+5162,5162,H8PA11111,"BEILER, CHET",House,Open seat,Pennsylvania,Republican Party,Chet,Beiler,Chet_Beiler,Chet_Beiler_(Pennsylvania),https://ballotpedia.org/Chet_Beiler
+5163,5163,H8PA13125,"JOYCE, JOHN",House,Incumbent,Pennsylvania,Republican Party,John,Joyce,John_Joyce,John_Joyce_(Pennsylvania),https://ballotpedia.org/John_Joyce
+5164,5164,H8PA15187,"EDWARDS, GREG",House,Open seat,Pennsylvania,Democratic Party,Greg,Edwards,Greg_Edwards,Greg_Edwards_(Pennsylvania),https://ballotpedia.org/Greg_Edwards
+5165,5165,H8PA15195,"MACKENZIE, RYAN EDWARD",House,Challenger,Pennsylvania,Republican Party,Ryan,Mackenzie,Ryan_Mackenzie,Ryan_Mackenzie_(Pennsylvania),https://ballotpedia.org/Ryan_Mackenzie
+5166,5166,H8PA15229,"WILD, SUSAN",House,Incumbent,Pennsylvania,Democratic Party,Susan,Wild,Susan_Wild,Susan_Wild_(Pennsylvania),https://ballotpedia.org/Susan_Wild
+5167,5167,H8PA15260,"BROWNING, DEAN NAPIER",House,Challenger,Pennsylvania,Republican Party,Dean,Browning,Dean_Browning,Dean_Browning_(Pennsylvania),https://ballotpedia.org/Dean_Browning
+5168,5168,H8PA15286,"DAVID, DAN",House,Open seat,Pennsylvania,Republican Party,Dan,David,Dan_David,Dan_David_(Pennsylvania),https://ballotpedia.org/Dan_David
+5169,5169,H8PA16078,"KING, JESSICA",House,Open seat,Pennsylvania,Democratic Party,Jessica,King,Jessica_King,Jessica_King_(Pennsylvania),https://ballotpedia.org/Jessica_King
+5170,5170,H8PA17050,"CHRIN, JOHN R",House,Challenger,Pennsylvania,Republican Party,John,Chrin,John_Chrin,John_Chrin_(Pennsylvania),https://ballotpedia.org/John_Chrin
+5171,5171,H8PA18157,"SOLOMON, ROBERT",House,Open seat,Pennsylvania,Democratic Party,Robert,Solomon,Robert_Solomon,Robert_Solomon_(Pennsylvania),https://ballotpedia.org/Robert_Solomon
+5172,5172,H8PA18181,"LAMB, CONOR",House,Incumbent,Pennsylvania,Democratic Party,Conor,Lamb,Conor_Lamb,Conor_Lamb_(Pennsylvania),https://ballotpedia.org/Conor_Lamb
+5173,5173,H8PA18199,"RESCHENTHALER, GUY MR.",House,Incumbent,Pennsylvania,Republican Party,Guy,Reschenthaler,Guy_Reschenthaler,Guy_Reschenthaler_(Pennsylvania),https://ballotpedia.org/Guy_Reschenthaler
+5174,5174,H8PA18223,"KARPACS, GEORGE A",House,Challenger,Pennsylvania,Republican Party,George,Karpacs,George_Karpacs,George_Karpacs_(Pennsylvania),https://ballotpedia.org/George_Karpacs
+5175,5175,H8PA18231,"SACCONE, RICK",House,Open seat,Pennsylvania,Republican Party,Rick,Saccone,Rick_Saccone,Rick_Saccone_(Pennsylvania),https://ballotpedia.org/Rick_Saccone
+5176,5176,H8PA18272,"BROOKS, JANIS C REV DR",House,,Pennsylvania,Democratic Party,Janis,Brooks,Janis_Brooks,Janis_Brooks_(Pennsylvania),https://ballotpedia.org/Janis_Brooks
+5177,5177,H8PA18280,"MACK, KIMBERLY",House,Challenger,Pennsylvania,Republican Party,Kimberly,Mack,Kimberly_Mack,Kimberly_Mack_(Pennsylvania),https://ballotpedia.org/Kimberly_Mack
+5178,5178,H8PR00054,"ACEVEDO-VILA, ANIBAL",House,Challenger,Puerto Rico,Democratic Party,Anibal,Acevedo-vila,Anibal_Acevedo-vila,Anibal_Acevedo-vila_(Puerto Rico),https://ballotpedia.org/Anibal_Acevedo-vila
+5179,5179,H8PR00062,"PIERLUISI, PEDRO",House,Incumbent,Puerto Rico,Democratic Party,Pedro,Pierluisi,Pedro_Pierluisi,Pedro_Pierluisi_(Puerto Rico),https://ballotpedia.org/Pedro_Pierluisi
+5180,5180,H8RI01092,"WYSOCKI, FREDERICK",House,Challenger,Rhode Island,Republican Party,Frederick,Wysocki,Frederick_Wysocki,Frederick_Wysocki_(Rhode Island),https://ballotpedia.org/Frederick_Wysocki
+5181,5181,H8SC01116,"CUNNINGHAM, JOE",House,Incumbent,South Carolina,Democratic Party,Joe,Cunningham,Joe_Cunningham,Joe_Cunningham_(South Carolina),https://ballotpedia.org/Joe_Cunningham
+5182,5182,H8SC01124,"ARRINGTON, KATHERINE ELIZABETH",House,Challenger,South Carolina,Republican Party,Katherine,Arrington,Katherine_Arrington,Katherine_Arrington_(South Carolina),https://ballotpedia.org/Katherine_Arrington
+5183,5183,H8SC02106,"CARRIGAN, SEAN J MR.",House,Challenger,South Carolina,Democratic Party,Sean,Carrigan,Sean_Carrigan,Sean_Carrigan_(South Carolina),https://ballotpedia.org/Sean_Carrigan
+5184,5184,H8SC02114,"ROBERTSON, ANNABELLE",House,Challenger,South Carolina,Democratic Party,Annabelle,Robertson,Annabelle_Robertson,Annabelle_Robertson_(South Carolina),https://ballotpedia.org/Annabelle_Robertson
+5185,5185,H8SC04250,"TIMMONS, WILLIAM R IV",House,Incumbent,South Carolina,Republican Party,William,Timmons,William_Timmons,William_Timmons_(South Carolina),https://ballotpedia.org/William_Timmons
+5186,5186,H8SC04342,"BRIGHT, LEE",House,Open seat,South Carolina,Republican Party,Lee,Bright,Lee_Bright,Lee_Bright_(South Carolina),https://ballotpedia.org/Lee_Bright
+5187,5187,H8SC04409,"EPLEY, JAMES",House,Open seat,South Carolina,Republican Party,James,Epley,James_Epley,James_Epley_(South Carolina),https://ballotpedia.org/James_Epley
+5188,5188,H8SC05158,"NORMAN, RALPH W. JR.",House,Incumbent,South Carolina,Republican Party,Ralph,Norman,Ralph_Norman,Ralph_Norman_(South Carolina),https://ballotpedia.org/Ralph_Norman
+5189,5189,H8SC05240,"ALI, MARK ANTHONY",House,Challenger,South Carolina,Democratic Party,Mark,Ali,Mark_Ali,Mark_Ali_(South Carolina),https://ballotpedia.org/Mark_Ali
+5190,5190,H8SC05265,"MOORE, SIDNEY",House,Challenger,South Carolina,Democratic Party,Sidney,Moore,Sidney_Moore,Sidney_Moore_(South Carolina),https://ballotpedia.org/Sidney_Moore
+5191,5191,H8SC07071,"HAMMOND, LARRY GUY",House,Challenger,South Carolina,Libertarian Party,Larry,Hammond,Larry_Hammond,Larry_Hammond_(South Carolina),https://ballotpedia.org/Larry_Hammond
+5192,5192,H8SD01055,"JOHNSON, DUSTY",House,Incumbent,South Dakota,Republican Party,Dusty,Johnson,Dusty_Johnson,Dusty_Johnson_(South Dakota),https://ballotpedia.org/Dusty_Johnson
+5193,5193,H8SD01063,"KREBS, SHANTEL",House,Open seat,South Dakota,Republican Party,Shantel,Krebs,Shantel_Krebs,Shantel_Krebs_(South Dakota),https://ballotpedia.org/Shantel_Krebs
+5194,5194,H8TN01079,"OLSEN, MARTIN",House,Challenger,Tennessee,Democratic Party,Martin,Olsen,Martin_Olsen,Martin_Olsen_(Tennessee),https://ballotpedia.org/Martin_Olsen
+5195,5195,H8TN02028,"SCOTT, ROBERT R",House,Challenger,Tennessee,Democratic Party,Robert,Scott,Robert_Scott,Robert_Scott_(Tennessee),https://ballotpedia.org/Robert_Scott
+5196,5196,H8TN02069,"DUNCAN, JOHN J REP. JR.",House,Incumbent,Tennessee,Republican Party,John,Duncan,John_Duncan,John_Duncan_(Tennessee),https://ballotpedia.org/John_Duncan
+5197,5197,H8TN02119,"BURCHETT, TIM",House,Incumbent,Tennessee,Republican Party,Tim,Burchett,Tim_Burchett,Tim_Burchett_(Tennessee),https://ballotpedia.org/Tim_Burchett
+5198,5198,H8TN02127,"MATLOCK, JAMES LLOYD",House,Open seat,Tennessee,Republican Party,James,Matlock,James_Matlock,James_Matlock_(Tennessee),https://ballotpedia.org/James_Matlock
+5199,5199,H8TN02176,"HOYOS, RENEE",House,Challenger,Tennessee,Democratic Party,Renee,Hoyos,Renee_Hoyos,Renee_Hoyos_(Tennessee),https://ballotpedia.org/Renee_Hoyos
+5200,5200,H8TN02200,"EMERT, JASON",House,Open seat,Tennessee,Republican Party,Jason,Emert,Jason_Emert,Jason_Emert_(Tennessee),https://ballotpedia.org/Jason_Emert
+5201,5201,H8TN04107,"HALE, CHRISTOPHER JOLLY",House,Challenger,Tennessee,Democratic Party,Christopher,Hale,Christopher_Hale,Christopher_Hale_(Tennessee),https://ballotpedia.org/Christopher_Hale
+5202,5202,H8TN04123,"STEELE, RUSSELL",House,,Tennessee,Democratic Party,Russell,Steele,Russell_Steele,Russell_Steele_(Tennessee),https://ballotpedia.org/Russell_Steele
+5203,5203,H8TN06078,"MONDAY, CHRISTOPHER BRIAN",House,Challenger,Tennessee,Unaffiliated,Christopher,Monday,Christopher_Monday,Christopher_Monday_(Tennessee),https://ballotpedia.org/Christopher_Monday
+5204,5204,H8TN06086,"MATHENY, JUDD",House,Open seat,Tennessee,Republican Party,Judd,Matheny,Judd_Matheny,Judd_Matheny_(Tennessee),https://ballotpedia.org/Judd_Matheny
+5205,5205,H8TN06094,"ROSE, JOHN W.",House,Incumbent,Tennessee,Republican Party,John,Rose,John_Rose,John_Rose_(Tennessee),https://ballotpedia.org/John_Rose
+5206,5206,H8TN07043,"LEATHERWOOD, THOMAS F III",House,Open seat,Tennessee,Republican Party,Thomas,Leatherwood,Thomas_Leatherwood,Thomas_Leatherwood_(Tennessee),https://ballotpedia.org/Thomas_Leatherwood
+5207,5207,H8TN07076,"GREEN, MARK DR.",House,Incumbent,Tennessee,Republican Party,Mark,Green,Mark_Green,Mark_Green_(Tennessee),https://ballotpedia.org/Mark_Green
+5208,5208,H8TX02083,"KHORASANI, ALI",House,Open seat,Texas,Democratic Party,Ali,Khorasani,Ali_Khorasani,Ali_Khorasani_(Texas),https://ballotpedia.org/Ali_Khorasani
+5209,5209,H8TX02166,"CRENSHAW, DANIEL",House,Incumbent,Texas,Republican Party,Daniel,Crenshaw,Daniel_Crenshaw,Daniel_Crenshaw_(Texas),https://ballotpedia.org/Daniel_Crenshaw
+5210,5210,H8TX02174,"PARVIZIAN, HAMID",House,Open seat,Texas,Democratic Party,Hamid,Parvizian,Hamid_Parvizian,Hamid_Parvizian_(Texas),https://ballotpedia.org/Hamid_Parvizian
+5211,5211,H8TX02208,"SPIERS, JON P DR",House,Open seat,Texas,Republican Party,Jon,Spiers,Jon_Spiers,Jon_Spiers_(Texas),https://ballotpedia.org/Jon_Spiers
+5212,5212,H8TX03081,"BARONE, ROGER RICHARD MR.",House,Challenger,Texas,Republican Party,Roger,Barone,Roger_Barone,Roger_Barone_(Texas),https://ballotpedia.org/Roger_Barone
+5213,5213,H8TX03099,"BURCH, LORIE",House,Challenger,Texas,Democratic Party,Lorie,Burch,Lorie_Burch,Lorie_Burch_(Texas),https://ballotpedia.org/Lorie_Burch
+5214,5214,H8TX03123,"TAYLOR, NICHOLAS V.",House,Incumbent,Texas,Republican Party,Nicholas,Taylor,Nicholas_Taylor,Nicholas_Taylor_(Texas),https://ballotpedia.org/Nicholas_Taylor
+5215,5215,H8TX03156,"BELL, ADAM CLR NATION",House,Open seat,Texas,Democratic Party,Adam,Bell,Adam_Bell,Adam_Bell_(Texas),https://ballotpedia.org/Adam_Bell
+5216,5216,H8TX05052,"ASHBY, KEN",House,Challenger,Texas,Libertarian Party,Ken,Ashby,Ken_Ashby,Ken_Ashby_(Texas),https://ballotpedia.org/Ken_Ashby
+5217,5217,H8TX05086,"WOOD, DANNY EUGENE JR",House,Open seat,Texas,Democratic Party,Danny,Wood,Danny_Wood,Danny_Wood_(Texas),https://ballotpedia.org/Danny_Wood
+5218,5218,H8TX05144,"GOODEN, LANCE",House,Incumbent,Texas,Republican Party,Lance,Gooden,Lance_Gooden,Lance_Gooden_(Texas),https://ballotpedia.org/Lance_Gooden
+5219,5219,H8TX06035,"EDWARDS, CHET",House,Incumbent,Texas,Democratic Party,Chet,Edwards,Chet_Edwards,Chet_Edwards_(Texas),https://ballotpedia.org/Chet_Edwards
+5220,5220,H8TX06183,"SANCHEZ, JANA LYNNE MS",House,Open seat,Texas,Democratic Party,Jana,Sanchez,Jana_Sanchez,Jana_Sanchez_(Texas),https://ballotpedia.org/Jana_Sanchez
+5221,5221,H8TX06225,"MITCHELL, MONTE",House,Challenger,Texas,Republican Party,Monte,Mitchell,Monte_Mitchell,Monte_Mitchell_(Texas),https://ballotpedia.org/Monte_Mitchell
+5222,5222,H8TX06233,"WRIGHT, RON",House,Incumbent,Texas,Republican Party,Ron,Wright,Ron_Wright,Ron_Wright_(Texas),https://ballotpedia.org/Ron_Wright
+5223,5223,H8TX06266,"ELLZEY, JOHN KEVIN SR.",House,Incumbent,Texas,Republican Party,John,Ellzey,John_Ellzey,John_Ellzey_(Texas),https://ballotpedia.org/John_Ellzey
+5224,5224,H8TX06332,"MIZHER, ADRIAN",House,Open seat,Texas,Independent,Adrian,Mizher,Adrian_Mizher,Adrian_Mizher_(Texas),https://ballotpedia.org/Adrian_Mizher
+5225,5225,H8TX07140,"FLETCHER, ELIZABETH",House,Incumbent,Texas,Democratic Party,Elizabeth,Fletcher,Elizabeth_Fletcher,Elizabeth_Fletcher_(Texas),https://ballotpedia.org/Elizabeth_Fletcher
+5226,5226,H8TX08106,"PRUITT, AUTRY",House,Open seat,Texas,Republican Party,Autry,Pruitt,Autry_Pruitt,Autry_Pruitt_(Texas),https://ballotpedia.org/Autry_Pruitt
+5227,5227,H8TX09153,"KURTZ, PHIL",House,Challenger,Texas,Libertarian Party,Phil,Kurtz,Phil_Kurtz,Phil_Kurtz_(Texas),https://ballotpedia.org/Phil_Kurtz
+5228,5228,H8TX10110,"SIEGEL, MICHAEL",House,Challenger,Texas,Democratic Party,Michael,Siegel,Michael_Siegel,Michael_Siegel_(Texas),https://ballotpedia.org/Michael_Siegel
+5229,5229,H8TX10136,"NELSON, KEVIN",House,Challenger,Texas,Democratic Party,Kevin,Nelson,Kevin_Nelson,Kevin_Nelson_(Texas),https://ballotpedia.org/Kevin_Nelson
+5230,5230,H8TX12082,"WOOLUM, ALBERT E",House,Challenger,Texas,Democratic Party,Albert,Woolum,Albert_Woolum,Albert_Woolum_(Texas),https://ballotpedia.org/Albert_Woolum
+5231,5231,H8TX13130,"HARMON, MARK DESMOND",House,Challenger,Texas,Democratic Party,Mark,Harmon,Mark_Harmon,Mark_Harmon_(Texas),https://ballotpedia.org/Mark_Harmon
+5232,5232,H8TX14120,"BELL, ADRIENNE",House,Challenger,Texas,Democratic Party,Adrienne,Bell,Adrienne_Bell,Adrienne_Bell_(Texas),https://ballotpedia.org/Adrienne_Bell
+5233,5233,H8TX14138,"BARNES, LEVY Q DR. JR.",House,Challenger,Texas,Democratic Party,Levy,Barnes,Levy_Barnes,Levy_Barnes_(Texas),https://ballotpedia.org/Levy_Barnes
+5234,5234,H8TX16109,"ESCOBAR, VERONICA",House,Incumbent,Texas,Democratic Party,Veronica,Escobar,Veronica_Escobar,Veronica_Escobar_(Texas),https://ballotpedia.org/Veronica_Escobar
+5235,5235,H8TX16125,"GARCIA-URESTE, ALIA",House,Challenger,Texas,Republican Party,Alia,Garcia-ureste,Alia_Garcia-ureste,Alia_Garcia-ureste_(Texas),https://ballotpedia.org/Alia_Garcia-ureste
+5236,5236,H8TX16166,"WILLIAMS, SAMUEL LEE JR",House,Challenger,Texas,Republican Party,Samuel,Williams,Samuel_Williams,Samuel_Williams_(Texas),https://ballotpedia.org/Samuel_Williams
+5237,5237,H8TX18188,"JOHNSON, RICHARD",House,Challenger,Texas,Democratic Party,Richard,Johnson,Richard_Johnson,Richard_Johnson_(Texas),https://ballotpedia.org/Richard_Johnson
+5238,5238,H8TX21182,"WILSON, MARY E",House,Open seat,Texas,Democratic Party,Mary,Wilson,Mary_Wilson,Mary_Wilson_(Texas),https://ballotpedia.org/Mary_Wilson
+5239,5239,H8TX21190,"KOPSER, JOSEPH",House,Open seat,Texas,Democratic Party,Joseph,Kopser,Joseph_Kopser,Joseph_Kopser_(Texas),https://ballotpedia.org/Joseph_Kopser
+5240,5240,H8TX21224,"NARVAIZ, SUSAN",House,Open seat,Texas,Republican Party,Susan,Narvaiz,Susan_Narvaiz,Susan_Narvaiz_(Texas),https://ballotpedia.org/Susan_Narvaiz
+5241,5241,H8TX21257,"NEGLEY, WILLIAM W.",House,Open seat,Texas,Republican Party,William,Negley,William_Negley,William_Negley_(Texas),https://ballotpedia.org/William_Negley
+5242,5242,H8TX21273,"STOVALL, ROBERT",House,Open seat,Texas,Republican Party,Robert,Stovall,Robert_Stovall,Robert_Stovall_(Texas),https://ballotpedia.org/Robert_Stovall
+5243,5243,H8TX21281,"KRAUSE, RYAN PATRICK",House,Open seat,Texas,Republican Party,Ryan,Krause,Ryan_Krause,Ryan_Krause_(Texas),https://ballotpedia.org/Ryan_Krause
+5244,5244,H8TX21307,"ROY, CHIP",House,Incumbent,Texas,Republican Party,Chip,Roy,Chip_Roy,Chip_Roy_(Texas),https://ballotpedia.org/Chip_Roy
+5245,5245,H8TX21331,"GARZA, MAURO EVERETT MR.",House,Challenger,Texas,Republican Party,Mauro,Garza,Mauro_Garza,Mauro_Garza_(Texas),https://ballotpedia.org/Mauro_Garza
+5246,5246,H8TX22107,"OLSON, PETER G.",House,Incumbent,Texas,Republican Party,Peter,Olson,Peter_Olson,Peter_Olson_(Texas),https://ballotpedia.org/Peter_Olson
+5247,5247,H8TX22206,"PLUMMER, LETITIA",House,Challenger,Texas,Democratic Party,Letitia,Plummer,Letitia_Plummer,Letitia_Plummer_(Texas),https://ballotpedia.org/Letitia_Plummer
+5248,5248,H8TX22255,"NGUYEN, DANNY QUOC MR. CCIM",House,Challenger,Texas,Republican Party,Danny,Nguyen,Danny_Nguyen,Danny_Nguyen_(Texas),https://ballotpedia.org/Danny_Nguyen
+5249,5249,H8TX22313,"KULKARNI, SRI PRESTON",House,Open seat,Texas,Democratic Party,Sri,Kulkarni,Sri_Kulkarni,Sri_Kulkarni_(Texas),https://ballotpedia.org/Sri_Kulkarni
+5250,5250,H8TX23121,"JONES, GINA ORTIZ",House,Open seat,Texas,Democratic Party,Gina,Jones,Gina_Jones,Gina_Jones_(Texas),https://ballotpedia.org/Gina_Jones
+5251,5251,H8TX23147,"HULINGS, JAY",House,Challenger,Texas,Democratic Party,Jay,Hulings,Jay_Hulings,Jay_Hulings_(Texas),https://ballotpedia.org/Jay_Hulings
+5252,5252,H8TX25159,"OLIVER, JULIE LYNN",House,Challenger,Texas,Democratic Party,Julie,Oliver,Julie_Oliver,Julie_Oliver_(Texas),https://ballotpedia.org/Julie_Oliver
+5253,5253,H8TX26082,"FISHER, WILLIAM CARL",House,Open seat,Texas,Democratic Party,William,Fisher,William_Fisher,William_Fisher_(Texas),https://ballotpedia.org/William_Fisher
+5254,5254,H8TX26090,"BIRKENSTOCK, VERONICA",House,Challenger,Texas,Republican Party,Veronica,Birkenstock,Veronica_Birkenstock,Veronica_Birkenstock_(Texas),https://ballotpedia.org/Veronica_Birkenstock
+5255,5255,H8TX27049,"CLOUD, MICHAEL",House,Incumbent,Texas,Republican Party,Michael,Cloud,Michael_Cloud,Michael_Cloud_(Texas),https://ballotpedia.org/Michael_Cloud
+5256,5256,H8TX27056,"HOLGUIN, ERIC",House,Open seat,Texas,Democratic Party,Eric,Holguin,Eric_Holguin,Eric_Holguin_(Texas),https://ballotpedia.org/Eric_Holguin
+5257,5257,H8TX27080,"MAPP, CHRIS",House,Challenger,Texas,Republican Party,Chris,Mapp,Chris_Mapp,Chris_Mapp_(Texas),https://ballotpedia.org/Chris_Mapp
+5258,5258,H8TX27148,"SUPRUN, CHRISTOPER",House,Open seat,Texas,Democratic Party,Christoper,Suprun,Christoper_Suprun,Christoper_Suprun_(Texas),https://ballotpedia.org/Christoper_Suprun
+5259,5259,H8TX28039,"IDROGO, MICHAEL",House,Challenger,Texas,Libertarian Party,Michael,Idrogo,Michael_Idrogo,Michael_Idrogo_(Texas),https://ballotpedia.org/Michael_Idrogo
+5260,5260,H8TX28203,"LEONE, ROSS LYNN",House,Challenger,Texas,Libertarian Party,Ross,Leone,Ross_Leone,Ross_Leone_(Texas),https://ballotpedia.org/Ross_Leone
+5261,5261,H8TX29052,"GARCIA, SYLVIA R.",House,Incumbent,Texas,Democratic Party,Sylvia,Garcia,Sylvia_Garcia,Sylvia_Garcia_(Texas),https://ballotpedia.org/Sylvia_Garcia
+5262,5262,H8TX29110,"ZOUBOULIKOS-BLANCO, JAIMY",House,Challenger,Texas,Republican Party,Jaimy,Zouboulikos-blanco,Jaimy_Zouboulikos-blanco,Jaimy_Zouboulikos-blanco_(Texas),https://ballotpedia.org/Jaimy_Zouboulikos-blanco
+5263,5263,H8TX31033,"MANN, CHRISTINE EADY",House,Challenger,Texas,Democratic Party,Christine,Mann,Christine_Mann,Christine_Mann_(Texas),https://ballotpedia.org/Christine_Mann
+5264,5264,H8TX31058,"HEGAR, MARY JENNINGS MJ",House,Challenger,Texas,Democratic Party,Mary,Hegar,Mary_Hegar,Mary_Hegar_(Texas),https://ballotpedia.org/Mary_Hegar
+5265,5265,H8TX32098,"ALLRED, COLIN",House,Incumbent,Texas,Democratic Party,Colin,Allred,Colin_Allred,Colin_Allred_(Texas),https://ballotpedia.org/Colin_Allred
+5266,5266,H8TX33021,"BILLUPS, WILLIE KAILAWN",House,Challenger,Texas,Republican Party,Willie,Billups,Willie_Billups,Willie_Billups_(Texas),https://ballotpedia.org/Willie_Billups
+5267,5267,H8TX36016,"POWELL, JONATHAN A",House,Challenger,Texas,Democratic Party,Jonathan,Powell,Jonathan_Powell,Jonathan_Powell_(Texas),https://ballotpedia.org/Jonathan_Powell
+5268,5268,H8UT02248,"BURKETT, MARY",House,Challenger,Utah,Republican Party,Mary,Burkett,Mary_Burkett,Mary_Burkett_(Utah),https://ballotpedia.org/Mary_Burkett
+5269,5269,H8UT02255,"GHORBANI, SHIREEN SARAH",House,Challenger,Utah,Democratic Party,Shireen,Ghorbani,Shireen_Ghorbani,Shireen_Ghorbani_(Utah),https://ballotpedia.org/Shireen_Ghorbani
+5270,5270,H8UT03238,"CURTIS, JOHN",House,Incumbent,Utah,Republican Party,John,Curtis,John_Curtis,John_Curtis_(Utah),https://ballotpedia.org/John_Curtis
+5271,5271,H8UT03253,"HERROD, CHRISTOPHER NILES",House,Challenger,Utah,Republican Party,Christopher,Herrod,Christopher_Herrod,Christopher_Herrod_(Utah),https://ballotpedia.org/Christopher_Herrod
+5272,5272,H8UT03329,"HEINEMAN, AARON",House,Challenger,Utah,Other,Aaron,Heineman,Aaron_Heineman,Aaron_Heineman_(Utah),https://ballotpedia.org/Aaron_Heineman
+5273,5273,H8UT04046,"MCDONALD, DARLENE",House,Challenger,Utah,Democratic Party,Darlene,Mcdonald,Darlene_Mcdonald,Darlene_Mcdonald_(Utah),https://ballotpedia.org/Darlene_Mcdonald
+5274,5274,H8UT04053,"MCADAMS, BEN",House,Incumbent,Utah,Democratic Party,Ben,Mcadams,Ben_Mcadams,Ben_Mcadams_(Utah),https://ballotpedia.org/Ben_Mcadams
+5275,5275,H8UT04079,"SHEPHERD, MORGAN",House,Challenger,Utah,Democratic Party,Morgan,Shepherd,Morgan_Shepherd,Morgan_Shepherd_(Utah),https://ballotpedia.org/Morgan_Shepherd
+5276,5276,H8VA01147,"WITTMAN, ROBERT J MR.",House,Incumbent,Virginia,Republican Party,Robert,Wittman,Robert_Wittman,Robert_Wittman_(Virginia),https://ballotpedia.org/Robert_Wittman
+5277,5277,H8VA01220,"ENNIS, CRAIG E",House,Challenger,Virginia,Unknown,Craig,Ennis,Craig_Ennis,Craig_Ennis_(Virginia),https://ballotpedia.org/Craig_Ennis
+5278,5278,H8VA01253,"SANTANA, EDWIN JR",House,Challenger,Virginia,Democratic Party,Edwin,Santana,Edwin_Santana,Edwin_Santana_(Virginia),https://ballotpedia.org/Edwin_Santana
+5279,5279,H8VA01303,"WILLIAMS, LAVANGELENE A",House,Challenger,Virginia,Democratic Party,Lavangelene,Williams,Lavangelene_Williams,Lavangelene_Williams_(Virginia),https://ballotpedia.org/Lavangelene_Williams
+5280,5280,H8VA01311,"ALEXANDER, ARSENIO",House,,Virginia,Independence Party,Arsenio,Alexander,Arsenio_Alexander,Arsenio_Alexander_(Virginia),https://ballotpedia.org/Arsenio_Alexander
+5281,5281,H8VA02087,"HUBBARD, GARRY",House,Challenger,Virginia,Green Party,Garry,Hubbard,Garry_Hubbard,Garry_Hubbard_(Virginia),https://ballotpedia.org/Garry_Hubbard
+5282,5282,H8VA02111,"LURIA, ELAINE",House,Incumbent,Virginia,Democratic Party,Elaine,Luria,Elaine_Luria,Elaine_Luria_(Virginia),https://ballotpedia.org/Elaine_Luria
+5283,5283,H8VA05114,"HUFFSTETLER, ROGER DEAN RD",House,Challenger,Virginia,Democratic Party,Roger,Huffstetler,Roger_Huffstetler,Roger_Huffstetler_(Virginia),https://ballotpedia.org/Roger_Huffstetler
+5284,5284,H8VA05171,"RIGGLEMAN, DENVER LEE MR. III",House,Incumbent,Virginia,Republican Party,Denver,Riggleman,Denver_Riggleman,Denver_Riggleman_(Virginia),https://ballotpedia.org/Denver_Riggleman
+5285,5285,H8VA06096,"DUNBAR, CYNTHIA",House,Open seat,Virginia,Republican Party,Cynthia,Dunbar,Cynthia_Dunbar,Cynthia_Dunbar_(Virginia),https://ballotpedia.org/Cynthia_Dunbar
+5286,5286,H8VA06104,"CLINE, BENJAMIN LEE",House,Incumbent,Virginia,Republican Party,Benjamin,Cline,Benjamin_Cline,Benjamin_Cline_(Virginia),https://ballotpedia.org/Benjamin_Cline
+5287,5287,H8VA06138,"LEWIS, JENNIFER LYNN",House,Challenger,Virginia,Democratic Party,Jennifer,Lewis,Jennifer_Lewis,Jennifer_Lewis_(Virginia),https://ballotpedia.org/Jennifer_Lewis
+5288,5288,H8VA07094,"SPANBERGER, ABIGAIL",House,Incumbent,Virginia,Democratic Party,Abigail,Spanberger,Abigail_Spanberger,Abigail_Spanberger_(Virginia),https://ballotpedia.org/Abigail_Spanberger
+5289,5289,H8VA10098,"STOVER, LINDSEY DAVIS",House,Challenger,Virginia,Democratic Party,Lindsey,Stover,Lindsey_Stover,Lindsey_Stover_(Virginia),https://ballotpedia.org/Lindsey_Stover
+5290,5290,H8VA10106,"WEXTON, JENNIFER",House,Incumbent,Virginia,Democratic Party,Jennifer,Wexton,Jennifer_Wexton,Jennifer_Wexton_(Virginia),https://ballotpedia.org/Jennifer_Wexton
+5291,5291,H8VA10189,"AYYAS, SHADI",House,Challenger,Virginia,Democratic Party,Shadi,Ayyas,Shadi_Ayyas,Shadi_Ayyas_(Virginia),https://ballotpedia.org/Shadi_Ayyas
+5292,5292,H8VA11062,"CONNOLLY, GERALD EDWARD",House,Incumbent,Virginia,Democratic Party,Gerald,Connolly,Gerald_Connolly,Gerald_Connolly_(Virginia),https://ballotpedia.org/Gerald_Connolly
+5293,5293,H8VA11088,"PORTER, STEVAN MICHAEL MR.",House,Challenger,Virginia,Libertarian Party,Stevan,Porter,Stevan_Porter,Stevan_Porter_(Virginia),https://ballotpedia.org/Stevan_Porter
+5294,5294,H8VT01065,"TYNIO, NATASHA",House,Challenger,Vermont,Republican Party,Natasha,Tynio,Natasha_Tynio,Natasha_Tynio_(Vermont),https://ballotpedia.org/Natasha_Tynio
+5295,5295,H8WA01077,"BEELER, JEFFREY ALLEN SR.",House,Challenger,Washington,Republican Party,Jeffrey,Beeler,Jeffrey_Beeler,Jeffrey_Beeler_(Washington),https://ballotpedia.org/Jeffrey_Beeler
+5296,5296,H8WA03172,"GASQUE, DOROTHY",House,Challenger,Washington,Democratic Party,Dorothy,Gasque,Dorothy_Gasque,Dorothy_Gasque_(Washington),https://ballotpedia.org/Dorothy_Gasque
+5297,5297,H8WA03198,"LONG, CAROLYN N.",House,Challenger,Washington,Democratic Party,Carolyn,Long,Carolyn_Long,Carolyn_Long_(Washington),https://ballotpedia.org/Carolyn_Long
+5298,5298,H8WA05193,"BROWN, LISA",House,Challenger,Washington,Democratic Party,Lisa,Brown,Lisa_Brown,Lisa_Brown_(Washington),https://ballotpedia.org/Lisa_Brown
+5299,5299,H8WA07132,"MCDERMOTT, JAMES",House,Incumbent,Washington,Democratic Party,James,Mcdermott,James_Mcdermott,James_Mcdermott_(Washington),https://ballotpedia.org/James_Mcdermott
+5300,5300,H8WA08064,"GREENE, CLIFFORD MARK",House,Challenger,Washington,Republican Party,Clifford,Greene,Clifford_Greene,Clifford_Greene_(Washington),https://ballotpedia.org/Clifford_Greene
+5301,5301,H8WA08189,"SCHRIER, KIM DR.",House,Incumbent,Washington,Democratic Party,Kim,Schrier,Kim_Schrier,Kim_Schrier_(Washington),https://ballotpedia.org/Kim_Schrier
+5302,5302,H8WA09054,"SMITH, SARAH",House,Challenger,Washington,Democratic Party,Sarah,Smith,Sarah_Smith,Sarah_Smith_(Washington),https://ballotpedia.org/Sarah_Smith
+5303,5303,H8WA10037,"SLOTNICK, NANCY DAILEY",House,Open seat,Washington,Republican Party,Nancy,Slotnick,Nancy_Slotnick,Nancy_Slotnick_(Washington),https://ballotpedia.org/Nancy_Slotnick
+5304,5304,H8WI00018,"BALDWIN, TAMMY",House,Challenger,Wisconsin,Democratic Party,Tammy,Baldwin,Tammy_Baldwin,Tammy_Baldwin_(Wisconsin),https://ballotpedia.org/Tammy_Baldwin
+5305,5305,H8WI01024,"RYAN, PAUL D.",House,Incumbent,Wisconsin,Republican Party,Paul,Ryan,Paul_Ryan,Paul_Ryan_(Wisconsin),https://ballotpedia.org/Paul_Ryan
+5306,5306,H8WI01123,"BRYCE, RANDY",House,Open seat,Wisconsin,Democratic Party,Randy,Bryce,Randy_Bryce,Randy_Bryce_(Wisconsin),https://ballotpedia.org/Randy_Bryce
+5307,5307,H8WI01149,"POLCE, NICK",House,Open seat,Wisconsin,Republican Party,Nick,Polce,Nick_Polce,Nick_Polce_(Wisconsin),https://ballotpedia.org/Nick_Polce
+5308,5308,H8WI01156,"STEIL, BRYAN GEORGE",House,Incumbent,Wisconsin,Republican Party,Bryan,Steil,Bryan_Steil,Bryan_Steil_(Wisconsin),https://ballotpedia.org/Bryan_Steil
+5309,5309,H8WI01164,"STEEN, KEVIN ADAM",House,Open seat,Wisconsin,Republican Party,Kevin,Steen,Kevin_Steen,Kevin_Steen_(Wisconsin),https://ballotpedia.org/Kevin_Steen
+5310,5310,H8WI02121,"THERON, DANIEL PETER",House,Challenger,Wisconsin,Republican Party,Daniel,Theron,Daniel_Theron,Daniel_Theron_(Wisconsin),https://ballotpedia.org/Daniel_Theron
+5311,5311,H8WI04069,"ROGERS, TIM",House,Challenger,Wisconsin,Republican Party,Tim,Rogers,Tim_Rogers,Tim_Rogers_(Wisconsin),https://ballotpedia.org/Tim_Rogers
+5312,5312,H8WI05165,"PALZEWICZ, TOM",House,Open seat,Wisconsin,Democratic Party,Tom,Palzewicz,Tom_Palzewicz,Tom_Palzewicz_(Wisconsin),https://ballotpedia.org/Tom_Palzewicz
+5313,5313,H8WI07096,"ENGEBRETSON, MARGARET RUTH",House,Challenger,Wisconsin,Democratic Party,Margaret,Engebretson,Margaret_Engebretson,Margaret_Engebretson_(Wisconsin),https://ballotpedia.org/Margaret_Engebretson
+5314,5314,H8WI07120,"PAULAHA, DENNIS FRANK",House,Challenger,Wisconsin,Democratic Party,Dennis,Paulaha,Dennis_Paulaha,Dennis_Paulaha_(Wisconsin),https://ballotpedia.org/Dennis_Paulaha
+5315,5315,H8WI09050,"SENSENBRENNER, F. JAMES JR.",House,Open seat,Wisconsin,Republican Party,F.,Sensenbrenner,F._Sensenbrenner,F._Sensenbrenner_(Wisconsin),https://ballotpedia.org/F._Sensenbrenner
+5316,5316,H8WV02073,"UNGER, JOHN R II",House,Challenger,West Virginia,Democratic Party,John,Unger,John_Unger,John_Unger_(West Virginia),https://ballotpedia.org/John_Unger
+5317,5317,H8WV02115,"SERGENT, TALLEY",House,Challenger,West Virginia,Democratic Party,Talley,Sergent,Talley_Sergent,Talley_Sergent_(West Virginia),https://ballotpedia.org/Talley_Sergent
+5318,5318,H8WV03097,"MILLER, CAROL DEVINE",House,Incumbent,West Virginia,Republican Party,Carol,Miller,Carol_Miller,Carol_Miller_(West Virginia),https://ballotpedia.org/Carol_Miller
+5319,5319,H8WV03105,"LUCAS, CONRAD G. MR. II",House,Open seat,West Virginia,Republican Party,Conrad,Lucas,Conrad_Lucas,Conrad_Lucas_(West Virginia),https://ballotpedia.org/Conrad_Lucas
+5320,5320,H8WV03113,"GEARHEART, MARTY",House,Open seat,West Virginia,Republican Party,Marty,Gearheart,Marty_Gearheart,Marty_Gearheart_(West Virginia),https://ballotpedia.org/Marty_Gearheart
+5321,5321,H8WV03139,"HAGERMAN, JANICE ""BYRD""",House,Open seat,West Virginia,Democratic Party,Janice,Hagerman,Janice_Hagerman,Janice_Hagerman_(West Virginia),https://ballotpedia.org/Janice_Hagerman
+5322,5322,H8WY00148,"LUMMIS, CYNTHIA MARIE",House,Incumbent,Wyoming,Republican Party,Cynthia,Lummis,Cynthia_Lummis,Cynthia_Lummis_(Wyoming),https://ballotpedia.org/Cynthia_Lummis
+5323,5323,H8WY00171,"MILLER, ROD",House,Challenger,Wyoming,Republican Party,Rod,Miller,Rod_Miller,Rod_Miller_(Wyoming),https://ballotpedia.org/Rod_Miller
+5324,5324,H8WY01054,"HELM, TRAVIS",House,Challenger,Wyoming,Democratic Party,Travis,Helm,Travis_Helm,Travis_Helm_(Wyoming),https://ballotpedia.org/Travis_Helm
+5325,5325,H8WY01062,"HUNTER, GREG",House,Challenger,Wyoming,Democratic Party,Greg,Hunter,Greg_Hunter,Greg_Hunter_(Wyoming),https://ballotpedia.org/Greg_Hunter
+5326,5326,H8WY01070,"STANLEY, BLAKE",House,Challenger,Wyoming,Republican Party,Blake,Stanley,Blake_Stanley,Blake_Stanley_(Wyoming),https://ballotpedia.org/Blake_Stanley
+5327,5327,P00000679,"CARROLL, JERRY LEON",President,,,,Jerry,Carroll,Jerry_Carroll,Jerry_Carroll_(),https://ballotpedia.org/Jerry_Carroll
+5328,5328,P00003244,"WINTERBOTTOM, THOMAS FRANCIS",President,,,Democratic Party,Thomas,Winterbottom,Thomas_Winterbottom,Thomas_Winterbottom_(),https://ballotpedia.org/Thomas_Winterbottom
+5329,5329,P00003392,"CLINTON, HILLARY RODHAM / TIMOTHY MICHAEL KAINE",President,Open seat,,Democratic Party,Hillary,Clinton,Hillary_Clinton,Hillary_Clinton_(),https://ballotpedia.org/Hillary_Clinton
+5330,5330,P00003608,"CAIN, HERMAN",President,Challenger,,Republican Party,Herman,Cain,Herman_Cain,Herman_Cain_(),https://ballotpedia.org/Herman_Cain
+5331,5331,P00003640,"LANCE-COUNCIL, TEMPERANCE ALESHA",President,,,Other,Temperance,Lance-council,Temperance_Lance-council,Temperance_Lance-council_(),https://ballotpedia.org/Temperance_Lance-council
+5332,5332,P00003814,"MALONE, YEHANNA JOAN M M",President,Challenger,,Republican Party,Yehanna,Malone,Yehanna_Malone,Yehanna_Malone_(),https://ballotpedia.org/Yehanna_Malone
+5333,5333,P00003897,"WALLACE, WILLIAM L",President,Challenger,,Independent,William,Wallace,William_Wallace,William_Wallace_(),https://ballotpedia.org/William_Wallace
+5334,5334,P00003962,"SCHRINER, JOSEPH CHARLES",President,Challenger,,Independent,Joseph,Schriner,Joseph_Schriner,Joseph_Schriner_(),https://ballotpedia.org/Joseph_Schriner
+5335,5335,P00004846,"IWACHIW, WALTER N",President,Challenger,,Republican Party,Walter,Iwachiw,Walter_Iwachiw,Walter_Iwachiw_(),https://ballotpedia.org/Walter_Iwachiw
+5336,5336,P00004861,"BICKELMEYER, MICHAEL",President,,,Republican Party,Michael,Bickelmeyer,Michael_Bickelmeyer,Michael_Bickelmeyer_(),https://ballotpedia.org/Michael_Bickelmeyer
+5337,5337,P00004929,"HURLEY, CHRISTOPHER JAMES",President,Challenger,,Unaffiliated,Christopher,Hurley,Christopher_Hurley,Christopher_Hurley_(),https://ballotpedia.org/Christopher_Hurley
+5338,5338,P00004945,"HOWITT, JAMES WILLIAM",President,Challenger,,Republican Party,James,Howitt,James_Howitt,James_Howitt_(),https://ballotpedia.org/James_Howitt
+5339,5339,P00005009,"HILLER, ESTLIN ALEISTER",President,,,Democratic Party,Estlin,Hiller,Estlin_Hiller,Estlin_Hiller_(),https://ballotpedia.org/Estlin_Hiller
+5340,5340,P00005090,"BOYER, GREGORY",President,Challenger,,Write-In,Gregory,Boyer,Gregory_Boyer,Gregory_Boyer_(),https://ballotpedia.org/Gregory_Boyer
+5341,5341,P00005108,"BLAND, PARKER",President,,,None,Parker,Bland,Parker_Bland,Parker_Bland_(),https://ballotpedia.org/Parker_Bland
+5342,5342,P00005116,"SCOTT, KAMERON",President,Challenger,,,Kameron,Scott,Kameron_Scott,Kameron_Scott_(),https://ballotpedia.org/Kameron_Scott
+5343,5343,P00005207,"ROUSE, DEBORAH ANN",President,Challenger,,Write-In,Deborah,Rouse,Deborah_Rouse,Deborah_Rouse_(),https://ballotpedia.org/Deborah_Rouse
+5344,5344,P00005231,"PERKINS, WILLIE DISHAUN MR",President,Challenger,,American Independent Party,Willie,Perkins,Willie_Perkins,Willie_Perkins_(),https://ballotpedia.org/Willie_Perkins
+5345,5345,P00005256,"DENAME, MICHAEL TONY MICHAEL JR",President,,,American Party,Michael,Dename,Michael_Dename,Michael_Dename_(),https://ballotpedia.org/Michael_Dename
+5346,5346,P00005314,"JORGENSON, CHAD MICHAEL",President,Challenger,,Independent,Chad,Jorgenson,Chad_Jorgenson,Chad_Jorgenson_(),https://ballotpedia.org/Chad_Jorgenson
+5347,5347,P00005355,"VARNADO, KEYSHAWN DWANYE",President,Challenger,,Democratic Party,Keyshawn,Varnado,Keyshawn_Varnado,Keyshawn_Varnado_(),https://ballotpedia.org/Keyshawn_Varnado
+5348,5348,P00005363,"SRAIL, JAMES RYAN MR.",President,Challenger,,Independent,James,Srail,James_Srail,James_Srail_(),https://ballotpedia.org/James_Srail
+5349,5349,P00005389,"BOWERS, MICHAEL DEAN",President,Challenger,,People's Party,Michael,Bowers,Michael_Bowers,Michael_Bowers_(),https://ballotpedia.org/Michael_Bowers
+5350,5350,P00005421,"LEONARD, KEITH",President,Challenger,,Democratic Party,Keith,Leonard,Keith_Leonard,Keith_Leonard_(),https://ballotpedia.org/Keith_Leonard
+5351,5351,P00005454,"SHARP, JEFFERY",President,Challenger,,None,Jeffery,Sharp,Jeffery_Sharp,Jeffery_Sharp_(),https://ballotpedia.org/Jeffery_Sharp
+5352,5352,P00005470,"DIXON, MICHAEL JOSEPH",President,Challenger,,Other,Michael,Dixon,Michael_Dixon,Michael_Dixon_(),https://ballotpedia.org/Michael_Dixon
+5353,5353,P00005520,"THOMAS, ROBERT JAMES",President,Challenger,,Independent,Robert,Thomas,Robert_Thomas,Robert_Thomas_(),https://ballotpedia.org/Robert_Thomas
+5354,5354,P00005561,"ALONGI, ANTHONY",President,Challenger,,None,Anthony,Alongi,Anthony_Alongi,Anthony_Alongi_(),https://ballotpedia.org/Anthony_Alongi
+5355,5355,P00005587,"ROESLER, NICHOLAS",President,Challenger,,Independent,Nicholas,Roesler,Nicholas_Roesler,Nicholas_Roesler_(),https://ballotpedia.org/Nicholas_Roesler
+5356,5356,P00005595,"BROWN, GEORGE CLINTON",President,Challenger,,Democratic Party,George,Brown,George_Brown,George_Brown_(),https://ballotpedia.org/George_Brown
+5357,5357,P00005603,"MCLAIN, KELLY MR.",President,Challenger,,Democratic Party,Kelly,Mclain,Kelly_Mclain,Kelly_Mclain_(),https://ballotpedia.org/Kelly_Mclain
+5358,5358,P00005611,"ALVAREZ, MARK ANDREW MR.",President,,,Democratic Party,Mark,Alvarez,Mark_Alvarez,Mark_Alvarez_(),https://ballotpedia.org/Mark_Alvarez
+5359,5359,P00005637,"DIEL, KEVIN BRADFORD 1983",President,Challenger,,Independent,Kevin,Diel,Kevin_Diel,Kevin_Diel_(),https://ballotpedia.org/Kevin_Diel
+5360,5360,P00005645,"GARCIA, ADAM KENNETH",President,,,Democratic Party,Adam,Garcia,Adam_Garcia,Adam_Garcia_(),https://ballotpedia.org/Adam_Garcia
+5361,5361,P00005660,"O'KEEFE, JOHN",President,Challenger,,Democratic Party,John,O'keefe,John_O'keefe,John_O'keefe_(),https://ballotpedia.org/John_O'keefe
+5362,5362,P00005702,"COOK, MERRILL EDWARD SERGEANT JR.",President,Challenger,,Unaffiliated,Merrill,Cook,Merrill_Cook,Merrill_Cook_(),https://ballotpedia.org/Merrill_Cook
+5363,5363,P00005751,"CAPTAIN, MICHAEL T SGT",President,Challenger,,New Alliance,Michael,Captain,Michael_Captain,Michael_Captain_(),https://ballotpedia.org/Michael_Captain
+5364,5364,P00005777,"FELICIANO, NELSON",President,Challenger,,Unknown,Nelson,Feliciano,Nelson_Feliciano,Nelson_Feliciano_(),https://ballotpedia.org/Nelson_Feliciano
+5365,5365,P00005793,"O'BRIEN, MEGAN",President,,,Democratic Party,Megan,O'brien,Megan_O'brien,Megan_O'brien_(),https://ballotpedia.org/Megan_O'brien
+5366,5366,P00005819,"FARRELL-SMITH, KELAN JOHN MR.",President,,,Democratic Party,Kelan,Farrell-smith,Kelan_Farrell-smith,Kelan_Farrell-smith_(),https://ballotpedia.org/Kelan_Farrell-smith
+5367,5367,P00005835,"ALTMAN, JOEL LEVI",President,Challenger,,Independent,Joel,Altman,Joel_Altman,Joel_Altman_(),https://ballotpedia.org/Joel_Altman
+5368,5368,P00005850,"OAKES, KEVIN",President,Challenger,,Republican Party,Kevin,Oakes,Kevin_Oakes,Kevin_Oakes_(),https://ballotpedia.org/Kevin_Oakes
+5369,5369,P00005868,"GREENE, ROSALIND FRANCINA",President,Challenger,,Democratic Party,Rosalind,Greene,Rosalind_Greene,Rosalind_Greene_(),https://ballotpedia.org/Rosalind_Greene
+5370,5370,P00005934,"AYER, NILES",President,Challenger,,Democratic Party,Niles,Ayer,Niles_Ayer,Niles_Ayer_(),https://ballotpedia.org/Niles_Ayer
+5371,5371,P00005959,"DISNEY, GARY DENNIS",President,Challenger,,American Party,Gary,Disney,Gary_Disney,Gary_Disney_(),https://ballotpedia.org/Gary_Disney
+5372,5372,P00005975,"THEZION (CORREA), MOSHEH (LUIS) EDWARD",President,Challenger,,Democratic Party,Mosheh,Thezion (correa),Mosheh_Thezion (correa),Mosheh_Thezion (correa)_(),https://ballotpedia.org/Mosheh_Thezion (correa)
+5373,5373,P00006007,"GORDON, ALAN",President,Challenger,,Independent,Alan,Gordon,Alan_Gordon,Alan_Gordon_(),https://ballotpedia.org/Alan_Gordon
+5374,5374,P00006049,"BANNISTER, WALTER RANDALL DR.",President,Challenger,,Republican Party,Walter,Bannister,Walter_Bannister,Walter_Bannister_(),https://ballotpedia.org/Walter_Bannister
+5375,5375,P00006056,"EDMONDS, SIMON",President,Challenger,,Democratic Party,Simon,Edmonds,Simon_Edmonds,Simon_Edmonds_(),https://ballotpedia.org/Simon_Edmonds
+5376,5376,P00006064,"DAVIS, KELVIN GERAD",President,,,Independent,Kelvin,Davis,Kelvin_Davis,Kelvin_Davis_(),https://ballotpedia.org/Kelvin_Davis
+5377,5377,P00006080,"OHANIAN, GRANT ETHRIDGE MR",President,Challenger,,Democratic Party,Grant,Ohanian,Grant_Ohanian,Grant_Ohanian_(),https://ballotpedia.org/Grant_Ohanian
+5378,5378,P00006106,"HOY, JOSHUA ALEXANDER MR.",President,Challenger,,Democratic Party,Joshua,Hoy,Joshua_Hoy,Joshua_Hoy_(),https://ballotpedia.org/Joshua_Hoy
+5379,5379,P00006122,"MASON, JAMES GRAY MR.",President,Challenger,,Write-In,James,Mason,James_Mason,James_Mason_(),https://ballotpedia.org/James_Mason
+5380,5380,P00006130,"LEE, WARREN",President,Challenger,,Democratic Party,Warren,Lee,Warren_Lee,Warren_Lee_(),https://ballotpedia.org/Warren_Lee
+5381,5381,P00006148,"COOPER, ROBERT WASHINGTON JR",President,Challenger,,Independent,Robert,Cooper,Robert_Cooper,Robert_Cooper_(),https://ballotpedia.org/Robert_Cooper
+5382,5382,P00006163,"JOHNSTON, JACOB",President,Challenger,,Republican Party,Jacob,Johnston,Jacob_Johnston,Jacob_Johnston_(),https://ballotpedia.org/Jacob_Johnston
+5383,5383,P00006171,"CLIFTON, TIRELL ALEXANDER MAXWELL REV.",President,Challenger,,Democratic Party,Tirell,Clifton,Tirell_Clifton,Tirell_Clifton_(),https://ballotpedia.org/Tirell_Clifton
+5384,5384,P00006213,"DELANEY, JOHN K.",President,Challenger,,Democratic Party,John,Delaney,John_Delaney,John_Delaney_(),https://ballotpedia.org/John_Delaney
+5385,5385,P00006221,"NOWELL, JANELLE MARIE",President,Challenger,,Democratic Party,Janelle,Nowell,Janelle_Nowell,Janelle_Nowell_(),https://ballotpedia.org/Janelle_Nowell
+5386,5386,P00006239,"GRIFFITH, DAVID OSWALD",President,Challenger,,Republican Party,David,Griffith,David_Griffith,David_Griffith_(),https://ballotpedia.org/David_Griffith
+5387,5387,P00006247,"AGUIAR, MICHAEL",President,Challenger,,Democratic Party,Michael,Aguiar,Michael_Aguiar,Michael_Aguiar_(),https://ballotpedia.org/Michael_Aguiar
+5388,5388,P00006270,"ABRAUGH, MATTHEW M. MR.",President,Challenger,,Non-Party,Matthew,Abraugh,Matthew_Abraugh,Matthew_Abraugh_(),https://ballotpedia.org/Matthew_Abraugh
+5389,5389,P00006296,"ANTHONY, NAKIA LACQUERS",President,Challenger,,Democratic Party,Nakia,Anthony,Nakia_Anthony,Nakia_Anthony_(),https://ballotpedia.org/Nakia_Anthony
+5390,5390,P00006320,"KING, BRADLEY S.",President,Challenger,,Unaffiliated,Bradley,King,Bradley_King,Bradley_King_(),https://ballotpedia.org/Bradley_King
+5391,5391,P00006338,"EGGLESTON, DERRICK",President,Challenger,,Unknown,Derrick,Eggleston,Derrick_Eggleston,Derrick_Eggleston_(),https://ballotpedia.org/Derrick_Eggleston
+5392,5392,P00006346,"CARTY, JILL ANN MS.",President,Challenger,,Independence Party,Jill,Carty,Jill_Carty,Jill_Carty_(),https://ballotpedia.org/Jill_Carty
+5393,5393,P00006403,"NWADIKE JR, KENNETH E",President,Challenger,,Democratic Party,Kenneth,Nwadike jr,Kenneth_Nwadike jr,Kenneth_Nwadike jr_(),https://ballotpedia.org/Kenneth_Nwadike jr
+5394,5394,P00006411,"MURPHY, DARRYL",President,Challenger,,Republican Party,Darryl,Murphy,Darryl_Murphy,Darryl_Murphy_(),https://ballotpedia.org/Darryl_Murphy
+5395,5395,P00006429,"MUDD, JACOB AUSTIN MR.",President,,,Republican Party,Jacob,Mudd,Jacob_Mudd,Jacob_Mudd_(),https://ballotpedia.org/Jacob_Mudd
+5396,5396,P00006460,"BUSH, WILLITA D",President,Challenger,,Independent,Willita,Bush,Willita_Bush,Willita_Bush_(),https://ballotpedia.org/Willita_Bush
+5397,5397,P00006486,"YANG, ANDREW MR.",President,Challenger,,Democratic Party,Andrew,Yang,Andrew_Yang,Andrew_Yang_(),https://ballotpedia.org/Andrew_Yang
+5398,5398,P00006502,"BLUFORD, LARRY D MR. SR",President,Challenger,,Write-In,Larry,Bluford,Larry_Bluford,Larry_Bluford_(),https://ballotpedia.org/Larry_Bluford
+5399,5399,P00006510,"CHIODO, DAMIEN GARRETT MR.",President,Challenger,,Democratic Party,Damien,Chiodo,Damien_Chiodo,Damien_Chiodo_(),https://ballotpedia.org/Damien_Chiodo
+5400,5400,P00006528,"HERZ, DAVID RAPHAEL MR.",President,,,Republican Party,David,Herz,David_Herz,David_Herz_(),https://ballotpedia.org/David_Herz
+5401,5401,P00006536,"BUNYAN, NOAH MR.",President,Challenger,,Democratic Party,Noah,Bunyan,Noah_Bunyan,Noah_Bunyan_(),https://ballotpedia.org/Noah_Bunyan
+5402,5402,P00006544,"KABIR, MOHAMMAD",President,,,Other,Mohammad,Kabir,Mohammad_Kabir,Mohammad_Kabir_(),https://ballotpedia.org/Mohammad_Kabir
+5403,5403,P00006601,"MARTINI, JOHN PATRICK MR.",President,Challenger,,Democratic Party,John,Martini,John_Martini,John_Martini_(),https://ballotpedia.org/John_Martini
+5404,5404,P00006627,"RIVERA, BRIAN NATHANIEL",President,,,Democratic Party,Brian,Rivera,Brian_Rivera,Brian_Rivera_(),https://ballotpedia.org/Brian_Rivera
+5405,5405,P00006676,"BRAUN III, HARRY WILLIAM",President,Challenger,,Democratic Party,Harry,Braun iii,Harry_Braun iii,Harry_Braun iii_(),https://ballotpedia.org/Harry_Braun iii
+5406,5406,P00006700,"DACEY, JOHN MR.",President,Challenger,,Democratic Party,John,Dacey,John_Dacey,John_Dacey_(),https://ballotpedia.org/John_Dacey
+5407,5407,P00006734,"HARVEY, TERRANCE JAMES",President,Challenger,,Republican Party,Terrance,Harvey,Terrance_Harvey,Terrance_Harvey_(),https://ballotpedia.org/Terrance_Harvey
+5408,5408,P00006742,"FRANK, DAVID",President,Challenger,,Independent,David,Frank,David_Frank,David_Frank_(),https://ballotpedia.org/David_Frank
+5409,5409,P00006759,"USERA, JOSHUA DAVID",President,,,Other,Joshua,Usera,Joshua_Usera,Joshua_Usera_(),https://ballotpedia.org/Joshua_Usera
+5410,5410,P00006783,"EBERLY, MELVIN FRANCIS",President,Challenger,,Republican Party,Melvin,Eberly,Melvin_Eberly,Melvin_Eberly_(),https://ballotpedia.org/Melvin_Eberly
+5411,5411,P00006809,"MONCADA, RICHARD CHARLES",President,Challenger,,Independent,Richard,Moncada,Richard_Moncada,Richard_Moncada_(),https://ballotpedia.org/Richard_Moncada
+5412,5412,P00006817,"GARRET, SAMMY NO MIDDLE NAME SAM RET",President,Challenger,,Independent,Sammy,Garret,Sammy_Garret,Sammy_Garret_(),https://ballotpedia.org/Sammy_Garret
+5413,5413,P00006825,"CUNNINGHAM, HART P.",President,Challenger,,Democratic Party,Hart,Cunningham,Hart_Cunningham,Hart_Cunningham_(),https://ballotpedia.org/Hart_Cunningham
+5414,5414,P00006841,"KOKESH, ADAM",President,Challenger,,Libertarian Party,Adam,Kokesh,Adam_Kokesh,Adam_Kokesh_(),https://ballotpedia.org/Adam_Kokesh
+5415,5415,P00006874,"CROSS, KENNETH ROBERT",President,Challenger,,,Kenneth,Cross,Kenneth_Cross,Kenneth_Cross_(),https://ballotpedia.org/Kenneth_Cross
+5416,5416,P00006940,"HOUSE, DANIEL JONATHAN",President,Challenger,,Independent,Daniel,House,Daniel_House,Daniel_House_(),https://ballotpedia.org/Daniel_House
+5417,5417,P00006957,"GITTELMAN, CURTIS",President,Challenger,,Write-In,Curtis,Gittelman,Curtis_Gittelman,Curtis_Gittelman_(),https://ballotpedia.org/Curtis_Gittelman
+5418,5418,P00006973,"MCGLOVER, JOHN WILLIAM",President,,,Independent,John,Mcglover,John_Mcglover,John_Mcglover_(),https://ballotpedia.org/John_Mcglover
+5419,5419,P00006981,"FARBER, RYAN ANDREW",President,Challenger,,Democratic Party,Ryan,Farber,Ryan_Farber,Ryan_Farber_(),https://ballotpedia.org/Ryan_Farber
+5420,5420,P00007039,"SMITH, ROBERT EUGENE",President,Challenger,,Republican Party,Robert,Smith,Robert_Smith,Robert_Smith_(),https://ballotpedia.org/Robert_Smith
+5421,5421,P00007062,"WILSON, KENNETH ALAN",President,Challenger,,Independent,Kenneth,Wilson,Kenneth_Wilson,Kenneth_Wilson_(),https://ballotpedia.org/Kenneth_Wilson
+5422,5422,P00007088,"SHAW, ROBERT SIMON IV",President,Challenger,,Democratic Party,Robert,Shaw,Robert_Shaw,Robert_Shaw_(),https://ballotpedia.org/Robert_Shaw
+5423,5423,P00007096,"LANKFORD, KEITH DANIEL",President,Challenger,,Write-In,Keith,Lankford,Keith_Lankford,Keith_Lankford_(),https://ballotpedia.org/Keith_Lankford
+5424,5424,P00007104,"BUSH, RONALD MR",President,Challenger,,Democratic Party,Ronald,Bush,Ronald_Bush,Ronald_Bush_(),https://ballotpedia.org/Ronald_Bush
+5425,5425,P00007153,"WATKINS, CHRISTOPHER CHRISTIAN",President,Challenger,,Independent,Christopher,Watkins,Christopher_Watkins,Christopher_Watkins_(),https://ballotpedia.org/Christopher_Watkins
+5426,5426,P00007187,"BACHAR, SHAWN",President,Challenger,,Independence Party,Shawn,Bachar,Shawn_Bachar,Shawn_Bachar_(),https://ballotpedia.org/Shawn_Bachar
+5427,5427,P00007195,"HODGES, CHARLES LANDON",President,Challenger,,Democratic Party,Charles,Hodges,Charles_Hodges,Charles_Hodges_(),https://ballotpedia.org/Charles_Hodges
+5428,5428,P00007252,"HOPE, WILLIAM",President,Challenger,,Democratic Party,William,Hope,William_Hope,William_Hope_(),https://ballotpedia.org/William_Hope
+5429,5429,P00007286,"VEGAN, SEXY",President,,,Write-In,Sexy,Vegan,Sexy_Vegan,Sexy_Vegan_(),https://ballotpedia.org/Sexy_Vegan
+5430,5430,P00007328,"GANZER, CALEB",President,Challenger,,Democratic Party,Caleb,Ganzer,Caleb_Ganzer,Caleb_Ganzer_(),https://ballotpedia.org/Caleb_Ganzer
+5431,5431,P00007351,"MCCARTHY, CHRISTOPHER",President,Challenger,,Non-Party,Christopher,Mccarthy,Christopher_Mccarthy,Christopher_Mccarthy_(),https://ballotpedia.org/Christopher_Mccarthy
+5432,5432,P00007393,"SYLVESTER, PAUL LOUIS",President,Challenger,,Other,Paul,Sylvester,Paul_Sylvester,Paul_Sylvester_(),https://ballotpedia.org/Paul_Sylvester
+5433,5433,P00007401,"MONTALVO, KENNETH JAMES",President,Challenger,,Independent,Kenneth,Montalvo,Kenneth_Montalvo,Kenneth_Montalvo_(),https://ballotpedia.org/Kenneth_Montalvo
+5434,5434,P00007443,"DUNHAM II, MARK LONDON",President,Challenger,,Democratic Party,Mark,Dunham ii,Mark_Dunham ii,Mark_Dunham ii_(),https://ballotpedia.org/Mark_Dunham ii
+5435,5435,P00007450,"ARENDT, DEVIN M",President,Challenger,,No Party Affiliation,Devin,Arendt,Devin_Arendt,Devin_Arendt_(),https://ballotpedia.org/Devin_Arendt
+5436,5436,P00007476,"GOMEZ, RUDY EDWARD",President,Challenger,,Democratic Party,Rudy,Gomez,Rudy_Gomez,Rudy_Gomez_(),https://ballotpedia.org/Rudy_Gomez
+5437,5437,P00007492,"BENZEL, JULIANNE ELIZABETH MRS.",President,Challenger,,Republican Party,Julianne,Benzel,Julianne_Benzel,Julianne_Benzel_(),https://ballotpedia.org/Julianne_Benzel
+5438,5438,P00007526,"CURRO, BRIAN R",President,Challenger,,Independent,Brian,Curro,Brian_Curro,Brian_Curro_(),https://ballotpedia.org/Brian_Curro
+5439,5439,P00007567,"HAWKINS, DANNY NATHANIEL JR.",President,Challenger,,Non-Party,Danny,Hawkins,Danny_Hawkins,Danny_Hawkins_(),https://ballotpedia.org/Danny_Hawkins
+5440,5440,P00007583,"PRESTIA, KEVIN",President,Challenger,,Democratic Party,Kevin,Prestia,Kevin_Prestia,Kevin_Prestia_(),https://ballotpedia.org/Kevin_Prestia
+5441,5441,P00007591,"ROOSE, RODGER",President,,,Democratic Party,Rodger,Roose,Rodger_Roose,Rodger_Roose_(),https://ballotpedia.org/Rodger_Roose
+5442,5442,P00007609,"PERRY, LEVOID DEXTER II",President,Challenger,,Democratic Party,Levoid,Perry,Levoid_Perry,Levoid_Perry_(),https://ballotpedia.org/Levoid_Perry
+5443,5443,P00007633,"FULK, SCOTT ELDON",President,Challenger,,Independent,Scott,Fulk,Scott_Fulk,Scott_Fulk_(),https://ballotpedia.org/Scott_Fulk
+5444,5444,P00007641,"WELLS, ROBERT CARR MR. JR.",President,Challenger,,Democratic Party,Robert,Wells,Robert_Wells,Robert_Wells_(),https://ballotpedia.org/Robert_Wells
+5445,5445,P00007666,"CHARBONNEAU, JACK LEWIS",President,Challenger,,Independent,Jack,Charbonneau,Jack_Charbonneau,Jack_Charbonneau_(),https://ballotpedia.org/Jack_Charbonneau
+5446,5446,P00007682,"MURRAY, JASON",President,Challenger,,Democratic Party,Jason,Murray,Jason_Murray,Jason_Murray_(),https://ballotpedia.org/Jason_Murray
+5447,5447,P00007716,"CLARK, MELVIN WAYNE",President,Challenger,,Democratic Party,Melvin,Clark,Melvin_Clark,Melvin_Clark_(),https://ballotpedia.org/Melvin_Clark
+5448,5448,P00007732,"MILLS, CHARLES EDWARD 1985 MALE",President,Challenger,,Write-In,Charles,Mills,Charles_Mills,Charles_Mills_(),https://ballotpedia.org/Charles_Mills
+5449,5449,P00007740,"MAYON, RAMONA ELIZABETH",President,Challenger,,Write-In,Ramona,Mayon,Ramona_Mayon,Ramona_Mayon_(),https://ballotpedia.org/Ramona_Mayon
+5450,5450,P00007773,"HENDRY, RICHARD HAMPTON MR.",President,Challenger,,No Party Affiliation,Richard,Hendry,Richard_Hendry,Richard_Hendry_(),https://ballotpedia.org/Richard_Hendry
+5451,5451,P00007799,"LUZA, RADOMIR VOJTECH",President,Challenger,,Democratic Party,Radomir,Luza,Radomir_Luza,Radomir_Luza_(),https://ballotpedia.org/Radomir_Luza
+5452,5452,P00007823,"LEE, HUHNKIE",President,Challenger,,Republican Party,Huhnkie,Lee,Huhnkie_Lee,Huhnkie_Lee_(),https://ballotpedia.org/Huhnkie_Lee
+5453,5453,P00007856,"KENNEWAY, BRUCE",President,,,Write-In,Bruce,Kenneway,Bruce_Kenneway,Bruce_Kenneway_(),https://ballotpedia.org/Bruce_Kenneway
+5454,5454,P00007864,"WELLS, KASEY",President,Challenger,,Independent,Kasey,Wells,Kasey_Wells,Kasey_Wells_(),https://ballotpedia.org/Kasey_Wells
+5455,5455,P00007880,"HALLMAN, MICHAEL L",President,Challenger,,None,Michael,Hallman,Michael_Hallman,Michael_Hallman_(),https://ballotpedia.org/Michael_Hallman
+5456,5456,P00007898,"MOSS JR, ANTHONY KEVIN",President,Challenger,,Independent,Anthony,Moss jr,Anthony_Moss jr,Anthony_Moss jr_(),https://ballotpedia.org/Anthony_Moss jr
+5457,5457,P00007906,"ALSTON, DONNA JEAN MISS",President,Challenger,,Democratic Party,Donna,Alston,Donna_Alston,Donna_Alston_(),https://ballotpedia.org/Donna_Alston
+5458,5458,P00007963,"KOZLOWSKI, BENJAMIN PETER",President,Challenger,,Democratic Party,Benjamin,Kozlowski,Benjamin_Kozlowski,Benjamin_Kozlowski_(),https://ballotpedia.org/Benjamin_Kozlowski
+5459,5459,P00007971,"WINDHAM, GERALD",President,Challenger,,Independent,Gerald,Windham,Gerald_Windham,Gerald_Windham_(),https://ballotpedia.org/Gerald_Windham
+5460,5460,P00007997,"STROUD, DONNA HAN",President,Challenger,,Republican Party,Donna,Stroud,Donna_Stroud,Donna_Stroud_(),https://ballotpedia.org/Donna_Stroud
+5461,5461,P00008003,"SMITH, SHARMIN LYNN",President,Challenger,,Democratic Party,Sharmin,Smith,Sharmin_Smith,Sharmin_Smith_(),https://ballotpedia.org/Sharmin_Smith
+5462,5462,P00008011,"NALLS, RANDALL",President,Challenger,,Democratic Party,Randall,Nalls,Randall_Nalls,Randall_Nalls_(),https://ballotpedia.org/Randall_Nalls
+5463,5463,P00008029,"BOBLIT, DANIEL JAMES MR",President,Challenger,,None,Daniel,Boblit,Daniel_Boblit,Daniel_Boblit_(),https://ballotpedia.org/Daniel_Boblit
+5464,5464,P00008037,"JOSEPH, DEJAWON",President,Challenger,,Democratic Party,Dejawon,Joseph,Dejawon_Joseph,Dejawon_Joseph_(),https://ballotpedia.org/Dejawon_Joseph
+5465,5465,P00008052,"TEIXEIRA, RASHARNDA S MISS",President,Challenger,,Write-In,Rasharnda,Teixeira,Rasharnda_Teixeira,Rasharnda_Teixeira_(),https://ballotpedia.org/Rasharnda_Teixeira
+5466,5466,P00008094,"FLUDD, ERIC RENALDO",President,Challenger,,Republican Party,Eric,Fludd,Eric_Fludd,Eric_Fludd_(),https://ballotpedia.org/Eric_Fludd
+5467,5467,P00008110,"WEIL, RICHARD LYONS",President,Challenger,,Democratic Party,Richard,Weil,Richard_Weil,Richard_Weil_(),https://ballotpedia.org/Richard_Weil
+5468,5468,P00008128,"ATANUS, SUSANNE",President,Challenger,,Democratic Party,Susanne,Atanus,Susanne_Atanus,Susanne_Atanus_(),https://ballotpedia.org/Susanne_Atanus
+5469,5469,P00008136,"GROENDYK, GIDGET KAY",President,Challenger,,Democratic Party,Gidget,Groendyk,Gidget_Groendyk,Gidget_Groendyk_(),https://ballotpedia.org/Gidget_Groendyk
+5470,5470,P00008151,"JANSON, JAN",President,Challenger,,Republican Party,Jan,Janson,Jan_Janson,Jan_Janson_(),https://ballotpedia.org/Jan_Janson
+5471,5471,P00008169,"GAUL, CALEB",President,Challenger,,Democratic Party,Caleb,Gaul,Caleb_Gaul,Caleb_Gaul_(),https://ballotpedia.org/Caleb_Gaul
+5472,5472,P00008177,"LONG, STEVEN FLOYD",President,Challenger,,Republican Party,Steven,Long,Steven_Long,Steven_Long_(),https://ballotpedia.org/Steven_Long
+5473,5473,P00008193,"AHN, SHINAE MS",President,,,Democratic Party,Shinae,Ahn,Shinae_Ahn,Shinae_Ahn_(),https://ballotpedia.org/Shinae_Ahn
+5474,5474,P00008219,"PRIDMORE, JAY P",President,,,Republican Party,Jay,Pridmore,Jay_Pridmore,Jay_Pridmore_(),https://ballotpedia.org/Jay_Pridmore
+5475,5475,P00008235,"ARTH, MICHAEL E.",President,Challenger,,Democratic Party,Michael,Arth,Michael_Arth,Michael_Arth_(),https://ballotpedia.org/Michael_Arth
+5476,5476,P00008284,"PENNINGTON JR, MEREDITHE FLOYD",President,Challenger,,Independent,Meredithe,Pennington jr,Meredithe_Pennington jr,Meredithe_Pennington jr_(),https://ballotpedia.org/Meredithe_Pennington jr
+5477,5477,P00008334,"LEFEVRE, WARNER ALEX",President,,,Democratic Party,Warner,Lefevre,Warner_Lefevre,Warner_Lefevre_(),https://ballotpedia.org/Warner_Lefevre
+5478,5478,P00008342,"COLLINSON, SEAN",President,Challenger,,Independent,Sean,Collinson,Sean_Collinson,Sean_Collinson_(),https://ballotpedia.org/Sean_Collinson
+5479,5479,P00008391,"MCGURN, MATTHEW JAMES MR",President,Challenger,,None,Matthew,Mcgurn,Matthew_Mcgurn,Matthew_Mcgurn_(),https://ballotpedia.org/Matthew_Mcgurn
+5480,5480,P00008425,"TURNER, GARY C",President,Challenger,,Democratic Party,Gary,Turner,Gary_Turner,Gary_Turner_(),https://ballotpedia.org/Gary_Turner
+5481,5481,P00008433,"KARAFFA, DAVID AARON MR",President,Challenger,,Independent,David,Karaffa,David_Karaffa,David_Karaffa_(),https://ballotpedia.org/David_Karaffa
+5482,5482,P00008441,"HOPPER, JEREMIAH JAMES SR.",President,Challenger,,Independent,Jeremiah,Hopper,Jeremiah_Hopper,Jeremiah_Hopper_(),https://ballotpedia.org/Jeremiah_Hopper
+5483,5483,P00008490,"HURST, WILLIAM JOSEPH",President,Challenger,,Libertarian Party,William,Hurst,William_Hurst,William_Hurst_(),https://ballotpedia.org/William_Hurst
+5484,5484,P00008532,"BRADFORD, DAPHNE DENISE",President,Challenger,,Democratic Party,Daphne,Bradford,Daphne_Bradford,Daphne_Bradford_(),https://ballotpedia.org/Daphne_Bradford
+5485,5485,P00008540,"LEE, SEYMOUR ART",President,,,Libertarian Party,Seymour,Lee,Seymour_Lee,Seymour_Lee_(),https://ballotpedia.org/Seymour_Lee
+5486,5486,P00008557,"HUDSON HALE, MICHELLE R",President,Challenger,,Republican Party,Michelle,Hudson hale,Michelle_Hudson hale,Michelle_Hudson hale_(),https://ballotpedia.org/Michelle_Hudson hale
+5487,5487,P00008573,"SIMPSON, GLENN SCOTT ALLISTAIR MR.",President,,,Independent,Glenn,Simpson,Glenn_Simpson,Glenn_Simpson_(),https://ballotpedia.org/Glenn_Simpson
+5488,5488,P00008623,"MCMURRAY, JENNIFER",President,Challenger,,Democratic Party,Jennifer,Mcmurray,Jennifer_Mcmurray,Jennifer_Mcmurray_(),https://ballotpedia.org/Jennifer_Mcmurray
+5489,5489,P00008672,"GRAY, JULIAN LAPAUL DECARLO",President,Challenger,,Independent,Julian,Gray,Julian_Gray,Julian_Gray_(),https://ballotpedia.org/Julian_Gray
+5490,5490,P00008680,"YEANDLE, JENNIFER MS.",President,Challenger,,Independent,Jennifer,Yeandle,Jennifer_Yeandle,Jennifer_Yeandle_(),https://ballotpedia.org/Jennifer_Yeandle
+5491,5491,P00008722,"NICHOLS, CURT",President,Challenger,,Green Party,Curt,Nichols,Curt_Nichols,Curt_Nichols_(),https://ballotpedia.org/Curt_Nichols
+5492,5492,P00008748,"COX, ADRIAN J 1999",President,Challenger,,Democratic Party,Adrian,Cox,Adrian_Cox,Adrian_Cox_(),https://ballotpedia.org/Adrian_Cox
+5493,5493,P00008763,"OJEDA, RICHARD NEECE II",President,Challenger,,Democratic Party,Richard,Ojeda,Richard_Ojeda,Richard_Ojeda_(),https://ballotpedia.org/Richard_Ojeda
+5494,5494,P00008797,"SMALLEY, NADIA BAHIA",President,Challenger,,Democratic Party,Nadia,Smalley,Nadia_Smalley,Nadia_Smalley_(),https://ballotpedia.org/Nadia_Smalley
+5495,5495,P00008839,"PINKNEY BUTTS, REV PAMELA M",President,Challenger,,Other,Rev,Pinkney butts,Rev_Pinkney butts,Rev_Pinkney butts_(),https://ballotpedia.org/Rev_Pinkney butts
+5496,5496,P00008854,"ALLEN, DARCIE",President,Challenger,,Independent,Darcie,Allen,Darcie_Allen,Darcie_Allen_(),https://ballotpedia.org/Darcie_Allen
+5497,5497,P00008862,"SZYDLOWSKI- DE JESUS, LUIS MR.",President,Challenger,,Independent,Luis,Szydlowski- de jesus,Luis_Szydlowski- de jesus,Luis_Szydlowski- de jesus_(),https://ballotpedia.org/Luis_Szydlowski- de jesus
+5498,5498,P00008870,"GALASKA, KEITH",President,Challenger,,New Alliance,Keith,Galaska,Keith_Galaska,Keith_Galaska_(),https://ballotpedia.org/Keith_Galaska
+5499,5499,P00008888,"HAMBRICK, MICHAEL LAMONT MR. SR.",President,Challenger,,Independent,Michael,Hambrick,Michael_Hambrick,Michael_Hambrick_(),https://ballotpedia.org/Michael_Hambrick
