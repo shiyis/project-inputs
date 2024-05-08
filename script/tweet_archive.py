@@ -2,24 +2,6 @@ import tweepy
 import pandas as pd
 import time
 
-# parser = argparse.ArgumentParser()
-# parser.add_argument('--name', help='cand name')
-# parser.add_argument('--file', help='output file')
-# args = parser.parse_args()
-
-# consumer_key = "YOUR KEY"
-# consumer_secret = "YOUR KEY"
-# bearer_token = "YOUR KEY"
-# access_token = "YOUR KEY"
-# access_token_secret = "YOUR KEY"
-
-consumer_key = ""
-consumer_secret = ""
-bearer_token = ""
-access_token = ''
-access_token_secret = ''
-
-# Replace with your own search query
 
 client = tweepy.Client(
     bearer_token=bearer_token,
@@ -31,35 +13,45 @@ client = tweepy.Client(
 )
 
 
-i = 6
 
-while i >= 0:
-    cands = pd.read_csv(f"./input/candidates_{i}.csv")
-    i -= 1
+def extract_tweet(row):
+    try:
+        response = client.get_user(username=row["id"])
+        id = response.data.id
+
+        tweets = tweepy.Paginator(client.get_users_tweets,
+            id=id,
+            tweet_fields=["context_annotations", "id", "created_at", "geo", "text"],
+            max_results=100,
+        ).flatten(limit=3200)
+
+        # Pulling information from tweets iterable object and adding relevant tweet information in our data frame
+        user_tweets = []
+        for tweet in tweets:
+            user_tweets.append(
+                {
+                    "Created at": tweet.created_at,
+                    "User ID": tweet.id,
+                    "Text": tweet.text,
+                }
+        return user_tweets
+    except ValueError:
+        pass
+
+
+def main():
+    parser = argparse.ArgumentParser(description='Extract tweets from Twitter user timeline')
+    parser.add_argument('file_path', type=str, help='Path to the file containing candidates info')
+    args = parser.parse_args()
+    cands = pd.read_csv(args.file_path)
+
     for n, row in cands.iterrows():
-        try:
-            response = client.get_user(username=row["id"])
-            id = response.data.id
+        print(f"Extracting tweets for {row[""]}...")
+        df_user_tweets = pd.DataFrame(extract_tweets(row["id"]))
+        df_user_tweets.to_csv("./output/" + row["filename"])
+        time.sleep(10)
 
-            tweets = tweepy.Paginator(client.get_users_tweets,
-                id=id,
-                tweet_fields=["context_annotations", "id", "created_at", "geo", "text",],
-                max_results=100,
-            ).flatten(limit=3200)
 
-            # Pulling information from tweets iterable object and adding relevant tweet information in our data frame
-            user_tweets = []
-            for tweet in tweets:
-                user_tweets.append(
-                    {
-                        "Created at": tweet.created_at,
-                        "User ID": tweet.id,
-                        "Text": tweet.text,
-                    }
-                )
-            df_user_tweets = pd.DataFrame(user_tweets)
-            print(df_user_tweets)
-            df_user_tweets.to_csv("./data/" + row["filename"])
-            time.sleep(20)
-        except ValueError:
-            pass
+if __name__ == "__main__":
+    main()
+
