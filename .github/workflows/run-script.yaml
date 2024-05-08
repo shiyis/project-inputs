@@ -1,0 +1,33 @@
+name: Extract Tweets
+
+on:
+  schedule:
+    - cron: '0 0 * * 0'  # Schedule to run at midnight every Sunday
+
+jobs:
+  extract_tweets:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      - name: Execute Shell Script
+        run: |
+          chmod +x script.sh
+          ./script.sh ./data
+
+      - name: Commit and Push Changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Update tweets [skip ci]"
+          branch: ${{ github.ref }}
+
+      - name: Push Changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
