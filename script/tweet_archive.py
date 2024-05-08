@@ -46,7 +46,7 @@ def main():
     cands = pd.read_csv(args.file_path)
 
     for n, row in cands.iterrows():
-        print(f"Extracting tweets for {row[""]}...")
+        print(f"Extracting tweets for {row["CAND_NAME"]}...")
         df_user_tweets = pd.DataFrame(extract_tweets(row["id"]))
         df_user_tweets.to_csv("./output/" + row["filename"])
         time.sleep(10)
